@@ -1,0 +1,125 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2447223",
+  "tailles": [
+    "S / 158-170 cm",
+    "M / 168-180 cm",
+    "L / 178-190 cm",
+    "XL / 188-210 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Commencal Meta Power TR Ride Sram SX Eagle 12V 630 Wh 29'' Gris Foncé",
+  "marque": "Commencal",
+  "description": "Le Meta Power TR est tout simplement notre version de ce que doit être le Trail selon nous : monter, descendre, sauter, jouer et finalement recommencer, encore et encore. Son développement s'est réalisé autour de trois axes principaux : nervosité, réactivité et agilité. Le vélo parfait pour se faire plaisir sur la majorité des trails autour du globe ! Avec ses 140mm de débattement à l'arrière et ses 150mm à l'avant, il est fait pour ceux qui estiment que s'amuser, quelle que soit la nature du terrain, reste le plus important !\r\n\r\nEn tant que marque eBike et Gravity, nous savons qu'il est indispensable de collaborer avec des spécialistes reconnus. Équiper le Meta Power 29 du moteur Shimano EP8 était donc un choix évident :\r\n-Il est doté d'un couple élevé (85 N.m), tandis que ses courbes de puissance sont optimisées.\r\n-Il en résulte un vélo plus souple pour un meilleur contrôle du grip et plus réactif au coup de pédale.\r\n-La batterie de 630 Wh décuple ses capacités : parfait pour partir toute la journée.\r\n-La position du moteur est pensée pour pouvoir descendre la batterie au maximum et optimiser la répartition des masses.\r\n\r\nEn plus de tout ce travail de fond, nous proposons désormais, comme sur le Meta Power SX et le Meta TR, le Meta SX ou le Clash, un Flip Chip sur la rallonge de l'amortisseur afin d'ajuster au mieux la géométrie, et ainsi s'adapter à votre style ! Ce système permet en quelques secondes d'influencer la hauteur du boîtier de pédalier ainsi que les angles de direction et de selle. Selon vos préférences, vous avez le choix entre un vélo dynamique, parfait pour les grosses sorties de pédalage, ou plus progressif, idéal pour des journées en Bike Park ou sur des lignes plus engagées.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/223/447223/2447223/4683540",
+  "mpn": "22METAPWTRRIM",
+  "gtin13": "22180102",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-180 cm",
+      "stock": 1,
+      "prix": 4499.99,
+      "mpn": "22METAPWTRRIM",
+      "sku": "2184932",
+      "gtin13": "22180102",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2491594-vtt_electrique_tout_suspendu_commencal_meta_power_tr_ride_sram_sx_eagle_12v_630_wh_29___gris_fonce"
+    }
+  ],
+  "informations": {
+    "poids": "23.5 kg",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : 2022 Meta Power TR, 140 mm, 29'', Alloy 6066, triple butted tubes, T4, T6. Enduro bearings",
+      "fourche": "Rockshox 35 Gold RL, 150 mm travel, 29'', DebonAir, (Boost 15 x 110 mm), 44 mm offset, 0 Token",
+      "amortisseur": "RockShox Deluxe Select +, 210 x 55 mm, DebonAir"
+    },
+    "assistance électrique": {
+      "moteur": "Shimano DU-EP800, 85 Nm, 250 W",
+      "batterie": "Shimano BT-E8036, 630 Wh",
+      "écran": "Shimano SM-EM800, LCD colored display featuring: Clock, Assist mode display, Battery charge level, Current Speed, Maximum speed, Average speed, Trip distance, Trip time, Estimated range, Range overview, Cadence, Human output power (as scale indicator), Calorie setting, Maintenance alert, Bluetooth LE connection (for E-Tube Project communication)"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram SX Eagle, 1x12-vitesses",
+      "dérailleur arrière": "Sram SX Eagle, 12-vitesses",
+      "cassette": "Sram PG-1210, 11-50 Dents",
+      "chaîne": "Sram NX Eagle",
+      "pédalier": "Shimano FC-EM900, 160 mm crank arms / Chainring : E13 E*Spec Plus EP8, 32t, Narrow-Wide, direct mount"
+    },
+    "équipements": {
+      "freins": "Sram Guide RE, 4 pistons, MatchMaker compatible, disc Sram G2 Cleansweep 200/200 mm, 6-bolt",
+      "selle": "Fizik Terra Aidon X5, S-Alloy Mobius rails",
+      "tige de selle": "KS Rage-I, 31.6 mm, travel: 125 mm on S, 170 mm on M/L, 190 mm on XL, SouthPaw alloy remote"
+    },
+    "roues": {
+      "jantes": "Spank Spike Race 33, 29'', 32h, 28 mm inner width",
+      "pneus": "Maxxis DHR II 29\"x2.4\" WT, 3C Maxx Terra, Exo+ casing, TR"
+    },
+    "direction": {
+      "cintre": "Ride Alpha R20 Power On,  Internal Di2 cable routing - 31.8 mm, 760 mm width, 20 mm rise, Alloy 6061 on S - 31.8 mm, 780 mm width, 27 mm rise, Alloy 6061 on M / L - 31.8 mm, 800 mm width, 27 mm rise, Alloy 6061 on XL",
+      "poignées": "ODI Elite Motion, Soft pro compound, single clamp, black",
+      "potence": "Ride Alpha Freeride 40 mm extension, 31,8 mm",
+      "jeu de direction": "Acros ZS56/ZS66, Alloy cups, sealed bearings"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 579,
+      "longueur base (mm)": 453,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1230,
+      "stack (mm)": 604,
+      "reach (mm)": 440
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 453,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1252,
+      "stack (mm)": 609,
+      "reach (mm)": 460
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 626,
+      "longueur base (mm)": 453,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1280,
+      "stack (mm)": 613,
+      "reach (mm)": 485
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 651,
+      "longueur base (mm)": 453,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1304,
+      "stack (mm)": 613,
+      "reach (mm)": 510
+    }
+  ]
+}

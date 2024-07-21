@@ -1,0 +1,87 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2589477",
+  "tailles": [
+    "S / 157-170 cm",
+    "M / 167-177 cm",
+    "L / 175-188 cm",
+    "XL / 185-198 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Rocky Mountain Altitude Powerplay Alloy 30 Deore 11V 720Wh 29'' Coil Bleu Jaune 2023",
+  "marque": "Rocky Mountain",
+  "description": "Conçu avec notre système de motorisation Dyname 4.0, l'Altitude Powerplay a tout ce dont vous avez besoin pour des sorties d'enduro électrifiées.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/477/589477/2589477/5229694",
+  "mpn": "B0204XL3",
+  "gtin13": "770416452587",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-198 cm",
+      "stock": 5,
+      "prix": 4699.99,
+      "mpn": "B0204XL3",
+      "sku": "2587433",
+      "gtin13": "770416452587",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2714386-vtt_electrique_tout_suspendu_rocky_mountain_altitude_powerplay_alloy_30_deore_11v_720wh_29___coil_bleu_jaune_2023"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 170,
+    "débattement cadre (mm)": 160,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 11V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": "587 / 585",
+      "longueur base (mm)": "439 / 436",
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": "63.5 / 64.3",
+      "angle tube de selle (°)": "75.5 / 76.3",
+      "empattement (mm)": "1210 / 1207",
+      "stack (mm)": "629 / 623",
+      "reach (mm)": "425 / 433"
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": "612 / 610",
+      "longueur base (mm)": "439 / 436",
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": "63.5 / 64.3",
+      "angle tube de selle (°)": "75.5 / 76.3",
+      "empattement (mm)": "1237 / 1232",
+      "stack (mm)": "628 / 623",
+      "reach (mm)": "450 / 458"
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": "639 / 637",
+      "longueur base (mm)": "439 / 436",
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": "63.5 / 64.3",
+      "angle tube de selle (°)": "75.5 / 76.3",
+      "empattement (mm)": "1264 / 1261",
+      "stack (mm)": "638 / 632",
+      "reach (mm)": "475 / 483"
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": "673 / 671",
+      "longueur base (mm)": "439 / 436",
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": "63.5 / 64.3",
+      "angle tube de selle (°)": "75.5 / 76.3",
+      "empattement (mm)": "1301 / 1298",
+      "stack (mm)": "652 / 645",
+      "reach (mm)": "508 / 513"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2706506",
+  "tailles": [
+    "M / 169-178 cm",
+    "L / 177-186 cm",
+    "XL / 185-197 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Cube Stereo Hybrid One55 C:68X TM 750 Shimano Deore XT 12V 750 Wh 29'' Vert Olive 2024",
+  "marque": "Cube",
+  "description": "Vitesse. Intégration. Poids allégé. Voici les qualités distinctives définissant le Cube Stereo Hybrid One55 C:68X et permettant d’utiliser jusqu’à six types de fibre différents pour répondre aux besoins spécifiques de chaque partie du cadre. Il en résulte un cadre jusqu’à 20 % plus léger comparé au cadre du Stereo Hybrid 140, mais également plus rigide, et suffisamment robuste pour s’attaquer aux sentiers les plus accidentés. Son angle de direction ajustable et sa plus grande portée contribuent à un pilotage inspirant plus de confiance aux pilotes et offrant une sensation contrôle permettant de faire des choix de trajectoires plus audacieux même à vitesse élevée grâce aux 150 mm de débattement offerts au niveau de sa roue arrière. Son passage de câbles intégralement en interne permet de réduire l’encombrement et les contraintes d’entretien, tandis que son unité de commande Bosch System se loge élégamment à l’intérieur du tube supérieur et peut être contrôlée par Bluetooth via la mini-télécommande. Cet ensemble ne connait aucune limite.\r\n\r\nLe Cube Stereo Hybrid One55 C:68X TM 750 est l’un des VTTAE les plus légers jamais créé par la marque, et ceci grâce à la technologie carbone C:68X et la batterie de 750 Wh haute capacité. Son Agile Geometry, combinée à sa fourche Fox 38 Factory Grip2 de 160 mm à l’avant et son amortisseur Float X2 Factory à l’arrière, a été conçue pour vous permettre de vous lancer à l’assaut de n’importe quelle descente alpine, à n’importe quelle vitesse. Son unité de commande intégrée Bosch System et son unité motrice Bosch CX quatrième génération, avec un couple pouvant atteindre 85 Nm, fonctionnent en parfaite harmonie avec la légendaire transmission Shimano Deore XT 1x12 vitesses pour vous assister, quelle que soit la route que vous empruntez. Le tout est gardé sous contrôle par une paire de freins à disque hydrauliques Shimano Deore XT avec disques de 203 mm à l’avant et à l’arrière. Enfin, sa paire de roues Newmen Evolution, ses pneus Maxxis Assegai 2,5 pouces et Minion DHR II 2,4 pouces, ainsi que sa tige de selle télescopique Fox Transfer Factory vous garantissent d’avoir toujours le caoutchouc en contact avec le sol, là où il devrait être.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/506/706506/2706506/5453362",
+  "mpn": "736510M",
+  "gtin13": "4054571445445",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 169-178 cm",
+      "stock": 1,
+      "prix": 7199.99,
+      "mpn": "736510M",
+      "sku": "2584817",
+      "gtin13": "4054571445445",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2825420-vtt_electrique_tout_suspendu_cube_stereo_hybrid_one55_c_68x_tm_750_shimano_deore_xt_12v_750_wh_29___vert_olive_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-186 cm",
+      "stock": 1,
+      "prix": 7199.99,
+      "mpn": "736510L",
+      "sku": "2584808",
+      "gtin13": "4054571445452",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2825420-vtt_electrique_tout_suspendu_cube_stereo_hybrid_one55_c_68x_tm_750_shimano_deore_xt_12v_750_wh_29___vert_olive_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-197 cm",
+      "stock": 1,
+      "prix": 7999,
+      "mpn": "736510XL",
+      "sku": "2654835",
+      "gtin13": "4054571445469",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2825420-vtt_electrique_tout_suspendu_cube_stereo_hybrid_one55_c_68x_tm_750_shimano_deore_xt_12v_750_wh_29___vert_olive_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "olive´n´chrome"
+    }
+  ],
+  "informations": {
+    "poids": "22.9 kg",
+    "poids maximum": "135 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 160,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : C:68X Monocoque Advanced Twin Mold Technology, Efficient Trail Control, FSP 4-Link, Agile Trail Geometry, Boost 148, UDH, Fully Integrated Battery, Advanced Internal Cable Routing, Width tires maximum: 66 mm",
+      "fourche": "Fox 38 Float Factory FIT GRIP2, Tapered, Boost 15x110 mm, E-Bike Tune, Kashima Coated, 160 mm travel",
+      "amortisseur": "Fox Float X2 Factory, 230x60 mm, High/Low Speed Rebound & Compression w/ 2-Position Lever, Kashima Coated / Entretoises d’amortisseur : 30x8 mm (Haut), DU-Bushing 12.7 mm (Bas)"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Drive Unit Performance CX Generation 4 (85 Nm) Cruise (250 Watt), Smart System, 25 km/h",
+      "batterie": "Bosch PowerTube 750 Wh",
+      "commande": "Bosch System Control, incl. Mini Remote"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore XT SL-M8100-IR, Direct Attach, 1x12-vitesses",
+      "dérailleur arrière": "Shimano Deore XT RD-M8100-SGS, ShadowPlus, 12-vitesses",
+      "cassette": "Shimano Deore XT CS-M8100, 10-51 Dents",
+      "chaîne": "Shimano CN-M8100",
+      "pédalier": "Acid MTB Hybrid Pro, 165 mm, 34 Dents"
+    },
+    "guide-chaîne": "Reverse Flip-Guide E-Chain Guide, Direct Mount, Gen4",
+    "équipements": {
+      "freins": "Shimano Deore XT BR-M8120, Hydr. Disc Brake, (203/203)",
+      "selle": "Natural Fit Venec",
+      "tige de selle": "Fox Transfer Factory, 31.6 mm, Kashima Coated"
+    },
+    "roues": {
+      "jantes": "Newmen Evolution SL E.G. 30, 28/28 Spokes, Boost 15x110/12x148 mm, Tubeless Ready",
+      "pneus": "Avant : Maxxis Assegai, MaxxGrip/EXO+, Tubeless Ready, 29x2.5\" WT / Arrière : Maxxis Minion DHR II, MaxxGrip/DoubleDown, Tubeless Ready, 29x2.4\" WT"
+    },
+    "direction": {
+      "cintre": "Race Face Turbine R 35, 800 mm",
+      "poignées": "Acid Disrupt, Soft Compound",
+      "potence": "Race Face Turbine R 35",
+      "jeu de direction": "Acros AZF-675, ICR (Integrated Cable Routing), Top Zero-Stack 1 1/2\" (ZS 56 mm), Bottom Zero-Stack 1 1/2\" (ZS 56 mm), Fiber Inserts for Angle Adjustment"
+    },
+    "référence": 736510
+  },
+  "geometries": [
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 405,
+      "tube supérieur* (mm)": "599 / 601",
+      "longueur base (mm)": 454,
+      "douille de direction (mm)": 105,
+      "angle de direction* (°)": "64.4 / 65",
+      "angle tube de selle* (°)": "75.7 / 75.5",
+      "empattement* (mm)": "1234 / 1226",
+      "stack* (mm)": "624 / 629",
+      "reach* (mm)": "449 / 447",
+      "longueur tige de selle (mm)": 418,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur* (mm)": "626 / 629",
+      "longueur base (mm)": 454,
+      "douille de direction (mm)": 115,
+      "angle de direction* (°)": "64.4 / 65",
+      "angle tube de selle* (°)": "75.7 / 75.5",
+      "empattement* (mm)": "1263 / 1255",
+      "stack* (mm)": "633 / 635",
+      "reach* (mm)": "474 / 472",
+      "longueur tige de selle (mm)": 475,
+      "débattement tige de selle (mm)": 175
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur* (mm)": "657 / 659",
+      "longueur base (mm)": 454,
+      "douille de direction (mm)": 135,
+      "angle de direction* (°)": "64.4 / 65",
+      "angle tube de selle* (°)": "75.7 / 75.5",
+      "empattement* (mm)": "1295 / 1287",
+      "stack* (mm)": "651 / 653",
+      "reach* (mm)": "497 / 495",
+      "longueur tige de selle (mm)": 475,
+      "débattement tige de selle (mm)": 175
+    }
+  ]
+}

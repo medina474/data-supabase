@@ -1,0 +1,119 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2680012",
+  "tailles": [
+    "S / 158-170 cm",
+    "M / 168-180 cm"
+  ],
+  "name": "VTT Electrique Tout-Suspendu GasGas MXC 4 Sram GX Eagle 12V 630Wh MX (29/27.5'') Rouge",
+  "marque": "GASGAS",
+  "description": "Gare aux envieux ! Avec son coloris rouge sangria, le GasGas MXC 4 va attirer les regards sur la piste. Bâti sur le châssis carbone All Mountain avec un bras oscillant arrière adapté à la taille, ce vélo offre une géométrie super progressive, un angle de tube de direction prêt à tout et une configuration de roue MX (mulet). Avec son débattement de 160/140 mm, vous obtenez une machine agréable, agile et surtout amusante. Les caches protecteurs résistants innovants et le sabot de protection en plastique limitent l'usure du cadre et offrent des options de personnalisation ultérieures incroyables.\r\n\r\nLe système de propulsion très attendu SRAM Eagle Powertrain produit un couple de 90 Nm et une puissance maximale de 680 W lorsque vous en avez le plus besoin. La batterie est une SRAM Eagle Powertrain de 630 Wh. L’écran SRAM Eagle Powertrain AXS Bridge intégré au tube supérieur affiche toutes les informations essentielles dont vous avez besoin, sans créer de distraction sur la piste. ",
+  "image": "https://product-cdn-frz.alltricks.com/medium/12/680012/2680012/5406623",
+  "mpn": "3102407047",
+  "gtin13": "9010654129829",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 158-170 cm",
+      "stock": 1,
+      "prix": 5999.99,
+      "mpn": "3102407044",
+      "sku": "2666894",
+      "gtin13": "9010654129812",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2805133-vtt_electrique_tout_suspendu_gasgas_mxc_4_sram_gx_eagle_12v_630wh_mx__29_27_5____rouge"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-180 cm",
+      "stock": 1,
+      "prix": 5999.99,
+      "mpn": "3102407047",
+      "sku": "2666857",
+      "gtin13": "9010654129829",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2805133-vtt_electrique_tout_suspendu_gasgas_mxc_4_sram_gx_eagle_12v_630wh_mx__29_27_5____rouge"
+    }
+  ],
+  "informations": {
+    "poids": "23,3 kg",
+    "genre": "HommeFemme",
+    "débattement fourche (mm)": 160,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "29/27.5\", carbone, Batterie intégrée, Boost, 140 mm",
+      "fourche": "RockShox Lyrik Select+, DebonAir+, Air, 160 mm, tapered",
+      "amortisseur": "RockShox Deluxe Select+, Air, 205x60 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Sram Eagle Powertrain Drive Unit, 250 W, 90 Nm",
+      "batterie": "Sram Eagle Powertrain, 630 Wh (amovible)",
+      "écran": "Sram Eagle Powertrain AXS Bridge Display"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX Eagle, Single Click, 1x12-vitesses",
+      "dérailleur arrière": "Sram GX Eagle, 12-vitesses",
+      "cassette": "Sram PG-1210, 11-50 dts",
+      "chaîne": "Sram SX Eagle",
+      "pédalier": "Sram GX Eagle E-MTB 160 mm, plateau Sram XX Eagle"
+    },
+    "équipements": {
+      "freins": "Freins à disques hydrauliques Sram DB8, 4 pistons, disques Sram Centerline, 220/200 mm, 6 trous",
+      "selle": "Selle San Marco GND",
+      "tige de selle": "GasGas, 34.9 mm, Tige de selle télescopique (Dropper Post)"
+    },
+    "roues": {
+      "jantes": "Mach 1 TRUCKY 30, oeilletée, Tubeless Ready, 15x110/12x148 mm, Axe traversant, roue libre HG",
+      "pneu avant": " Maxxis Assegai, 63-622, 29x2.5'' ",
+      "pneu arrière": " Maxxis Minion DHR II, 62-584, 27.5x2.4''"
+    },
+    "direction": {
+      "cintre": "GasGas Riser 35 mm, 780 mm, Sweep: 9 °, Rise: 20 mm",
+      "poignées": "GasGas MTB, Poignées à vis",
+      "potence": "GasGas 35, 0 °, Ahead, 40 mm",
+      "jeu de direction": "Acros AZX-579 ZS56/ZS56"
+    },
+    "poids maximal": "130 kg : pilote + matériel"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 588,
+      "tube de direction (mm)": 120,
+      "longueur de base (mm)": 442,
+      "angle de direction (°)": 64.5,
+      "angle du tube de selle (°)": 74,
+      "empattement (mm)": 1228,
+      "stack (mm)": 644,
+      "reach (mm)": 445
+    },
+    {
+      "taille du cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 613,
+      "tube de direction (mm)": 135,
+      "longueur de base (mm)": 445,
+      "angle de direction (°)": 64.5,
+      "angle du tube de selle (°)": 74,
+      "empattement (mm)": 1262,
+      "stack (mm)": 658,
+      "reach (mm)": 470
+    },
+    {
+      "taille du cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 638,
+      "tube de direction (mm)": 150,
+      "longueur de base (mm)": 450,
+      "angle de direction (°)": 64.5,
+      "angle du tube de selle (°)": 74,
+      "empattement (mm)": 1299,
+      "stack (mm)": 671,
+      "reach (mm)": 495
+    }
+  ]
+}

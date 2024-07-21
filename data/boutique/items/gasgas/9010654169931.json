@@ -1,0 +1,118 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2680020",
+  "tailles": [
+    "S / 158-170 cm",
+    "M / 168-180 cm"
+  ],
+  "name": "VTT Electrique Tout-Suspendu GasGas ECA 1 Tektro 10V 720Wh 29'' Noir",
+  "marque": "GASGAS",
+  "description": "Pour rouler sans limite, le GasGas ECA 1 est le choix idéal. Véritable prouesse en Enduro, le cadre en alliage offre la géométrie idéale pour maîtriser les terrains abrupts et techniques et les grosses lignes de saut. Les suspensions, de 170 mm à l'avant et 160 mm à l'arrière, assurent la stabilité sur piste et repoussent les limites. Le moteur Yamaha PW-X3 de 85 Nm offre une incroyable technologie d'assistance au pédalage afin de maîtriser côtes et descentes, tandis que la batterie de 720 Wh permet de rouler des heures durant sans souci !",
+  "image": "https://product-cdn-frz.alltricks.com/medium/20/680020/2680020/5406706",
+  "mpn": "3102341644",
+  "gtin13": "9010654169931",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 158-170 cm",
+      "stock": 1,
+      "prix": 4299.99,
+      "mpn": "3102341644",
+      "sku": "2666697",
+      "gtin13": "9010654169931",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2805134-vtt_electrique_tout_suspendu_gasgas_eca_1_tektro_10v_720wh_29___noir"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-180 cm",
+      "stock": 1,
+      "prix": 4299.99,
+      "mpn": "3102341646",
+      "sku": "2666755",
+      "gtin13": "9010654158867",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2805134-vtt_electrique_tout_suspendu_gasgas_eca_1_tektro_10v_720wh_29___noir"
+    }
+  ],
+  "informations": {
+    "poids": "25,6 kg",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 170,
+    "débattement cadre (mm)": 160,
+    "matière du cadre": "Aluminium",
+    "groupe": "Tektro Gemini 10V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "29\", alliage 6061, Batterie intégrée, Boost, 160 mm",
+      "fourche": "RockShox Domain R, DebonAir, Air, 170 mm, tapered",
+      "amortisseur": "RockShox Super Deluxe Select+, Ressort, 205x65 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Yamaha PW-X3, 250 W, 85 Nm",
+      "batterie": "Simplo, 720 Wh, 36 V (amovible)",
+      "écran": "Yamaha Display A, LCD-Display, Micro-USB"
+    },
+    "transmission": {
+      "manette de dérailleur": "Tektro SL-M5000, 1x10-vitesses",
+      "dérailleur arrière": "Tektro RD-M5100, 10-vitesses",
+      "cassette": "Tektro CS-M5000, 11-50 dts",
+      "chaîne": "KMC e10S",
+      "pédalier": "GasGas EC40, Aluminium forgé, ISIS, plateau GasGas, Narrow Wide, 38 dts"
+    },
+    "équipements": {
+      "freins": "Freins à disques hydrauliques Sram DB8, 4 pistons, disques Sram Centerline, 200/200 mm, 6 trous",
+      "selle": "GasGas MTB",
+      "tige de selle": "GasGas, 34.9 mm, Tige de selle télescopique (Dropper Post)"
+    },
+    "roues": {
+      "jantes": "Mach 1 TRUCKY 30, oeilletée, Tubeless Ready, 15x110/12x148 mm, Axe traversant, roue libre HG",
+      "pneus": "Continental Trail King, 60-622, 29x2.4''"
+    },
+    "direction": {
+      "cintre": "GasGas Riser 35 mm, 780 mm, Sweep: 9 °, Rise: 20 mm",
+      "poignées": "GasGas MTB, Poignées à vis",
+      "potence": "GasGas 35, 0 °, Ahead, 40 mm",
+      "jeu de direction": "FSA Orbit ZS56/ZS56"
+    },
+    "poids maximal": "130 kg : pilote + matériel"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 506,
+      "tube de direction (mm)": 100,
+      "longueur de base (mm)": 460,
+      "angle de direction (°)": 64,
+      "angle du tube de selle (°)": 72,
+      "empattement (mm)": 1241,
+      "stack (mm)": 620,
+      "reach (mm)": 445
+    },
+    {
+      "taille du cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 530,
+      "tube de direction (mm)": 105,
+      "longueur de base (mm)": 460,
+      "angle de direction (°)": 64,
+      "angle du tube de selle (°)": 72,
+      "empattement (mm)": 1258,
+      "stack (mm)": 625,
+      "reach (mm)": 460
+    },
+    {
+      "taille du cadre": "L",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 561,
+      "tube de direction (mm)": 110,
+      "longueur de base (mm)": 460,
+      "angle de direction (°)": 64,
+      "angle du tube de selle (°)": 72,
+      "empattement (mm)": 1285,
+      "stack (mm)": 629,
+      "reach (mm)": 485
+    }
+  ]
+}

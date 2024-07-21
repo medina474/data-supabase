@@ -1,0 +1,147 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2495768",
+  "tailles": [
+    "XS / 145-155 cm",
+    "S / 155-165 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Trek Powerfly FS 4 EQ Shimano Deore 10V 625 Wh 27.5'' Gris Foncé / Noir Gén 3",
+  "marque": "Trek",
+  "description": "Le Powerfly FS 4 Equipped est un VTT tout suspendu qui vous permet à la fois de vous aventurer sur des pistes de trail accidentées et de vous rendre au travail. La configuration de la suspension souple absorbe les rugosités du terrain tandis que la puissante transmission électrique de Bosch dope votre capacité à grimper et à avaler les kilomètres sur les singletracks. La nouvelle commande LED et l’écran Kiox s’associent à l’application eBike Flow pour le suivi d’activité, la navigation et la connectivité Bluetooth. De plus, il possède toutes les caractéristiques utilitaires dont vous avez besoin pour vos déplacements quotidiens tels que les garde-boue, des éclairages et un porte-bagage arrière.\r\n\r\nVous êtes à la recherche d’un puissant VTTAE tout suspendu qui vous puisse vous emmener à la fois sur les trails et en ville. Vous voulez un vélo tout équipé avec un porte-bagage, des garde-boue et des feux.\r\n\r\nUn cadre aluminium durable qui abrite complètement une batterie de grande autonomie de 625 Wh, un puissant moteur Bosch Performance CX (250 Wh, 85 Nm) qui offre une assistance pouvant atteindre 25 km/h, une commande intelligente LED et un affichage Kiox. Il est aussi doté d’une fourche suspendue SR Suntour de 120 mm, d’un débattement arrière de 100 mm, d’un système de transmission 10 vitesses Shimano, de puissants freins à disque hydrauliques, et d’une tige de selle télescopique.\r\n\r\nCe VTTAE tout suspendu est confortable, performant et rapide sur les surfaces accidentées. La puissante transmission électrique de Bosch et les nombreuses fonctions utilitaires vous emmènent dans toutes vos aventures.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/768/495768/2495768/4891362",
+  "mpn": "5278014",
+  "gtin13": "601842778166",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XS / 145-155 cm",
+      "stock": 12,
+      "prix": 4999,
+      "mpn": "5278014",
+      "sku": "2366403",
+      "gtin13": "601842778166",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2563213-vtt_electrique_tout_suspendu_trek_powerfly_fs_4_eq_shimano_deore_10v_625_wh_27_5___gris_fonce___noir_gen_3"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-165 cm",
+      "stock": 12,
+      "prix": 4999,
+      "mpn": "5278015",
+      "sku": "2365686",
+      "gtin13": "601842778159",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2563213-vtt_electrique_tout_suspendu_trek_powerfly_fs_4_eq_shimano_deore_10v_625_wh_27_5___gris_fonce___noir_gen_3"
+    }
+  ],
+  "informations": {
+    "poids": "M - 26,60 kg / 58,65 lbs",
+    "genre": "HommeFemme",
+    "débattement fourche (mm)": 100,
+    "débattement cadre (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 10V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Aluminium Alpha Platinum, Batterie intégrée amovible (RIB), tube de direction conique, acheminement interne des câbles, Motor Armor, basculeur, fixations de porte-bagages et garde-boue, APB, Boost148, débattement de 100 mm",
+      "fourche": "Taille XS, S : SR Suntour XCR 34, ressort pneumatique, amortisseur LO R, blocage hydraulique, pivot conique, déport de 44 mm, tête de fourche surdimensionnée pour VTTAE, Boost110, axe traversant à écrou 15 mm, débattement de 100 mm Taille M, L, XL : SR Suntour XCR 34, ressort pneumatique, amortisseur LO R, blocage hydraulique, pivot conique, déport de 44 mm, tête de fourche surdimensionnée pour VTTAE, Boost110, axe traversant à écrou 15 mm, débattement de 120 mm",
+      "amortisseur": "SR Suntour Edge R, 190x45 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Performance Line CX, Système intelligent, corps du moteur en magnésium, 85 Nm, assistance limitée à 25 km/h",
+      "batterie": "Bosch PowerTube 625 Wh, système intelligent",
+      "écran": "Bosch Intuvia 100, système intelligent"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M4100, 1x10 vitesses",
+      "dérailleur arrière": "Shimano Deore M5120, chape longue, 10 vitesses",
+      "cassette": "Shimano Deore M4100, 11-46 Dents",
+      "chaîne": "KMC X10",
+      "pédalier": "FSA Bosch CK-220, plateau 36 dents, longueur de 165 mm"
+    },
+    "équipements": {
+      "freins": "Freins à disque hydrauliques Tektro HD-M275, 203/203 mm",
+      "selle": "Bontrager Arvada, rails en acier, largeur de 138 mm",
+      "tige de selle": "Taille XS, S, M : TranzX JD-YSP18, débattement de 100 mm, acheminement interne, 31,6 mm, longueur de 361 mm Taille L, XL : TranzX JD-YSP18, débattement de 130 mm, acheminement interne, 31,6 mm, longueur de 425 mm"
+    },
+    "roues": {
+      "jantes": "Alex MD35, compatible tubeless, 32 trous, largeur 35 mm, valve Presta",
+      "pneus": "Taille XS, S : Bontrager XR3 Comp, tringle rigide, 30 tpi, 27,5x2,35 pouces Taille M, L, XL : Bontrager XR3 Comp, tringle rigide, 30t pi, 29x2,3 pouces"
+    },
+    "direction": {
+      "cintre": "Alliage Bontrager, 31,8 mm, élévation 15 mm, largeur de 720 mm",
+      "poignées": "Bontrager XR Trail Comp, nylon lock-on",
+      "potence": "Taille XS, S : Alliage Bontrager, 31,8 mm, compatible Blendr, 7 degrés, longueur de 60 mm Taille M, L, XL : Alliage Bontrager, 31,8 mm, compatible Blendr, 7 degrés, longueur de 70 mm"
+    },
+    "accessoires": "Garde-boue : Taille XS, S : Garde-boue personnalisable Trek Powerfly 27,5\" - Taille M, L, XL : Garde-boue personnalisable Trek Powerfly 29\" / Béquille : Pletscher Comp Flex 18 / Éclairages : Supernova E3 Mini-2 feu arrière, LED - Herrmans H-Black MR8-E, 180 lumen, 60 lux, LED, feu avant",
+    "couleur": "Matte Dnister Black /Gloss Trek Black"
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "taille des roues (pouces)": 27.5,
+      "tube de selle (mm)": 368,
+      "tube supérieur (mm)": 554,
+      "longueur base (mm)": 468,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68.3,
+      "empattement (mm)": 1170,
+      "stack (mm)": 599,
+      "reach (mm)": 405
+    },
+    {
+      "taille cadre": "S",
+      "taille des roues (pouces)": 37.5,
+      "tube de selle (mm)": 395,
+      "tube supérieur (mm)": 564,
+      "longueur base (mm)": 468,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68.3,
+      "empattement (mm)": 1180,
+      "stack (mm)": 599,
+      "reach (mm)": 415
+    },
+    {
+      "taille cadre": "M",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 589,
+      "longueur base (mm)": 470,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 67.5,
+      "empattement (mm)": 1206,
+      "stack (mm)": 637,
+      "reach (mm)": 430
+    },
+    {
+      "taille cadre": "L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 621,
+      "longueur base (mm)": 470,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 67.5,
+      "empattement (mm)": 1240,
+      "stack (mm)": 646,
+      "reach (mm)": 460
+    },
+    {
+      "taille cadre": "XL",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 646,
+      "longueur base (mm)": 470,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 67.5,
+      "empattement (mm)": 1265,
+      "stack (mm)": 646,
+      "reach (mm)": 485
+    }
+  ]
+}

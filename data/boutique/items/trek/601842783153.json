@@ -1,0 +1,142 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2434033",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-177 cm",
+    "XL / 188-196 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Trek Fuel EXe 9.8 Sram GX Eagle AXS 12V 360 Wh 29'' Noir 2023",
+  "marque": "Trek",
+  "description": "Le Fuel EXe 9.8 GX AXS marque une évolution dans l’univers des VTTAE avec un nouveau moteur électrique optimisé qui intègre une technologie spatiale dans un ensemble petit, mais costaud. Il repose sur un châssis en fibres de carbone à la fois léger, rigide et agile pour garantir des sensations vives et ludiques sur les trails. Et pour ne pas s’arrêter en si bon chemin, il est complété par des roues en carbone, la technologie de changement de vitesse sans fil de Sram GX AXS et un ensemble de suspension soyeuse composé d’une fourche RockShox Lyrik Select+ et d’une suspension arrière SuperDeluxe Select+.\r\n\r\nVous êtes à la recherche d’un vélo de trail vif qui vous donnera les sensations d’un VTT traditionnel sur terrain technique et rapide, mais avec l’avantage de l’assistance au pédalage pour remonter. Vous voulez profiter des toutes dernières technologies à tous les niveaux, depuis le moteur électrique jusqu’à la transmission et bénéficier d’une suspension améliorée qui vous donnera l’impression de flotter sur le trail. Vous ne souhaitez pas perdre les sensations naturelles de la pratique du VTT et vous cherchez un moteur électrique affiné qui vous aidera discrètement pendant vos sorties.\r\n\r\nUn cadre OCLV Mountain Carbon avec une batterie de 360 Wh complètement intégrée et une transmission à démultiplicateur harmonique à anneau à broches, un port de charge intelligent, un affichage DEL intégré et une commande au guidon discrète. Sans oublier une fourche RockShox Lyrik Select+ de 150 mm de débattement avec ressort DebonAir et amortisseur Charger 2.1 RC et une suspension arrière RockShox Super Deluxe Select+ de 140 mm de débattement. Et la cerise sur le gâteau ? Une transmission Sram GX AXS sans fil qui garantit un poste de pilotage minimaliste et sans encombrement.\r\n\r\nLe Fuel EXe 9.8 est un vélo de trail raffiné qui offre juste ce qu’il faut d’assistance dans ces côtes qui brûlent les jambes et qu’il faut gravir avant de pouvoir profiter à nouveau des trails techniques ou fluides en descente. Il est doté d’une technologie tournée vers l’avenir, comme la transmission TQ aux applications spatiales et le changement de vitesse sans fil Sram GX AXS qui garantit un poste de pilotage minimaliste. Et pour conclure, les roues en carbone ainsi que l’ensemble de suspension RockShox amélioré vous permettent de flotter sur le trail, même lorsque les conditions deviennent délicates.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/33/434033/2434033/4660995",
+  "mpn": "5278112",
+  "gtin13": "601842783153",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-165 cm",
+      "stock": 45,
+      "prix": 10699,
+      "mpn": "5278111",
+      "sku": "2358396",
+      "gtin13": "601842783160",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2471574-vtt_electrique_tout_suspendu_trek_fuel_exe_9_8_sram_gx_eagle_axs_12v_360_wh_29___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-177 cm",
+      "stock": 1,
+      "prix": 5599.99,
+      "mpn": "5278112",
+      "sku": "2287715",
+      "gtin13": "601842783153",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2471574-vtt_electrique_tout_suspendu_trek_fuel_exe_9_8_sram_gx_eagle_axs_12v_360_wh_29___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 188-196 cm",
+      "stock": 51,
+      "prix": 10699,
+      "mpn": "5278114",
+      "sku": "2367055",
+      "gtin13": "601842783139",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2471574-vtt_electrique_tout_suspendu_trek_fuel_exe_9_8_sram_gx_eagle_axs_12v_360_wh_29___noir_2023"
+    }
+  ],
+  "informations": {
+    "poids": "18.17 kg",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : OCLV Mountain Carbon, batterie amovible, acheminement interne des câbles, basculeur en alliage, tube de selle de 34,9 mm, fixation supérieure de guide-chaîne, ligne de chaîne de 55 mm, Mino Link, ABP, Boost148, UDH, débattement de 140 mm",
+      "fourche": "RockShox Lyrik Select+, ressort DebonAir, amortisseur Charger 2.1 RC, pivot conique, déport de 44 mm, Boost110, Maxle Stealth 15 mm, débattement de 150 mm",
+      "amortisseur": "RockShox Super Deluxe Select+ RT, 205 x 60 mm"
+    },
+    "assistance électrique": {
+      "moteur": "TQ-HPR50, 50 Nm, 250 watt maximum de puissance continue, 300 watt de puissance en pointe",
+      "batterie": "TQ 360 Wh"
+    },
+    "écran ": "Écran LED de TQ avec Bluetooth et connectivité ANT+",
+    "transmission": {
+      "manette de dérailleur": "Sram GX Eagle AXS, 1x12 vitesses",
+      "dérailleur arrière": "Sram GX Eagle AXS, 12 vitesses",
+      "cassette": "Sram Eagle XG-1275, 10-52 Dents",
+      "chaîne": "Sram GX Eagle, 12 vitesses",
+      "pédalier": "Taille S, M, L, XL : E*thirteen E*spec Plus, 34 dts, 165 mm de long Taille S, M, L, XL : E*thirteen E*spec Race carbone, 34 dts, 165 mm de long"
+    },
+    "équipements": {
+      "freins": "Sram Code R, disque hydraulique à 4 pistons, disques Sram à 6 trous, 200/200 mm",
+      "selle": "Bontrager Arvada, rails en austénite, largeur de 138 mm",
+      "tige de selle": "Taille S : Tige de selle télescopique Bontrager Line Elite, 100 mm de débattement, MaxFlow, acheminement interne, 34,9 mm, longueur de 345 mm Taille M : Tige de selle télescopique Bontrager Line Elite, 150 mm de débattement, MaxFlow, acheminement interne, 34,9 mm, longueur de 440 mm Taille L : Tige de selle télescopique Bontrager Line Elite, 170 mm de débattement, MaxFlow, acheminement interne, 34,9 mm, longueur de 485 mm Taille XL : Tige de selle télescopique Bontrager Line Elite, 200 mm de débattement, MaxFlow, acheminement interne, 34,9 mm, longueur de 550 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Line Elite 30, Tubeless Ready",
+      "pneus": "Bontrager SE5 Team Issue, Tubeless Ready, flancs Core Strength, tringle en aramide, 120 tpi, 29x2,5 pouces"
+    },
+    "direction": {
+      "poignées": "Bontrager XR Trail Elite, nylon lock-on"
+    },
+    "cintre/potence intégré": "Taille S : Potence/cintre intégré Bontrager RSL, OCLV carbon, élévation cintre 27,5 mm, largeur de 820 mm, inclinaison de potence 0, longueur de potence 35 mm Taille M, L, XL : Cintre/potence intégré Bontrager RSL, OCLV carbon, élévation cintre 27,5 mm, largeur de 820 mm, inclinaison de potence 0, longueur de potence 45 mm"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 573,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 69,
+      "empattement (mm)": 1186,
+      "stack (mm)": 623,
+      "reach (mm)": 430
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 69.5,
+      "empattement (mm)": 1215,
+      "stack (mm)": 627,
+      "reach (mm)": 455
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 70.5,
+      "empattement (mm)": 1245,
+      "stack (mm)": 627,
+      "reach (mm)": 485
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 657,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1275,
+      "stack (mm)": 636,
+      "reach (mm)": 510
+    }
+  ]
+}

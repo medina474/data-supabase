@@ -1,0 +1,164 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2705625",
+  "tailles": [
+    "S / 163-170 cm",
+    "M / 165-180 cm",
+    "L / 175-188 cm",
+    "XL / 185-198 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Mondraker Crafty Carbon XR GX/X01 Eagle 12V 750 Wh 29'' Polaris Noir Violet 2024",
+  "marque": "Mondraker",
+  "description": "Les ingénieurs de chez Mondraker mettent à profit tout ce qu'ils savent sur les VTT de performance dans la confection de leurs VTT électriques. Le système de suspension Zero optimisé du Mondraker Crafty Carbon XR améliore son absorption et son fonctionnement général. Si nous ajoutons à cela la technologie Forward Geometry et la fabrication en Stealth Air Full Carbon, le résultat est une agilité spectaculaire, pour le plus grand plaisir du rider. Sa fourche Ohlins RXF 38 et son amortisseur Ohlins TTX Air permettent un contrôle total du fonctionnement dans toutes les situations, aussi compliquées soient-elles. C'est certain, les améliorations apportées au Crafty Carbon XR vous feront vous sentir comme un véritable pro§",
+  "image": "https://product-cdn-frz.alltricks.com/medium/625/705625/2705625/5450587",
+  "mpn": "010.24435",
+  "gtin13": "8435392879910",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 163-170 cm",
+      "stock": 10,
+      "prix": 10799.99,
+      "mpn": "010.24433",
+      "sku": "2564883",
+      "gtin13": "8435392879897",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2824133-vtt_electrique_tout_suspendu_mondraker_crafty_carbon_xr_gx_x01_eagle_12v_750_wh_29___polaris_noir_violet_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-180 cm",
+      "stock": 3,
+      "prix": 10799.99,
+      "mpn": "010.24434",
+      "sku": "2564737",
+      "gtin13": "8435392879903",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2824133-vtt_electrique_tout_suspendu_mondraker_crafty_carbon_xr_gx_x01_eagle_12v_750_wh_29___polaris_noir_violet_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-188 cm",
+      "stock": 1,
+      "prix": 9999.99,
+      "mpn": "010.24435",
+      "sku": "2564733",
+      "gtin13": "8435392879910",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2824133-vtt_electrique_tout_suspendu_mondraker_crafty_carbon_xr_gx_x01_eagle_12v_750_wh_29___polaris_noir_violet_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-198 cm",
+      "stock": 10,
+      "prix": 10799.99,
+      "mpn": "010.24436",
+      "sku": "2564730",
+      "gtin13": "8435392879927",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2824133-vtt_electrique_tout_suspendu_mondraker_crafty_carbon_xr_gx_x01_eagle_12v_750_wh_29___polaris_noir_violet_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Polaris"
+    }
+  ],
+  "informations": {
+    "poids": "23.4 kg",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 170,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram X01 Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Crafty Stealth Air full Carbon, Zero Suspension System optimisé pour e-Bike, chasse de 150 mm, Forward Geometry, batterie interne non-amovible, essieu arrière Boost 12x148 mm, douille de direction conique, biellette supérieure monobloc monopièce, acheminement interne de câbles HHG, roulements étanches capacité max., essieu surdimensionnés 17 mm, capteur de vitesse intégré à la patte arrière du cadre, protections du moteur exclusives en plastique.",
+      "fourche": "Öhlins RXF 38 M.2 29, 170 mm, cartouche TTX18 Twin Tube, pivot conique, essieu Boost 15 x 110 mm, déport 44 mm. Réglages : compression haute vitesse avec mode montée, compression basse vitesse, rebond, précontrainte pneumatique, chambre à air rampe",
+      "amortisseur": "Öhlins TTX Air 205x65 mm. Réglages : compression haute vitesse avec mode montée, compression basse vitesse, rebond, précontrainte pneumatique. Trunnion montage haut, bagues inférieures 25x10 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Performance Line CX-Race (25 km/h) Smart System",
+      "batterie": "Bosch PowerTube 750 Wh",
+      "écran": "Bosch Kiox 500",
+      "commande": "Bosch Mini Remote / Bosch System Controller"
+    },
+    "transmission": {
+      "manette de dérailleur": "SRAM Trigger GX Eagle, 12s, X-Actuation 1:1, un clic",
+      "dérailleur arrière": "SRAM X01 Eagle, Roller bearing clutch Type 3, blocage de cage, 1x12s, X-Actuation 1:1",
+      "cassette": "SRAM XG-1275, 10-52T, 12s",
+      "chaîne": "SRAM NX Eagle, 12s, Powerlock",
+      "pédalier": "SRAM X-Sync 2 Eagle 34T, acier, largeur étroite, 104 BCD"
+    },
+    "équipements": {
+      "freins": "SRAM Code Silver Stealth, étrier surdimensionné 4 pistons, disque monopièpce 6 trous Centerline 200/220 mm IS, plaquettes en métal fritté sur acier",
+      "selle": "Fizik Terra Aidon X5, 145 mm",
+      "tige de selle": "Onoff Pija dropper internal, diameter 31.6mm, 1X Remote lever with bearing, 405x95-125mm (S), 458x120-150mm (M), 498x140-170mm (L), 558x170-200mm (XL)"
+    },
+    "roues": {
+      "jantes": "Mavic E-Deemax S 29, 30 mm de largeur interne, soudée Maxtal, PFP, tubeless, 28 rayons",
+      "moyeu avant": "Mavic, Boost 15x110 mm, IS 6 bolts ",
+      "moyeu arrière": "Mavic, Boost 12x148 mm,système Ratched ID360, IS 6 trous, moyeu libre XD",
+      "pneu avant": " Maxxis Minion DHF 29x2,6, compatible tubeless, gomme 3C MAXX TERRA, protection EXO+, 120 TPI, tringle souple ",
+      "pneu arrière": "Maxxis Minion DHR II 29x2,6, compatible tubeless, gomme 3C MAXX TERRA, protection EXO+, 120 TPI, tringle souple"
+    },
+    "direction": {
+      "cintre": "ONOFF Krypton Carbon 1.0, galbe : 25 mm, largeur : 800 mm, cintrage 9º, rehausse 5º, alésage 31,8 mm",
+      "poignées": "ONOFF Desert, 1lock-on, 135 mm",
+      "potence": "ONOFF Krypton FG 30 mm, CNC, alésage 31,8 mm",
+      "jeu de direction": "Acros custom pour douille de direction 1-1/2\", roulements à contact angulaire 40x52x7, acheminement interne de câbles"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 615,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1235,
+      "stack (mm)": 632,
+      "reach (mm)": 440
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 635,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1255,
+      "stack (mm)": 632,
+      "reach (mm)": 460
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 660,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1280,
+      "stack (mm)": 650,
+      "reach (mm)": 480
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 680,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1300,
+      "stack (mm)": 650,
+      "reach (mm)": 500
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2495011",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-177 cm",
+    "L / 177-188 cm",
+    "XL / 188-196 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Trek Rail 9.5 Shimano Deore 12V 750 Wh 29'' Bleu Gén 4",
+  "marque": "Trek",
+  "description": "Le Rail 9.5 est un VTTAE en carbone avec une suspension à long débattement. Il comporte un cadre amélioré avec une plus grande profondeur pour une très bonne stabilité sur les trails, et une suspension et des pièces dignes des tours enduro les plus extrêmes. Le puissant moteur Bosch à système intelligent vous mènera aux sommets des montagnes plus rapidement que vous pouviez l’imaginer, et l’énorme batterie de 750 Wh donne l’impression que les tours n’en finiront jamais.\r\n\r\nUn cadre en OCLV Mountain Carbon et une batterie amovible intégrée de 750 Wh, une fourche RockShox 35 Glod RL de 160 mm super réactive avec ressort DebonAir, un amortisseur Motion Control et des blocages, un débattement arrière de 150 mm grâce à un amortisseur RockShox Deluxe+ Select, et le tout dernier système intelligent Performance Line CX de Bosch, capable d’assurer des vitesses jusqu’à 25 km/h, et la nouvelle commande LED Mini Remote et System Controller avec Bluetooth® pour une connectivité aisée, une navigation tout en un et un suivi des activités grâce à l’application eBike Flow. Une transmission Shimano Deore 12 vitesses avec un pignon de 52 dents extra-bas pour les côtes.\r\n\r\nLe Rail 9.5 est votre solution de vélo en carbone et si vous êtes disposé à améliorer les pièces progressivement. Le prix reste abordable avec une transmission Shimano Deore, mais les pièces les plus importantes sont améliorées, comme un cadre avec une plus grande profondeur et une stabilité supplémentaire. Si vous êtes à la recherche d’un VTTAE pour vous défouler et que vous pourrez améliorer au fil du temps, vous l’avez trouvé.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/11/495011/2495011/4888825",
+  "mpn": "5303038",
+  "gtin13": "601479144884",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-165 cm",
+      "stock": 10,
+      "prix": 5392.2,
+      "mpn": "5303036",
+      "sku": "2364875",
+      "gtin13": "601479125784",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2561768-vtt_electrique_tout_suspendu_trek_rail_9_5_shimano_deore_12v_750_wh_29___bleu_gen_4"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-188 cm",
+      "stock": 1,
+      "prix": 3999.99,
+      "mpn": "5303038",
+      "sku": "2364197",
+      "gtin13": "601479144884",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2561768-vtt_electrique_tout_suspendu_trek_rail_9_5_shimano_deore_12v_750_wh_29___bleu_gen_4"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 188-196 cm",
+      "stock": 10,
+      "prix": 5369.07,
+      "mpn": "5303039",
+      "sku": "2366970",
+      "gtin13": "601479144846",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2561768-vtt_electrique_tout_suspendu_trek_rail_9_5_shimano_deore_12v_750_wh_29___bleu_gen_4"
+    }
+  ],
+  "informations": {
+    "poids": "M - 25,35 kg / 55,89 lbs",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 160,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Cadre principal en OCLV Mountain Carbon, tube de direction abaissé de 1,8 po, compatible avec le contrôleur système de Bosch, batterie intégrée amovible (RIB), Knock Block 2.0, acheminement interne guidé, tube de selle de 34,9 mm, basculeur en magnésium, Motor Armor, Mino Link, ABP, Boost148, axe traversant de 12 mm, débattement de 150 mm",
+      "fourche": "RockShox 35 Gold RL, ressort DebonAir, amortisseur Motion Control, blocage, pivot conique, déport de 44 mm, tête de fourche surdimensionnée pour VTTAE, Boost110, Maxle Stealth 15 mm, débattement de 160 mm",
+      "amortisseur": "RockShox Deluxe Select+ RT, 230x57,5 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Performance Line CX, Système intelligent, corps du moteur en magnésium, 85 Nm, 20 mi/h ou 32 km/h d’assistance maxi (25km/h d’assistance maxi en UE et Asie-Pacifique)",
+      "batterie": "Taille S : Bosch PowerTube 625 Wh, système intelligent Taille M, L, XL : Bosch PowerTube 750 Wh, système intelligent"
+    },
+    "écran ": "Commande à distance Bosch LED, smart system",
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, 12 vitesses",
+      "dérailleur arrière": "Shimano Deore M6100, chape longue, 12 vitesses",
+      "cassette": "SunRace CSMZ800 11-51 Dents",
+      "chaîne": "Shimano Deore M6100",
+      "pédalier": "E*thirteen E*spec Plus, 165 mm de long, plateau E*thirteen E*spec, alliage 34 dents, ligne de chaîne 55 mm"
+    },
+    "équipements": {
+      "freins": "Freins à disque hydrauliques Tektro HD-M745 à 4 pistons, disques Tektro, 6 trous, 203 mm",
+      "selle": "Bontrager Arvada, rails en acier, largeur de 138 mm",
+      "tige de selle": "Taille S : TranzX JD-YSI-22PLQ, débattement de 100 mm, acheminement interne, 34,9 mm, longueur de 346 mm Taille M : TranzX JD-YSI-22PLQ, débattement de 150 mm, acheminement interne, 34,9 mm, longueur de 454 mm Taille L, XL : TranzX JD-YSI-22PLQ, débattement de 170 mm, acheminement interne, 34,9 mm, longueur de 497 mm"
+    },
+    "roues": {
+      "jantes": "Alex MD35, compatible tubeless, 32 trous, largeur 35 mm, valve Presta",
+      "pneus": "Bontrager XR4 Comp, tringle rigide, 30 tpi, 29x2,6 pouces"
+    },
+    "direction": {
+      "poignées": "Bontrager XR Trail Comp, nylon lock-on",
+      "potence": "Bontrager Rhythm Comp, 31,8 mm, Knock Block, 0 degré, longueur de 50 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 579,
+      "longueur base (mm)": 448,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 64.6,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1213,
+      "stack (mm)": 625,
+      "reach (mm)": 436
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 448,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 64.6,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1236,
+      "stack (mm)": 629,
+      "reach (mm)": 456
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 638,
+      "longueur base (mm)": 448,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 64.6,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1277,
+      "stack (mm)": 643,
+      "reach (mm)": 491
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 671,
+      "longueur base (mm)": 448,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 64.6,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1313,
+      "stack (mm)": 656,
+      "reach (mm)": 521
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2356990",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-175 cm",
+    "L / 175-185 cm",
+    "XL / 185-195 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu R Raymon FullRay 150E 9.0 Sram SX Eagle 12V 630Wh 29'' Vert",
+  "marque": "R Raymon",
+  "description": "Le VTTAE tout -suspendus de R Raymon, le FullRay, prévu pour le AllMountain, avec son moteur Yamaha PW-ST et sa batterie de 630 Wh.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/990/356990/2356990/4396132",
+  "mpn": "4500010847",
+  "gtin13": "9010654005482",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 1,
+      "prix": 3499.99,
+      "mpn": "4500010847",
+      "sku": "2179783",
+      "gtin13": "9010654005482",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2393736-vtt_electrique_tout_suspendu_r_raymon_fullray_150e_9_0_sram_sx_eagle_12v_630wh_29___vert"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-195 cm",
+      "stock": 1,
+      "prix": 3499.99,
+      "mpn": "4500010850",
+      "sku": "2179724",
+      "gtin13": "9010654005499",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2393736-vtt_electrique_tout_suspendu_r_raymon_fullray_150e_9_0_sram_sx_eagle_12v_630wh_29___vert"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Vert"
+    }
+  ],
+  "informations": {
+    "poids": "25.4 kg",
+    "genre": "HommeFemme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : 29\", alliage 6061, Batterie intégrée, Boost, 150 mm",
+      "fourche": "RockShox Revelation RC, DebonAir, Air, 150 mm, tapered",
+      "amortisseur": "RockShox Deluxe Select+, Air, 230x65 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Yamaha PW-ST, 250 W, 70 Nm",
+      "batterie": "Simplo EnergyTube, 630 Wh, 36 V",
+      "écran": "Yamaha Display A, LCD-Display"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram SX Eagle, single click, 1x12-vitesses",
+      "dérailleur arrière": "Sram SX Eagle, 12-vitesses",
+      "pédalier": "R Raymon EC40, Aluminium forgé, JIS, plateau R Raymon, Narrow Wide, 38 dents",
+      "chaîne": "Sram SX Eagle, 12-vitesses",
+      "cassette": "Sram PG-1210 Eagle, 11-50 Dents, 12-vitesses"
+    },
+    "roues": {
+      "jantes": "Mach 1 TRUCKY 30, oeilletée, Tubeless Ready ",
+      "moyeu avant": "R Raymon DA210F, 6 trous, 15x110 mm, Axe traversant ",
+      "moyeu arrière": "R Raymon DA210R, 6 trous, 12x148 mm, Axe traversant, HG",
+      "pneus": "Schwalbe Nobby Nic, Evolution, 62-622, 29x2.4"
+    },
+    "équipements": {
+      "freins": "Magura MT5, 4 pistons, Frein à disque hydraulique, 203/180 mm",
+      "selle": "R Raymon MTB",
+      "tige de selle": "R Raymon Pro, 31.6 mm, Tige de selle télescopique (Dropper Post)"
+    },
+    "direction": {
+      "potence": "R Raymon 31.8, 0 °, Ahead",
+      "cintre": "R Raymon Riser 31.8 mm, 780 mm, Sweep: 9 °, Rise: 15 mm",
+      "poignées": "R Raymon MTB, Poignées à vis"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 565,
+      "douille de direction (mm)": 115,
+      "longueur base (mm)": 450,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1218,
+      "stack (mm)": 633,
+      "reach (mm)": 425
+    },
+    {
+      "taille cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 592,
+      "douille de direction (mm)": 125,
+      "longueur base (mm)": 450,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1252,
+      "stack (mm)": 642,
+      "reach (mm)": 450
+    },
+    {
+      "taille cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 618,
+      "douille de direction (mm)": 130,
+      "longueur base (mm)": 450,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1276,
+      "stack (mm)": 647,
+      "reach (mm)": 475
+    },
+    {
+      "taille cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 645,
+      "douille de direction (mm)": 140,
+      "longueur base (mm)": 450,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1308,
+      "stack (mm)": 656,
+      "reach (mm)": 500
+    }
+  ]
+}

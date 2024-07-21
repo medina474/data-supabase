@@ -1,0 +1,119 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2678142",
+  "tailles": [
+    "L / 175-185 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Haibike Nduro 8 Freeride Sram GX 12V 720 Wh MX (29/27.5'') Gris Noir 2024",
+  "marque": "Haibike",
+  "description": "À la recherche d'un VTT électrique à la fois robuste et agile, mais qui offre aussi beaucoup d'agrément ? Chez lui sur les pistes exigeantes, le Haibike Nduro 8 Freeride est le jouet parfait pour les fans de freeride et des sites VTT. Compact et puissant, le moteur Yamaha PW-X3 au couple de 85 Nm vous conduit facilement jusqu'à l'entrée de votre piste favorite. Grâce à son design Fifty-Fifty, vous évitez de sacrifier la performance, que ce soit dans les ascensions techniques ou dans les descentes les plus difficiles. En outre, le triangle arrière progressif aux propriétés anti-cabrement optimisées offre encore plus d’efficacité dans les montées. Avec un débattement de 180 mm à l’avant et à l’arrière, des roues de tailles différentes et des freins à disque Magura MT7, vous êtes paré pour le hors piste.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/142/678142/2678142/5401717",
+  "mpn": "45708450",
+  "gtin13": "4054624152177",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 1,
+      "prix": 6499.99,
+      "mpn": "45708450",
+      "sku": "2676483",
+      "gtin13": "4054624152177",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2802729-vtt_electrique_tout_suspendu_haibike_nduro_8_freeride_sram_gx_12v_720_wh_mx__29_27_5____gris_noir_2024"
+    }
+  ],
+  "informations": {
+    "poids maximum": "120.0 kg : le poids maximum du système comprend le vélo, le cycliste et la charge (porte-bagages ou remorque)",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 180,
+    "débattement cadre (mm)": 180,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Haibike, Nduro PW-X3, Aluminium",
+      "fourche": "Öhlins DH38 M.2, air, débattement : 180mm, pivot alu 1 1/8\", axe traversant 20 x 110mm",
+      "amortisseur": "Öhlins TTX 22 M, Coil"
+    },
+    "assistance électrique": {
+      "moteur": "Yamaha, PW-X3, 250 W, 85 Nm",
+      "batterie": "Yamaha InTube, 720 Wh (amovible)",
+      "écran": "Yamaha, Interface - X"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX Eagle, manette Trigger 1x12-vitesses",
+      "dérailleur arrière": "Sram GX Eagle Transmission 12-vitesses",
+      "cassette": "Sram GX 1275 Eagle, 10-50 dts",
+      "chaîne": "Sram GX",
+      "pédalier": "Haibike Components, The Crank ++, Aluminium, plateau 38 dts"
+    },
+    "équipements": {
+      "freins": "Magura, MT7, 4-piston disc brake Magura, MDR-P 220/203 mm",
+      "selle": "fi'zi:k, Terra Aidon X5-160",
+      "tige de selle": "Haibike Components, Dropper-Post Remote 34.9, Aluminium"
+    },
+    "roues": {
+      "jantes": "Mavic, E- Deemax, roue libre XD",
+      "pneu avant": " Schwalbe, Magic Mary Evo TLE, 29 x 2.4'' ",
+      "pneu arrière": " Schwalbe, Big Betty Evo Gravity, 65-584, 27.5 x 2.6''"
+    },
+    "direction": {
+      "cintre": "Raceface Atlas Alu 820mm",
+      "poignées": "Haibike, MTB grips",
+      "potence": "Raceface Chester 35, Direct Mount, Diamètre: 35mm",
+      "jeu de direction": "Acros, BlockLock, Aluminium"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 574,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1245,
+      "stack (mm)": 644,
+      "reach (mm)": 425
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 604,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1275,
+      "stack (mm)": 644,
+      "reach (mm)": 455
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 631,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1305,
+      "stack (mm)": 653,
+      "reach (mm)": 480
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 663,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 76.9,
+      "empattement (mm)": 1339,
+      "stack (mm)": 662,
+      "reach (mm)": 510
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2454633",
+  "tailles": [
+    "S / 158-168 cm",
+    "M / 168-178 cm",
+    "L / 178-188 cm"
+  ],
+  "name": "VTT Electrique Tout -Suspendu Sunn Kern EL S2 Shimano Deore 10V 630 Wh 29'' / 27.5'' Rouge 2023",
+  "marque": "Sunn",
+  "description": "Le vélo à suspension électrique Sunn KERN EL S2 est un choix idéal pour les vététistes à la recherche d'une expérience de conduite plus confortable et plus efficace. Équipé d'un moteur Shimano Ep8 de 250W et d'une batterie de 630Wh, il offre une assistance électrique puissante et fiable pour les terrains accidentés et les longues distances. La suspension avant et arrière permet une meilleure absorption des chocs, tandis que les freins à disque hydrauliques assurent un freinage précis et sûr. Le cadre en aluminium, léger et durable, est conçu pour offrir une géométrie confortable et stable. Avec une transmission Shimano Deore à 10 vitesses et des pneus Maxxis de haute qualité, le Sunn KERN EL S2 est un vélo électrique à suspension intégrale puissant et fiable pour les aventures en montagne ou les sorties en famille",
+  "image": "https://product-cdn-frz.alltricks.com/medium/633/454633/2454633/4698367",
+  "mpn": "YCSUWU4001",
+  "gtin13": "3032651892137",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 158-168 cm",
+      "stock": 1,
+      "prix": 3299.99,
+      "mpn": "YCSUWU4001",
+      "sku": "2175502",
+      "gtin13": "3032651892137",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2498520-vtt_electrique_tout__suspendu_sunn_kern_el_s2_shimano_deore_10v_630_wh_29_____27_5___rouge_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-178 cm",
+      "stock": 1,
+      "prix": 4199.99,
+      "mpn": "YCSUWU4501",
+      "sku": "2175549",
+      "gtin13": "3032651892144",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2498520-vtt_electrique_tout__suspendu_sunn_kern_el_s2_shimano_deore_10v_630_wh_29_____27_5___rouge_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-188 cm",
+      "stock": 1,
+      "prix": 4199.99,
+      "mpn": "YCSUWU5001",
+      "sku": "2175603",
+      "gtin13": "3032651892151",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2498520-vtt_electrique_tout__suspendu_sunn_kern_el_s2_shimano_deore_10v_630_wh_29_____27_5___rouge_2023"
+    }
+  ],
+  "informations": {
+    "poids": "25,91 kg",
+    "genre": "Homme",
+    "débattement fourche (mm)": 160,
+    "débattement cadre (mm)": 155,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 10V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Kern Integrated 630wh, 6069 Edge Tubing Boost, 155mm",
+      "fourche": "Formula Selva C, conique, Ta, Boost, 160mm"
+    },
+    "amortisseur arrière": "Formula Mod E Coil 210x55",
+    "assistance électrique": {
+      "moteur": "Shimano Ep8 250w / 85nm, 25 km/h",
+      "batterie": "Shimano 630wh Bte8036"
+    },
+    "manettes de vitesse": "Shimano Deore M5130, 1x10 vitesses",
+    "transmission": {
+      "dérailleur arrière": "Shimano Deore M5130, 10 vitesses",
+      "cassette": "Shimano Deore Lg600 11-43",
+      "pédalier": "Shimano M600 34d"
+    },
+    "équipements": {
+      "freins": "Av Formula Cura 4 4p 203/203 Ar Formula Cura 2",
+      "selle": "VR Sport",
+      "tige de selle": "Sdg Tellis Dropper Seatpost 31.6mm 125mm (S) 150(M/L)"
+    },
+    "roues": {
+      "jantes": "29x2,5 Av / 27,5x2,6 Ar, Mach1 Trucky30 30c 32t, moyeux Shimano Mt400 Boost",
+      "pneus": "Maxxis Assegai 29x2.50 Wt (F) Minion Dhr Ii 27.5x2.6 (R), Tlr"
+    },
+    "direction": {
+      "cintre": "VR 6061 780 mm",
+      "potence": "40 mm -0°-31.8"
+    }
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 600,
+      "bases de chaîne (mm)": 460,
+      "longueur du tube de direction (mm)": 115,
+      "angle du tube de direction (°)": 65,
+      "angle du tube de selle (°)": 73,
+      "empattement (mm)": 1202,
+      "stack (mm)": 636,
+      "reach (mm)": 406
+    },
+    {
+      "taille du cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 630,
+      "bases de chaîne (mm)": 460,
+      "longueur du tube de direction (mm)": 120,
+      "angle du tube de direction (°)": 65,
+      "angle du tube de selle (°)": 73,
+      "empattement (mm)": 1232,
+      "stack (mm)": 641,
+      "reach (mm)": 434
+    },
+    {
+      "taille du cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 660,
+      "bases de chaîne (mm)": 460,
+      "longueur du tube de direction (mm)": 130,
+      "angle du tube de direction (°)": 65,
+      "angle du tube de selle (°)": 73,
+      "empattement (mm)": 1264,
+      "stack (mm)": 650,
+      "reach (mm)": 461
+    },
+    {
+      "taille du cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 690,
+      "bases de chaîne (mm)": 460,
+      "longueur du tube de direction (mm)": 145,
+      "angle du tube de direction (°)": 65,
+      "angle du tube de selle (°)": 73,
+      "empattement (mm)": 1296,
+      "stack (mm)": 663,
+      "reach (mm)": 487
+    }
+  ]
+}

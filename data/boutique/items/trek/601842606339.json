@@ -1,0 +1,137 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2433982",
+  "tailles": [
+    "XS / 137-155 cm",
+    "S / 153-165 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Trek Powerfly FS 9 EQ Shimano XT 12V 625 Wh 27.5'' Noir Mat 2023",
+  "marque": "Trek",
+  "description": "Le Powerfly FS 9 EQ est un VTTAE tout suspendu qui vous permet à la fois de vous aventurer sur des singletracks et de vous rendre au travail. Doté de pièces haut de gamme, d’un puissant système de transmission et d’une suspension exceptionnelle, aucun trail ne lui fait peur. De plus, il possède toutes les caractéristiques utilitaires dont vous avez besoin pour vos déplacements quotidiens tels que les garde-boue, des éclairages et un porte-bagage arrière.\r\n\r\nVous souhaitez un VTTAE tout suspendu super polyvalent pour attaquer les pistes. Vous souhaitez également un vélo tout équipé pour vos trajets quotidiens, vous permettre de rapporter la baguette à la maison ou vous faire plaisir sur le chemin après le travail.\r\n\r\nUn cadre aluminium résistant qui abrite complètement une batterie de grande autonomie de 625 Wh, un puissant moteur Bosch Performance CX qui offre une assistance pouvant atteindre 25 km/h et un dispositif de commande SmartphoneHub, pouvant être utilisé avec ou sans téléphone. Il est aussi doté d’une fourche télescopique de 120 mm, d’un débattement arrière de 110 mm, de freins hydrauliques à 4 pistons, de roues Bontrager Line Comp 30, d’une transmission 12 vitesses Shimano XT et d’une tige de selle télescopique pour adopter une position basse en descente.\r\n\r\nNotre meilleur Powerfly FS est performant à la fois sur les pistes accidentées, les trails et lors de vos trajets quotidiens grâce à un système de suspension confortable, une transmission puissante et de nombreuses fonctions utilitaires.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/982/433982/2433982/4660203",
+  "mpn": "5262172",
+  "gtin13": "601842606339",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XS / 137-155 cm",
+      "stock": 2,
+      "prix": 7299,
+      "mpn": "5262172",
+      "sku": "2105077",
+      "gtin13": "601842606339",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2471555-vtt_electrique_tout_suspendu_trek_powerfly_fs_9_eq_shimano_xt_12v_625_wh_27_5___noir_mat_2023"
+    }
+  ],
+  "informations": {
+    "poids": "27.05 kg",
+    "genre": "HommeFemme",
+    "débattement fourche (mm)": 100,
+    "débattement cadre (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Alpha Platinum aluminum, Batterie intégrée amovible (RIB), douille de direction conique, acheminement interne, Motor Armor, basculeur en magnésium, fixations pour porte-bagages et garde-boue, APB, Boost148, débattement de 100 mm",
+      "fourche": "Taille XS, S : SR Suntour Zeron 35, ressort pneumatique, amortisseur LO R, blocage hydraulique, pivot conique, déport de 44 mm, Boost110, axe traversant à écrou 15 mm, débattement de 100 mm Taille M, L, XL : SR Suntour Zeron 35, ressort pneumatique, amortisseur LO R, blocage hydraulique, pivot conique, déport de 44 mm, Boost110, axe traversant à écrou 15 mm, débattement de 120 mm",
+      "amortisseur": "RockShox SID Lux Select+, 190x45 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Performance CX, corps de moteur en magnésium, 250 watts, 85 Nm, assistance limitée à 25 km/h",
+      "batterie": "Bosch PowerTube 625 Wh",
+      "écran": "Bosch SmartphoneHub"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano XT M8100, 12 vitesses",
+      "dérailleur arrière": "Shimano XT M8100, chape longue, 12 vitesses",
+      "cassette": "Shimano XT M8100, 10-51 Dents",
+      "chaîne": "Shimano XT M8100, 12 vitesses",
+      "pédalier": "E*thirteen E*spec Plus, 34 dents, 165 mm de long"
+    },
+    "équipements": {
+      "freins": "Shimano XT M8120, hydrauliques à disque, 4 pistons, disques Shimano RT76, 6 trous, 203/203 mm",
+      "selle": "Bontrager Commuter Comp",
+      "tige de selle": "Taille XS, S, M : Tige de selle télescopique Bontrager Line, 100 mm de débattement, acheminement interne, 31,6 mm, longueur de 345 mm Taille L, XL : Tige de selle télescopique Bontrager Line, 150 mm de débattement, acheminement interne, 31,6 mm, longueur de 440 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Line Comp 30, Tubeless Ready, 28 trous, valve presta",
+      "pneus": "Taille XS, S : Bontrager LT4 Expert, bande réfléchissante, tringle rigide, 60 tpi, 27,5x2,40 pouces Taille M, L, XL : Bontrager LT4 Expert, bande réfléchissante, tringle rigide, 60 tpi, 29x2,40 pouces"
+    },
+    "direction": {
+      "cintre": "Alliage Bontrager, 31,8 mm, élévation 15 mm, largeur de 750 mm",
+      "poignées": "Taille XS, S, M, L, XL : Bontrager XR Endurance Comp, lock-on Taille XS, S, M, L, XL : Bontrager XR Endurance Comp",
+      "potence": "Taille XS, S : Bontrager Elite, 31,8 mm, fixation pour feux Blendr, élévation 7 degrés, longueur de 60 mm Taille:M, L, XL : Bontrager Elite, 31,8 mm, fixation pour feux Blendr, élévation 7 degrés, longueur de 70 mm"
+    },
+    "accessoires": "Éclairage Avant : Phare Supernova Mini 2, DEL 5-21 V / Éclairage Arrière : Supernova E3 Mini-2 feu arrière, LED / Béquille : Pletscher Comp Flex 18 / Garde-boue ",
+    "couleur": "Matte Black /Gloss Trek Black"
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "taille des roues (pouces)": 27.5,
+      "tube de selle (mm)": 368,
+      "tube supérieur (mm)": 554,
+      "longueur base (mm)": 468,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68.3,
+      "empattement (mm)": 1170,
+      "stack (mm)": 599,
+      "reach (mm)": 405
+    },
+    {
+      "taille cadre": "S",
+      "taille des roues (pouces)": 27.5,
+      "tube de selle (mm)": 395,
+      "tube supérieur (mm)": 564,
+      "longueur base (mm)": 468,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68.3,
+      "empattement (mm)": 1180,
+      "stack (mm)": 599,
+      "reach (mm)": 415
+    },
+    {
+      "taille cadre": "M",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 589,
+      "longueur base (mm)": 470,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 67.5,
+      "empattement (mm)": 1206,
+      "stack (mm)": 637,
+      "reach (mm)": 430
+    },
+    {
+      "taille cadre": "L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 621,
+      "longueur base (mm)": 470,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 67.5,
+      "empattement (mm)": 1240,
+      "stack (mm)": 646,
+      "reach (mm)": 460
+    },
+    {
+      "taille cadre": "XL",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 646,
+      "longueur base (mm)": 470,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 67.5,
+      "empattement (mm)": 1265,
+      "stack (mm)": 646,
+      "reach (mm)": 485
+    }
+  ]
+}

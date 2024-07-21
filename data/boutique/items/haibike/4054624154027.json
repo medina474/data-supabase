@@ -1,0 +1,130 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2677991",
+  "tailles": [
+    "M / 165-175 cm",
+    "L / 175-185 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Haibike Lyke CF 11 Sram GX 12V 430Wh 29'' Bleu Rouge 2024",
+  "marque": "Haibike",
+  "description": "La liberté de la légèreté. Le Haibike Lyke CF 11 répond à cette devise mieux qu'aucun autre VTT électrique de notre gamme. Vélo électrique ultraléger et agile à la fois, c'est le compagnon idéal des amateurs de randonnée tout terrain, en particulier sur les pentes rudes et dans les descentes rapides. Le cadre en carbone sportif avec son tube diagonal innovant et le moteur compact Fazua Ride 60 placé dans le tube du siège évitent les kilos superflus. Le dérailleur et les freins performants Shimano XT, les suspensions Fox Float au débattement de 140 mm et une nouvelle cinématique offrent des performances inédites tant en montée qu'en descente. Quant aux roues Mavic Crossmax de 29″ et aux pneus Maxxis, ils font de vous un champion du monde même sur les terrains les plus rudes. Enfourchez le LYKE 11 pour profiter d'une légèreté inégalée sur toutes les pistes.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/991/677991/2677991/5401587",
+  "mpn": "45812450",
+  "gtin13": "4054624154027",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 1,
+      "prix": 5999.99,
+      "mpn": "45812440",
+      "sku": "2676562",
+      "gtin13": "4054624154010",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2802723-vtt_electrique_tout_suspendu_haibike_lyke_cf_11_sram_gx_12v_430wh_29___bleu_rouge_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 1,
+      "prix": 5999.99,
+      "mpn": "45812450",
+      "sku": "2676456",
+      "gtin13": "4054624154027",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2802723-vtt_electrique_tout_suspendu_haibike_lyke_cf_11_sram_gx_12v_430wh_29___bleu_rouge_2024"
+    }
+  ],
+  "informations": {
+    "poids maximum": "120.0 kg : le poids maximum du système comprend le vélo, le cycliste et la charge (porte-bagages ou remorque)",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 140,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "carbone, through axle M12 (1.00) x 148mm, frein à disque Post-Mount, débattement: 140mm",
+      "fourche": "FOX 36 Float Performance, air, débattement: 140mm, aluminum shaft 1 1/8\" - 1 1/2\" tapered, axe traversant Boost 15 x 110mm",
+      "amortisseur": "FOX Float DPS Performance EVOL, air"
+    },
+    "assistance électrique": {
+      "moteur": "Fazua Ride60, 250W, 60Nm",
+      "batterie": "430 Wh (non-amovible)",
+      "écran": "Fazua LED Hub Digital"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore XT M8100, 1x12-vitesses",
+      "dérailleur arrière": "Shimano Deore XT RD-M8100, 12-vitesses",
+      "cassette": "Shimano M7100, 10-51 dts",
+      "chaîne": "Shimano SLX M7100",
+      "pédalier": "Haibike Components, The Crank ++, Aluminium, 32 dts",
+      "boîtier de pédalier": "Integrated in the motor"
+    },
+    "équipements": {
+      "freins": "Shimano XT M8120, 4-piston disc brake, MT800 203/180 mm",
+      "selle": "Selle Italia Model X",
+      "tige de selle": "Haibike Components, Dropper-Post Remote 31.6, Aluminium"
+    },
+    "roues": {
+      "jantes": "Mavic Crossmax XL-S AL, roue libre MS",
+      "pneus": "Maxxis Dissector MaxxTerra EXO+, 29 x 2.4''"
+    },
+    "direction": {
+      "cintre": "XLC FlowBy 780mm",
+      "poignées": "Haibike, MTB grips",
+      "potence": "XLC FlowBy, A-Head, Diamètre: 31.8mm",
+      "jeu de direction": "Acros, BlockLock, Aluminium"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 562,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1195,
+      "stack (mm)": 611,
+      "reach (mm)": 424
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 592,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1227,
+      "stack (mm)": 620,
+      "reach (mm)": 452
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 622,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1259,
+      "stack (mm)": 629,
+      "reach (mm)": 479
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 652,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1290,
+      "stack (mm)": 638,
+      "reach (mm)": 506
+    }
+  ]
+}

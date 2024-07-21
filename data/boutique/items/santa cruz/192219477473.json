@@ -1,0 +1,129 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2683529",
+  "tailles": [
+    "M / 165-175 cm",
+    "L / 175-185 cm"
+  ],
+  "name": "VTT Electrique Tout-Suspendu Santa Cruz Heckler 9 Carbone C Sram GX Eagle AXS 12V 720Wh MX (29/27.5'') Gris 2024",
+  "marque": "Santa Cruz",
+  "description": "Véritable référence en matière de VTT électrique pleine puissance, le Heckler de Santa Cruz est paré pour rouler toute la journée. Bien qu'attiré par les plus belles descentes, il se veut adapté à n'importe quel chemin que vous pourriez rencontrer. Son moteur à la puissance décuplée, associé à une batterie à la très grande capacité de 720Wh, rendent accessibles les chemins les plus reculés et moins exploités, permettant ainsi d'explorer plus en moins de temps.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/529/683529/2683529/5425719",
+  "mpn": "192219477473",
+  "gtin13": "192219477473",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 1,
+      "prix": 6799.99,
+      "mpn": "192219477459",
+      "sku": "2676190",
+      "gtin13": "192219477459",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2810203-vtt_electrique_tout_suspendu_santa_cruz_heckler_9_carbone_c_sram_gx_eagle_axs_12v_720wh_mx__29_27_5____gris_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 1,
+      "prix": 6799.99,
+      "mpn": "192219477473",
+      "sku": "2676204",
+      "gtin13": "192219477473",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2810203-vtt_electrique_tout_suspendu_santa_cruz_heckler_9_carbone_c_sram_gx_eagle_axs_12v_720wh_mx__29_27_5____gris_2024"
+    }
+  ],
+  "informations": {
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 160,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Carbon C MX, Batterie intégrée, Boost, 150 mm",
+      "fourche": "Fox 36 Float Performance Elite, 160mm",
+      "amortisseur": "RockShox Super Deluxe Select+, 210x55"
+    },
+    "assistance électrique": {
+      "moteur": "Shimano EP800, 250 W, 85 Nm",
+      "batterie": "Darfon, 720 Wh (amovible)",
+      "écran": "Shimano"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX AXS, 1x12-vitesses",
+      "dérailleur arrière": "Sram GX AXS Eagle, 12-vitesses",
+      "cassette": "Sram XG1275, 10-50 dts",
+      "chaîne": "Sram GX Eagle",
+      "pédalier": "Shimano EM600 165 mm"
+    },
+    "équipements": {
+      "freins": "Freins à disques hydrauliques Sram Code RS, 4 pistons, disques Sram Centerline, 200/200 mm, 6 trous",
+      "selle": "WTB Silverado Medium CroMo",
+      "tige de selle": "Fox Transfer Performance Elite Dropper, 31.6"
+    },
+    "roues": {
+      "jantes": "Avant : RaceFace ARC HD 30 29\", 32 trous / Arrière : RaceFace ARC HD 30 27.5\", 32 trous, roue libre XD",
+      "pneu avant": " Maxxis Assegai 29x2.5\", 3C, MaxxGrip, EXO+ TR ",
+      "pneu arrière": " Maxxis Minion DHR II 27.5x2.4\"WT, 3C MaxxTerra, EXO+ TR"
+    },
+    "direction": {
+      "cintre": "Santa Cruz e35 Carbon Bar, 800mm",
+      "poignées": "Santa Cruz Bicycles House Grips",
+      "potence": "Burgtec Enduro MK3, 42mm",
+      "jeu de direction": "Cane Creek 40 IS Integrated"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 390,
+      "tube supérieur (mm)": 571,
+      "douille de direction (mm)": 130,
+      "longueur base (mm)": 445,
+      "angle de direction (°)": 64.8,
+      "angle tube de selle (°)": 76.9,
+      "empattement (mm)": 1206,
+      "stack (mm)": 607,
+      "reach (mm)": 430
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 405,
+      "tube supérieur (mm)": 599,
+      "douille de direction (mm)": 100,
+      "longueur base (mm)": 445,
+      "angle de direction (°)": 64.8,
+      "angle tube de selle (°)": 76.8,
+      "empattement (mm)": 1226,
+      "stack (mm)": 616,
+      "reach (mm)": 455
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 624,
+      "douille de direction (mm)": 115,
+      "longueur base (mm)": 445,
+      "angle de direction (°)": 64.8,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1252,
+      "stack (mm)": 629,
+      "reach (mm)": 475
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 645,
+      "douille de direction (mm)": 135,
+      "longueur base (mm)": 445,
+      "angle de direction (°)": 64.8,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1281,
+      "stack (mm)": 648,
+      "reach (mm)": 495
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2495146",
+  "tailles": [
+    "M / 165-177 cm",
+    "L / 174-188 cm",
+    "XL / 188-196 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Trek Powerfly FS 7 Shimano SLX / XT 12V 625 Wh 29'' Beige Gén 3",
+  "marque": "Trek",
+  "description": "Le Powerfly FS 7 est un VTTAE tout suspendu robuste prêt à se défouler. Sa puissante transmission Bosch vous aide à monter les pentes raides, et à entreprendre des trajets plus longs et d’ordinaire difficiles. Une commande intelligente LED et un écran Kiox s’associent avec l’application eBike Flow pour le suivi d’activité, la navigation et la connectivité Bluetooth pendant votre sortie. Une suspension haute performance vous permet d’être efficace et agile sur du terrain accidenté.\r\n\r\nVous voulez augmenter les capacités de votre VTT avec un système d’assistance au pédalage électrique haut de gamme. Vous prévoyez de souvent rouler sur les pistes, et vous cherchez des pièces remises au goût du jour qui vous permettront de repousser vos limites.\r\n\r\nUn cadre aluminium durable qui abrite complètement une batterie de grande autonomie de 625 Wh, un puissant moteur Bosch Performance CX (250 Wh, 85 Nm) qui offre une assistance pouvant atteindre 25 km/h, une commande intelligente LED et un affichage Kiox. Il est aussi doté d’une fourche téléscopique RockShox Gold RL 120 mm, d’un débattement arrière de 100 mm avec un amortisseur RockShox SID Luxe Select+, de freins hydrauliques à 4 pistons, de roues Bontrager Line Comp 30 po, d’une transmission 12 vitesses Shimano et d’une tige de selle télescopique.\r\n\r\nRouler avec ce VTTAE tout suspendu est un pur bonheur. Sa suspension améliorée, ses freins et ses roues ainsi que de nombreuses autres caractéristiques vous permettent d’atteindre de nouvelles destinations de trail.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/146/495146/2495146/4889336",
+  "mpn": "5278010",
+  "gtin13": "601842778180",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-177 cm",
+      "stock": 2,
+      "prix": 4399.99,
+      "mpn": "5278009",
+      "sku": "2365548",
+      "gtin13": "601842778197",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2561781-vtt_electrique_tout_suspendu_trek_powerfly_fs_7_shimano_slx___xt_12v_625_wh_29___beige_gen_3"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 174-188 cm",
+      "stock": 1,
+      "prix": 4399.99,
+      "mpn": "5278010",
+      "sku": "2670179",
+      "gtin13": "601842778180",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2561781-vtt_electrique_tout_suspendu_trek_powerfly_fs_7_shimano_slx___xt_12v_625_wh_29___beige_gen_3"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 188-196 cm",
+      "stock": 10,
+      "prix": 4780.77,
+      "mpn": "5278011",
+      "sku": "2366240",
+      "gtin13": "601842778173",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2561781-vtt_electrique_tout_suspendu_trek_powerfly_fs_7_shimano_slx___xt_12v_625_wh_29___beige_gen_3"
+    }
+  ],
+  "informations": {
+    "poids": "M - 24,7 kg",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 120,
+    "débattement cadre (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano SLX XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Aluminium Alpha Platinum, Batterie intégrée amovible (RIB), tube de direction conique, acheminement interne des câbles, Motor Armor, basculeur, fixations de porte-bagages et garde-boue, APB, Boost148, débattement de 100 mm",
+      "fourche": "Taille XS, S : RockShox 35 Gold RL, ressort DebonAir, amortisseur Motion Control, blocage, pivot conique, déport de 44 mm, tête de fourche surdimensionnée pour VTTAE, Boost110, Maxle Stealth 15 mm, débattement de 100 mm Taille M, L, XL : RockShox 35 Gold RL, ressort DebonAir, amortisseur Motion Control, blocage, pivot conique, déport de 44 mm, tête de fourche surdimensionnée pour VTTAE, Boost110, Maxle Stealth 15 mm, débattement de 120 mm",
+      "amortisseur": "RockShox SID Lux Select+, 190x45 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Performance Line CX, Système intelligent, corps du moteur en magnésium, 85 Nm, assistance limitée à 25 km/h",
+      "batterie": "Bosch PowerTube 625 Wh, système intelligent",
+      "écran": "Bosch Intuvia 100, système intelligent"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano SLX M7100, 12 vitesses",
+      "dérailleur arrière": "Shimano XT M8100, chape longue",
+      "cassette": "Shimano Deore M6100, 10-51 dents, 12 vitesses",
+      "chaîne": "Shimano SLX M7100, 12 vitesses",
+      "pédalier": "E*thirteen E*spec Plus, 165 mm de long, plateau E*thirteen, 36 dents, acier"
+    },
+    "équipements": {
+      "freins": "Freins à disque hydrauliques Sram DB 8, disque Sram CenterLine, 6 trous, bord arrondi, 200/200 mm",
+      "selle": "Bontrager Arvada, rails en acier, largeur de 138 mm",
+      "tige de selle": "Taille XS, S, M : TranzX JD-YSP18, débattement de 100 mm, acheminement interne, 31,6 mm, longueur de 361 mm Taille L, XL : TranzX JD-YSP18, débattement de 130 mm, acheminement interne, 31,6 mm, longueur de 425 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Line Comp 30, Tubeless Ready, 28 trous, valve Presta",
+      "pneus": "Taille XS, S : Bontrager XR4 Team Issue, Tubeless Ready, flanc Inner Strength, 120 tpi, tringle en aramide, 27,5x2,40 pouces Taille M, L, XL : Bontrager XR4 Team Issue, Tubeless Ready, flancs Inner Strength, tringle aramide, 120 tpi, 29x2,40 pouces"
+    },
+    "direction": {
+      "cintre": "Bontrager Rhythm Comp, Alu, 31,8 mm, élévation de 15 mm, largeur de 750 mm",
+      "poignées": "Bontrager XR Trail Comp, nylon lock-on",
+      "potence": "Taille XS, S : Bontrager Elite, 31,8 mm, compatible Blendr, 7 degrés, longueur de 60 mm Taille M, L, XL : Bontrager Elite, 31,8 mm, compatible Blendr, 7 degrés, longueur de 70 mm"
+    },
+    "couleur": "Matte/Gloss Supernova"
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "taille des roues (pouces)": 27.5,
+      "tube de selle (mm)": 368,
+      "tube supérieur (mm)": 554,
+      "longueur base (mm)": 468,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68.3,
+      "empattement (mm)": 1170,
+      "stack (mm)": 599,
+      "reach (mm)": 405
+    },
+    {
+      "taille cadre": "S",
+      "taille des roues (pouces)": 37.5,
+      "tube de selle (mm)": 395,
+      "tube supérieur (mm)": 564,
+      "longueur base (mm)": 468,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68.3,
+      "empattement (mm)": 1180,
+      "stack (mm)": 599,
+      "reach (mm)": 415
+    },
+    {
+      "taille cadre": "M",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 589,
+      "longueur base (mm)": 470,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 67.5,
+      "empattement (mm)": 1206,
+      "stack (mm)": 637,
+      "reach (mm)": 430
+    },
+    {
+      "taille cadre": "L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 621,
+      "longueur base (mm)": 470,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 67.5,
+      "empattement (mm)": 1240,
+      "stack (mm)": 646,
+      "reach (mm)": 460
+    },
+    {
+      "taille cadre": "XL",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 646,
+      "longueur base (mm)": 470,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 67.5,
+      "empattement (mm)": 1265,
+      "stack (mm)": 646,
+      "reach (mm)": 485
+    }
+  ]
+}

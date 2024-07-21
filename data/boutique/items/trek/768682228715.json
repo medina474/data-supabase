@@ -1,0 +1,132 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2540495",
+  "tailles": [
+    "M / 165-177 cm",
+    "L / 177-188 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Trek Fuel EXe 8 Sram GX Eagle AXS 12V 360 Wh 29'' Vert Mat 2024",
+  "marque": "Trek",
+  "description": "Le Fuel EXe 8 est un VTTAE en aluminium prêt pour les trails qui vous assiste discrètement dans les montées pour vous donner toute la puissance nécessaire dans les descentes. Comme son homologue en carbone, il a l’aspect et le comportement d’un vélo de trail traditionnel, mais avec le soutien supplémentaire d’une transmission à démultiplicateur harmonique à anneau à broches petite mais puissante, d’un écran sur tube horizontal élégant et d’une télécommande compacte. Il est prêt à en découdre grâce à des pièces améliorées là où elles comptent le plus, comme un ensemble de suspension FOX, de larges roues Line Comp Tubeless Ready de Bontrager et une transmission 12 vitesses sans fil GX AXS de Sram.\r\n\r\nVous accordez de l’importance à la performance, mais aussi au prix. Vous voulez profiter de toute la technologie que vous trouverez sur le Fuel EXe haut de gamme, mais sur un vélo adapté à votre budget. Vous voulez des composants de qualité sur lesquels vous pouvez compter pour continuer à vous éclater, et un cadre robuste en alliage d’aluminium qui tient le coup sur les terrains accidentés et qui vous donne juste ce qu’il faut de puissance dans les montées.\r\n\r\nUn cadre en aluminium Alpha Platinum avec la transmission à démultiplicateur harmonique à anneau à broches HPR50 de TQ, une batterie de 360Wh amovible entièrement intégrée et un port de charge intelligent. Un écran LED intégré et une télécommande sur le cintre faciles à utiliser à la volée, une suspension avant Fox Rythm 36 de 150 mm avec ressort pneumatique Float Evol et amortisseur GRIP et une suspension arrière Fox Performance Float X de 140 mm. Il est aussi équipé de roues Bontrager Line Comp 30 Tubeless Ready, d’une transmission 12 vitesses Shimano XT, de freins hydrauliques et d'une tige de selle télescopique.\r\n\r\nSi vous souhaitez bénéficier de toute la technologie sur le Fuel EXe haut de gamme sans en payer le prix fort, le Fuel EXe 8 est fait pour vous. Vous bénéficiez de la même transmission, du même écran et de la même géométrie que son homologue en carbone, en plus d’un ensemble de suspension amélioré et d’un changement de vitesse sans fil, le tout sur un cadre en alliage plus économique.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/495/540495/2540495/5124950",
+  "mpn": "5298770",
+  "gtin13": "768682228715",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-177 cm",
+      "stock": 1,
+      "prix": 6149.99,
+      "mpn": "5298770",
+      "sku": "2539847",
+      "gtin13": "768682228715",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2616974-vtt_electrique_tout_suspendu_trek_fuel_exe_8_sram_gx_eagle_axs_12v_360_wh_29___vert_mat_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-188 cm",
+      "stock": 1,
+      "prix": 6149.99,
+      "mpn": "5298771",
+      "sku": "2558867",
+      "gtin13": "768682228579",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2616974-vtt_electrique_tout_suspendu_trek_fuel_exe_8_sram_gx_eagle_axs_12v_360_wh_29___vert_mat_2024"
+    }
+  ],
+  "informations": {
+    "poids": "M - 20,25 kg / 44.65 lbs (avec produit d’étanchéité TLR, sans chambres à air)",
+    "genre": "HommeFemme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram GX Eagle AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Aluminium Alpha Platinum, batterie amovible, acheminement interne, basculeur en alliage d’aluminium, tube de selle de34,9 mm, fixation supérieure pour guide-chaîne, ligne de chaîne de 55 mm, Mino Link, ABP, Boost148, UDH, débattement de 140 mm",
+      "fourche": "Fox Rhythm 36, ressort pneumatique Float EVOL, amortisseur GRIP, pivot conique, déport de 44 mm, Boost110, axe Kabolt 15 mm, débattement de 150 mm",
+      "amortisseur": "Fox Performance Float X, amortisseur à 2 positions, 205x60 mm"
+    },
+    "assistance électrique": {
+      "moteur": "TQ-HPR50, 50 Nm, 250 watts maximum de puissance continue, 300 watts de puissance en pointe",
+      "batterie": "TQ 360 Wh"
+    },
+    "écran ": "Écran LED de TQ avec Bluetooth et connectivité ANT+",
+    "transmission": {
+      "manette de dérailleur": "Sram Eagle AXS POD",
+      "dérailleur arrière": "Sram GX Eagle AXS, T-Type, 12 vitesses",
+      "cassette": "Sram Eagle XS-1275, T-Type, 10-52 dents, 12 vitesses",
+      "chaîne": "Sram GX Eagle, T-Type, 12 vitesses",
+      "pédalier": "Sram GX, longueur 165 mm, plateau Sram X-Sync 2, 32 dents, alliage"
+    },
+    "équipements": {
+      "freins": "Freins à disque hydrauliques à 4 pistons Sram DB 8, disques Sram CenterLine, 6 trous, bord arrondi, 200/200 mm",
+      "selle": "Bontrager Arvada, rails en chromoly creux, largeur de 138 mm",
+      "tige de selle": "Taille S : TranzX JD-YSP39, débattement de 100 mm, acheminement interne, 34,9 mm Taille M : TranzX JD-YSP39, débattement de 150 mm, acheminement interne, 34,9 mm Taille L/XL : TranzX JD-YSP39, débattement de 170 mm, acheminement interne, 34,9 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Line Comp 30, Tubeless Ready, 28 trous, valve Presta",
+      "pneus": "Bontrager XR5 Team Issue, Tubeless Ready, carcasse Inner Strength, tringle en aramide, 60 tpi, 29x2,50 pouces"
+    },
+    "cintre": "Bontrager Line, alliage, 35 mm, élévation 27,5 mm, largeur de 780 mm",
+    "direction": {
+      "poignées": "Bontrager XR Trail Elite, nylon lock-on",
+      "potence": "Bontrager Elite, 35 mm, 0 degré, 45 mm de long"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 573,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 69,
+      "empattement (mm)": 1186,
+      "stack (mm)": 623,
+      "reach (mm)": 430
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 69.5,
+      "empattement (mm)": 1215,
+      "stack (mm)": 627,
+      "reach (mm)": 455
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 70.5,
+      "empattement (mm)": 1245,
+      "stack (mm)": 627,
+      "reach (mm)": 485
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 657,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1275,
+      "stack (mm)": 636,
+      "reach (mm)": 510
+    }
+  ]
+}

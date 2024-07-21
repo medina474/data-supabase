@@ -1,0 +1,133 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2586033",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 165-177 cm",
+    "L / 175-189 cm",
+    "XL / 185-202 cm"
+  ],
+  "name": "VTT Electrique Tout-Suspendu BH Atomx Lynx Carbon Pro 9.8 Shimano SLX/XT 12V 720 Wh 29'' Rouge",
+  "marque": "BH",
+  "description": "Le besoin de mettre au point un VTT électrique hautes performances a conduit au lancement du projet Atom X. Une équipe d'experts des domaines de la géométrie, des suspensions et des performances des VTT, de technologies avancées de motorisation, batteries et informatique a été formée.\r\n\r\nUne géométrie sur laquelle vous pouvez compter en cas de besoin, quand les choses se compliquent.\r\n\r\nUn contrôle total de votre vélo dans les descentes et les sections les plus techniques grâce à sa portée (reach) plus étendue, sa partie arrière ultra-rigide et réactive, sa selle en retrait et l'angle de chasse élancé.\r\n\r\nNous avons conçu le nouvel AtomX, encore plus rigide, en vue de décupler les possibilités du cycliste.\r\nPour cela, nous avons surdimensionné l’axe principal de suspension, obtenant ainsi 20 % de rigidité de torsion supplémentaire grâce aux roulements autocentrés.\r\nEt 79 % dans le tube de direction grâce au nouveau capot intégré.\r\n\r\nLa technologie Ballistic Carbon Layup —ce sont des fibres haut module, présentant une résistance accrue aux chocs du terrain.\r\nLe moulage carbone HCIM- Hollow Core Internal Molding (Moulage interne à noyau creux) permet de réduire au maximum le poids du cadre jusqu’à 2 350 grammes, amortisseur compris, pour vous aider à dépasser vos limites.\r\n\r\nAffrontez de nouvelles lignes, de nouvelles descentes, de nouveaux horizons qui brouillent les limites que vous connaissiez du VTT et ouvrent un nouveau monde de possibilités à explorer.\r\n\r\nTrès léger et compact, avec un impact visuel minime et un centre de gravité bas, le moteur n’oppose aucun type de résistance en mode sans assistance. Il a été conçu en magnésium pour ramener son poids à 2,9 kg tout en préservant son couple maximal de 90 Nm (de 90 à 120 tr/min).\r\n\r\nLe capteur de vitesse (Speed Sensor) a été intégré dans la patte de cadre, afin d’affiner la sensibilité du capteur et parer aux vibrations et à la saleté.\r\n\r\nL’utilisation de cellules avec une densité énergétique maximale, disposées en nid d'abeille, a permis de réduire la section du tube diagonal de 18 mm, d’y placer 720 Wh pour une autonomie de 155 km et d’alléger le triangle avant.\r\n\r\nLa batterie est intégrée indépendamment dans le cadre et le port de charge est accessible depuis le haut, afin de vous accompagner sur chaque itinéraire, sans jamais vous faire défaut.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/33/586033/2586033/5224595",
+  "mpn": "ER983RRRLA",
+  "gtin13": "8413616954155",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-170 cm",
+      "stock": 2,
+      "prix": 4999.99,
+      "mpn": "ER983RRRSM",
+      "sku": "2559547",
+      "gtin13": "8413616954179",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2710587-vtt_electrique_tout_suspendu_bh_atomx_lynx_carbon_pro_9_8_shimano_slx_xt_12v_720_wh_29___rouge"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-189 cm",
+      "stock": 8,
+      "prix": 4999.99,
+      "mpn": "ER983RRRLA",
+      "sku": "2560188",
+      "gtin13": "8413616954155",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2710587-vtt_electrique_tout_suspendu_bh_atomx_lynx_carbon_pro_9_8_shimano_slx_xt_12v_720_wh_29___rouge"
+    }
+  ],
+  "informations": {
+    "genre": "HommeFemme",
+    "débattement fourche (mm)": 160,
+    "débattement cadre (mm)": 160,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano SLX XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : 160 mm FS Carbon 29\", BC Layup, internal cable routing",
+      "fourche": "Fox 38 Float Factory 160mm 15QR",
+      "amortisseur": "Fox Float X Performance"
+    },
+    "assistance électrique": {
+      "moteur": "Brose S Mag, X System, 250W, 25 km/h",
+      "batterie": "720 Wh",
+      "écran": "BH I-Remote"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano XT, 1x12 vitesses",
+      "dérailleur arrière": "Shimano SLX, 12 vitesses",
+      "cassette": "Shimano CSM7100, 12 vitesses, 10-51 Dents",
+      "chaîne": "Shimano CNM6100",
+      "pédalier": "Praxis 32 dents -165mm"
+    },
+    "équipements": {
+      "freins": "Shimano XT, 4 pistons, 203/203mm",
+      "selle": "Prologo Proxim W450 Stn",
+      "tige de selle": "Race Face DP Aeffect 31.6"
+    },
+    "roues": {
+      "jantes": "DT Swiss H1900 TR",
+      "pneu avant": "Minion TPI120 Terra EXO TR 29\"x2.5",
+      "pneu arrière": ""
+    },
+    "direction": {
+      "cintre": "Race Face Aeffect Riser 35 780mm",
+      "poignées": "Ergon GE10",
+      "potence": "BH Evo 35 Fit",
+      "jeu de direction": "Acros AIF-560 ICR BL"
+    },
+    "collier de selle": "Integrated",
+    "référence": "ER983"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 390,
+      "tube supérieur (mm)": 570,
+      "bases de chaîne (mm)": 454,
+      "longueur du tube de direction (mm)": 95,
+      "angle du tube de direction (°)": 65,
+      "angle du tube de selle (°)": 76,
+      "stack (mm)": 621,
+      "reach (mm)": 423
+    },
+    {
+      "taille du cadre": "M",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 598,
+      "bases de chaîne (mm)": 454,
+      "longueur du tube de direction (mm)": 100,
+      "angle du tube de direction (°)": 65,
+      "angle du tube de selle (°)": 76,
+      "stack (mm)": 625,
+      "reach (mm)": 450
+    },
+    {
+      "taille du cadre": "L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 620,
+      "bases de chaîne (mm)": 454,
+      "longueur du tube de direction (mm)": 110,
+      "angle du tube de direction (°)": 65,
+      "angle du tube de selle (°)": 76,
+      "stack (mm)": 634,
+      "reach (mm)": 470
+    },
+    {
+      "taille du cadre": "XL",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 638,
+      "bases de chaîne (mm)": 454,
+      "longueur du tube de direction (mm)": 125,
+      "angle du tube de direction (°)": 65,
+      "angle du tube de selle (°)": 76,
+      "stack (mm)": 648,
+      "reach (mm)": 485
+    }
+  ]
+}

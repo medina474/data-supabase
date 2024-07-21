@@ -1,0 +1,133 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2455749",
+  "tailles": [
+    "M / 165-175 cm",
+    "L / 175-185 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu R Raymon AirRay 10.0 Sram NX Eagle 12V 500Wh 29'' Rouge 2023",
+  "marque": "R Raymon",
+  "description": "Le cœur du modèle AirRay pour débutants est un cadre en carbone léger pesant 2,8 kg. Grâce à sa géométrie sportive, la nouvelle plateforme de cadre est parfaitement adaptée au trail et aux randonnées en montagne. La E-MTB est entraînée par le moteur AIR DRIVE de Yamaha. Un couple de 50 Nm assure une assistance suffisante et la batterie de 500 Wh fournit l'énergie nécessaire. Grâce à la transmission précise à 12 vitesses, les changements de vitesse sont faciles à maîtriser. Sur les terrains accidentés, la suspension pneumatique RockShox de 150 mm apporte une dose supplémentaire de plaisir.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/749/455749/2455749/4700171",
+  "mpn": "4510008944",
+  "gtin13": "",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 2,
+      "prix": 3499.99,
+      "mpn": "4510008944",
+      "sku": "2436504",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2499973-vtt_electrique_tout_suspendu_r_raymon_airray_10_0_sram_nx_eagle_12v_500wh_29___rouge_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 2,
+      "prix": 3499.99,
+      "mpn": "4510008947",
+      "sku": "2436538",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2499973-vtt_electrique_tout_suspendu_r_raymon_airray_10_0_sram_nx_eagle_12v_500wh_29___rouge_2023"
+    }
+  ],
+  "informations": {
+    "poids": "20.4 kg",
+    "genre": "Homme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram NX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : 29\", carbone, batterie intégrée, Boost, 150 mm",
+      "fourche": "RockShox Revelation RC, DebonAir, Air, 150 mm, conique",
+      "amortisseur": "RockShox Deluxe Select+, Air, 230x65 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Yamaha PW-ST, 250 W, 70 Nm",
+      "batterie": "Yamaha ML500, 500 Wh, 36 V"
+    },
+    "affichage": "Yamaha X",
+    "manette": "Sram SX Eagle, simple clic, 1x12 vitesses",
+    "transmission": {
+      "dérailleur arrière": "Sram NX Eagle, 12 vitesses",
+      "pédalier": "R Raymon EC33, Aluminium forgé, JIS / SRAM X-Sync Eagle, 34 T",
+      "chaîne": "Sram SX Eagle, 12 vitesses",
+      "cassette": "Sram PG-1210 Eagle, 10-50 dents, 12 vitesses"
+    },
+    "roues": {
+      "jantes": "NEWMEN Evolution A.30, Tubeless ready, 6 trous, 15x110/12x148 mm, axe traversant",
+      "pneus": "Continental Mountain King, 29x2.3"
+    },
+    "équipements": {
+      "freins": "Avant : Formula Cura 4, 4 pistons | Arrière : Formula Cura, freins à disques hydrauliques à 2 pistons.",
+      "selle": "Selle Italia SLR Boost, Titan",
+      "tige de selle": "R Raymon Pro, 31.6 mm, Tige de selle télescopique (Dropper Post)"
+    },
+    "direction": {
+      "potence": "Race Face Affect 35 mm, 0 °, Ahead",
+      "cintre": "R Raymon Riser 31,8 mm, 780 mm, Sweep : 9 °, Rise : 15 mm",
+      "poignées": "R Raymon MTB light"
+    },
+    "couleurs": "Rouge"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 590,
+      "tube de direction (mm)": 125,
+      "longueur de la base (mm)": 475,
+      "angle de direction (°)": 65.5,
+      "angle du tube de selle (°)": 74,
+      "empattement (mm)": 1250,
+      "stack (mm)": 642,
+      "reach (mm)": 447
+    },
+    {
+      "taille du cadre": "M",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 605,
+      "tube de direction (mm)": 125,
+      "longueur de la base (mm)": 475,
+      "angle de direction (°)": 65.5,
+      "angle du tube de selle (°)": 74,
+      "empattement (mm)": 1265,
+      "stack (mm)": 642,
+      "reach (mm)": 462
+    },
+    {
+      "taille du cadre": "L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 630,
+      "tube de direction (mm)": 130,
+      "longueur de la base (mm)": 475,
+      "angle de direction (°)": 65.5,
+      "angle du tube de selle (°)": 74,
+      "empattement (mm)": 1290,
+      "stack (mm)": 647,
+      "reach (mm)": 486
+    },
+    {
+      "taille du cadre": "XL",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 655,
+      "tube de direction (mm)": 140,
+      "longueur de la base (mm)": 475,
+      "angle de direction (°)": 65.5,
+      "angle du tube de selle (°)": 74,
+      "empattement (mm)": 1317,
+      "stack (mm)": 656,
+      "reach (mm)": 508
+    }
+  ]
+}

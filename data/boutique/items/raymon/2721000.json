@@ -1,0 +1,161 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2721000",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-175 cm",
+    "L / 175-185 cm",
+    "XL / 185-195 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Raymon TrailRay 160 10.0 Sram SX 12V 720 Wh 29'' Rouge",
+  "marque": "Raymon",
+  "description": "Le Raymon TrailRay 160 est un eFully qui donne beaucoup de plaisir ! Les roues de 29'' et les suspensions avant et arrière RockShox, au débattement de 160 mm, offrent plus de confort pour rouler en souplesse sur les pistes. En cas de baisse de forme, le moteur Yamaha PW-X3 et la batterie de 720 Wh vous assureront de ne pas manquer d'énergie. Le dérailleur arrière et les freins à disque hydrauliques Sram assurent une transmission optimale alliée à une parfaite maîtrise et à la sécurité dans les descentes.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/0/721000/2721000/5482212",
+  "mpn": "4500009541",
+  "gtin13": "",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-165 cm",
+      "stock": 1,
+      "prix": 3819,
+      "mpn": "4500009541",
+      "sku": "2179898",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2845989-vtt_electrique_tout_suspendu_raymon_trailray_160_10_0_sram_sx_12v_720_wh_29___rouge"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 1,
+      "prix": 3819.99,
+      "mpn": "4500009544",
+      "sku": "2179792",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2845989-vtt_electrique_tout_suspendu_raymon_trailray_160_10_0_sram_sx_12v_720_wh_29___rouge"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 1,
+      "prix": 3819.99,
+      "mpn": "4500009546",
+      "sku": "2179706",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2845989-vtt_electrique_tout_suspendu_raymon_trailray_160_10_0_sram_sx_12v_720_wh_29___rouge"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-195 cm",
+      "stock": 1,
+      "prix": 3819.99,
+      "mpn": "4500009549",
+      "sku": "2179925",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2845989-vtt_electrique_tout_suspendu_raymon_trailray_160_10_0_sram_sx_12v_720_wh_29___rouge"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Rouge"
+    }
+  ],
+  "informations": {
+    "poids": "25,6 kg",
+    "poids maximum": "130 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 170,
+    "débattement cadre (mm)": 160,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : 29'', 6061 aluminium, integrated battery, Boost, 160 mm",
+      "fourche": "RockShox Domain RC, DebonAir, Aluminium steerer tube 1''1/8- 1.5\", Boost 15 x 110 mm thru-axle, 170 mm travel",
+      "amortisseur": "RockShox Super Deluxe Select+, 230 x 65 mm, 160 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Yamaha PW-X3, 250 W, 85 Nm",
+      "batterie": "InTube 720 Wh",
+      "écran": "Yamaha Interface X, ANT+, Bluetooth"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram SX Eagle, 1x12-vitesses",
+      "dérailleur arrière": "Sram SX Eagle, 12-vitesses",
+      "cassette": "Sram PG-1210, 11-50 dts",
+      "chaîne": "Sram SX Eagle",
+      "pédalier": "Raymon EC40, 38 dts"
+    },
+    "équipements": {
+      "freins": "Sram G2 R, 4-piston, Hydr. Disc Brake, (200/200mm)",
+      "selle": "Raymon MTB",
+      "tige de selle": "R Raymon Pro, dropper, 34,9 mm"
+    },
+    "roues": {
+      "jantes": "Mach1 TRUCKY 30 Tubeless Ready, moyeux Raymon DA210, 6 trous, 15x110/12x148mm, roue libre HG",
+      "pneu avant": " Schwalbe Magic Mary Evolution, 62-622, 29x2,4'' ",
+      "pneu arrière": " Schwalbe Hans Dampf Evolution, 60-622, 29x2,35'', Tubeless Ready"
+    },
+    "direction": {
+      "cintre": "Raymon Riser, 35 x 780 mm, Reach 20 mm, 9°",
+      "potence": "Alu A-head, 35 mm",
+      "jeu de direction": "FSA Orbit"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues ('')": 29,
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 576,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 72,
+      "empattement (mm)": 1241,
+      "stack (mm)": 620,
+      "reach (mm)": 445
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues ('')": 29,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 592,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 72,
+      "empattement (mm)": 1258,
+      "stack (mm)": 625,
+      "reach (mm)": 460
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues ('')": 29,
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 619,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 72,
+      "empattement (mm)": 1285,
+      "stack (mm)": 629,
+      "reach (mm)": 485
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues ('')": 29,
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 645,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 72,
+      "empattement (mm)": 1313,
+      "stack (mm)": 634,
+      "reach (mm)": 510
+    }
+  ]
+}

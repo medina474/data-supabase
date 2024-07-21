@@ -1,0 +1,138 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2669034",
+  "tailles": [
+    "M / 168-180 cm",
+    "L / 175-188 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Mondraker Crafty XR Sram GX Eagle 12S 750 Wh 29'' Bronze 2024",
+  "marque": "Mondraker",
+  "description": "Le Mondraker CRAFTY XR bénéficie de la cinématique du système de suspension ZERO qui permet de mieux profiter d'un VAE super absorbant et à la fois le plus efficace possible. C'est l'une de nos priorités sur nos vélos. De plus, son agilité apporte ce point supplémentaire si nécessaire sur un VTTAE, qui permet un plaisir maximal. Il est également équipé du moteur Bosch Performance CX Line Smart Control avec la nouvelle télécommande Mini Remote et le System Controller. Le CRAFTY XR est le VAE d'enduro le plus compétitif.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/34/669034/2669034/5371061",
+  "mpn": "010.24406",
+  "gtin13": "8435392879743",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-180 cm",
+      "stock": 1,
+      "prix": 6999.99,
+      "mpn": "010.24406",
+      "sku": "2564944",
+      "gtin13": "8435392879743",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2789765-vtt_electrique_tout_suspendu_mondraker_crafty_xr_sram_gx_eagle_12s_750_wh_29___bronze_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-188 cm",
+      "stock": 10,
+      "prix": 7649.99,
+      "mpn": "010.24407",
+      "sku": "2564702",
+      "gtin13": "8435392879750",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2789765-vtt_electrique_tout_suspendu_mondraker_crafty_xr_sram_gx_eagle_12s_750_wh_29___bronze_2024"
+    }
+  ],
+  "informations": {
+    "poids": "25,3 kg",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 170,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Crafty Stealth Evo alu 6061, système de suspension Zero, débattement 150 mm, batterie interne non-amovible, axe arrière Boost 12 x 148 mm, passage cables internes HHG, roulements étanches, axes surdimensionnés 17 mm, capteur de vitesse intégré.",
+      "fourche": "Öhlins RXF 38 M.2 29, 170 mm, cartouche TTX18 Twin Tube, pivot conique, Boost 15 x 110 mm, déport 44 mm. Réglages : compression haute vitesse avec mode montée, compression basse vitesse, rebond, précontrainte pneumatique, chambre à air rampe",
+      "amortisseur": "Öhlins TTX Air 205x65 mm. Réglages : compression haute vitesse avec mode montée, compression basse vitesse, rebond, précontrainte pneumatique. Trunnion montage haut, bagues inférieures 25x10 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Performance Line CX (25km/h) Smart System 85 nm",
+      "batterie": "Bosch Powertube 750 Wh (non-amovible)"
+    },
+    "ecran": "Bosch Kiox 500 / Mini système de commande Bosch / Contrôleur système Bosch",
+    "transmission": {
+      "manette de dérailleur": "Sram Trigger GX Eagle, 12 vitesses, X-Actuation 1:1, simple clic",
+      "dérailleur arrière": "Sram GX Eagle, Roller Bearing Clutch type 3, technologie de blocage de chape, 1 x 12 vitesses, X-Actuation 1:1",
+      "cassette": "Sram PG-1275, 11-52 dts, 12 vitesses",
+      "chaîne": "Sram NX Eagle, 12 vitesses, Powerlock",
+      "pédalier": "X-Sync 2 Eagle 34 dts, acier, faible largeur, BCD 104, manivelle Race Face Aeffect ebike, 165 mm"
+    },
+    "équipements": {
+      "freins": "Freins à disque hydrauliques SRAM Code Silver Stealth, étrier 4 pistons, disques 6 trous Centerline 220/200 mm, plaquettes métalliques",
+      "selle": "FIZIK Terra Aidon X5 145 mm",
+      "tige de selle": "Tige de selle télescopique interne Onoff Pija, diamètre 31,6 mm"
+    },
+    "roues": {
+      "jantes": "Mavic E-Deemax S 29, largeur intérieure 30 mm, soudée Maxtal, PFP, Tubeless Ready, 28 rayons",
+      "moyeux": "F : Mavic, Boost 15 x 110 mm, IS 6 trous, R : Mavic, Boost 12 x 148 mm, système ratched ID360, IS 6 trous, roue libre XD",
+      "pneus": "F : Maxxis Minion DHF 29 x 2,6, Tubeless Ready, composé 3C MAXX TERRA, protection EXO+, 120 TPI, tringle souple, R : Maxxis Minion DHR II 29 x 2,6, Tubeless Ready, composé 3C MAXX TERRA, protection EXO+, 120 TPI, tringle souple"
+    },
+    "direction": {
+      "cintre": "Onoff Sulfur 1.0, aluminium 6061 double renfort, galbe : 20 mm, largeur : 800 mm, cintrage 9°, réhausse 5°, alésage 31,8 mm",
+      "poignées": "Onoff Desert, verrouillage simple, 135 mm",
+      "potence": "Onoff Krypton FG 30mm, CNC, alésage 31,8 mm",
+      "jeu de direction": "douille de direction conique, Onoff Saturn conique pour tube de direction de 1-1/8” à 1-1/2”, roulements étanches ACB, haut 41x30,2x7x45ºx45º, bas 51,9x40x8x45ºx45º"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 605,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": "65.5°",
+      "angle tube de selle (°)": "73.5°",
+      "empattement (mm)": 1225,
+      "stack (mm)": 622,
+      "reach (mm)": 450,
+      "débattement tige de selle (mm)": "95-125"
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 625,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": "65.5°",
+      "angle tube de selle (°)": "73.5°",
+      "empattement (mm)": 1245,
+      "stack (mm)": 622,
+      "reach (mm)": 470,
+      "débattement tige de selle (mm)": "120-150"
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 650,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": "65.5°",
+      "angle tube de selle (°)": "73.5°",
+      "empattement (mm)": 1265,
+      "stack (mm)": 640,
+      "reach (mm)": 490,
+      "débattement tige de selle (mm)": "140-170"
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 670,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": "65.5°",
+      "angle tube de selle (°)": "73.5°",
+      "empattement (mm)": 1285,
+      "stack (mm)": 640,
+      "reach (mm)": 510,
+      "débattement tige de selle (mm)": "170-200"
+    }
+  ]
+}

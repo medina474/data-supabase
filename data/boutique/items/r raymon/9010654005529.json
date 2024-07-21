@@ -1,0 +1,135 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2523546",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-175 cm",
+    "L / 175-185 cm",
+    "XL / 185-195 cm"
+  ],
+  "name": "VTT Électrique Tout Suspendu R Raymon FullRay 150E 10.0 Shimano SLX 12V 630Wh 29'' White 2023",
+  "marque": "R Raymon",
+  "description": "Le R Raymon FullRay 150E 10.0 est un VTT électrique haut de gamme avec un cadre en carbone/aluminium. Ce VTT est conçu pour les amateurs de VTT qui recherchent des performances de pointe et une expérience de conduite exceptionnelle.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/546/523546/2523546/5094931",
+  "mpn": "4500010947",
+  "gtin13": "9010654005529",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 2,
+      "prix": 2999.99,
+      "mpn": "4500010947",
+      "sku": "2180077",
+      "gtin13": "9010654005529",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2604791-vtt_electrique_tout_suspendu_r_raymon_fullray_150e_10_0_shimano_slx_12v_630wh_29___white_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-195 cm",
+      "stock": 1,
+      "prix": 2999.99,
+      "mpn": "4500010950",
+      "sku": "2179768",
+      "gtin13": "9010654005536",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2604791-vtt_electrique_tout_suspendu_r_raymon_fullray_150e_10_0_shimano_slx_12v_630wh_29___white_2023"
+    }
+  ],
+  "informations": {
+    "poids": "24.2 kg",
+    "genre": "Homme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Alu / Carbone",
+    "groupe": "Shimano SLX 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone/Alu : 29\", carbone/alliage 6061, batterie intégrée, Boost, 150 mm",
+      "fourche": "FOX Float 36 Rhythm, Grip, Air, 150 mm, conique",
+      "amortisseur": "FOX Float DPS Performance, Air, 230x65 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Yamaha PW-ST, 250 W, 70 Nm",
+      "batterie": "Simplo, 630 Wh, 36 V"
+    },
+    "ecran": "Yamaha Display A, écran LCD, Micro-USB",
+    "levier de vitesse": "Shimano SLX, SL-M7100, Rapidfire Plus 12S",
+    "transmission": {
+      "dérailleur arrière": "Shimano SLX, RD-M7100, Shadow Plus, 12-S",
+      "pédalier": "R Raymon EC40, Aluminium forgé, JIS / R Raymon, Narrow Wide, 38 T",
+      "chaîne": "KMC e12S",
+      "cassette": "Shimano 105 CS-R7000, 10-51 T"
+    },
+    "roues": {
+      "jantes": "Arrière : Jante : Mach 1 TRUCKY 30, oeilletée, Tubeless Ready / Moyeu : R Raymon DA210R, Center Lock, 12x148 mm, Axe traversant, HG / Avant : Jante : Mach 1 TRUCKY 30, oeilletée, Tubeless Ready / Moyeu : R Raymon DA210F,Center Lock, 15x110 mm, Axe traversant",
+      "pneus": "Schwalbe Nobby Nic, Evolution, 62-622, 29x2.4, Tubeless Ready"
+    },
+    "équipements": {
+      "freins": "Avant : Shimano BR-MT420, 4 pistons, Frein à disque hydraulique, Shimano SM-RT64, 203 mm, Center Lock / Arrière : Shimano BR-MT420, 4 pistons, Frein à disque hydraulique, Shimano SM-RT64, 180 mm, Center Lock",
+      "selle": "R Raymon MTB",
+      "tige de selle": "R Raymon Pro, 31.6 mm, Tige de selle télescopique (Dropper Post)"
+    },
+    "tige": "R Raymon 35, 0 °, Ahead",
+    "direction": {
+      "cintre": "R Raymon Riser 35 mm, 780 mm, Sweep : 9 °, Montée : 20 mm",
+      "poignées": "R Raymon MTB, Poignées à vis"
+    },
+    "couleurs": "Blanc"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 590,
+      "tube de direction (mm)": 125,
+      "longueur de la base (mm)": 475,
+      "angle de direction (°)": 65.5,
+      "angle du tube de selle (°)": 74,
+      "empattement (mm)": 1250,
+      "stack (mm)": 642,
+      "reach (mm)": 447
+    },
+    {
+      "taille du cadre": "M",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 605,
+      "tube de direction (mm)": 125,
+      "longueur de la base (mm)": 475,
+      "angle de direction (°)": 65.5,
+      "angle du tube de selle (°)": 74,
+      "empattement (mm)": 1265,
+      "stack (mm)": 642,
+      "reach (mm)": 462
+    },
+    {
+      "taille du cadre": "L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 630,
+      "tube de direction (mm)": 130,
+      "longueur de la base (mm)": 475,
+      "angle de direction (°)": 65.5,
+      "angle du tube de selle (°)": 74,
+      "empattement (mm)": 1290,
+      "stack (mm)": 647,
+      "reach (mm)": 486
+    },
+    {
+      "taille du cadre": "XL",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 655,
+      "tube de direction (mm)": 140,
+      "longueur de la base (mm)": 475,
+      "angle de direction (°)": 65.5,
+      "angle du tube de selle (°)": 74,
+      "empattement (mm)": 1317,
+      "stack (mm)": 656,
+      "reach (mm)": 508
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2356494",
+  "tailles": [
+    "M / 167-175 cm",
+    "L / 172-182 cm",
+    "XL / 182-195 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Cannondale Moterra Neo 3 Shimano Deore/XT 12V 750 Wh 29'' Gris Mercury",
+  "marque": "Cannondale",
+  "description": "Un VTTAE à double suspension conçu pour s’affranchir des limites. Avec sa maniabilité intuitive, son système Bosch CX 750 offrant à la fois une puissance et une autonomie importantes, rien n’est hors de portée.\r\n\r\nCircuits locaux ou haute montagne, ce VTTAE révolutionnera votre expérience. Agile et rapide dans les montées, stable et rassurant même dans les descentes les plus vicieuses, il apporte du fun sur les chemins et vous donne des ailes sur les sentiers difficiles. C’est le genre de machine qui vous rend impatient(e) de la prochaine sortie.\r\n\r\nLa puissance et l’autonomie ne sont qu’un début. Ce qui rend le Moterra Neo vraiment exceptionnel, c’est sa maniabilité. Grâce à notre conception de cadre « Proportional Response », chaque taille de cadre bénéficie d’une configuration de suspension et d’une géométrie spécifique, qui donnent au vélo une maniabilité telle qu’il semble avoir été conçu spécialement pour vous. Et c’est justement le cas.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/494/356494/2356494/4395186",
+  "mpn": "C65331U20MD",
+  "gtin13": "884603921401",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 167-175 cm",
+      "stock": 1,
+      "prix": 4499.99,
+      "mpn": "C65331U20MD",
+      "sku": "2151417",
+      "gtin13": "884603921401",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2392903-vtt_electrique_tout_suspendu_cannondale_moterra_neo_3_shimano_deore_xt_12v_750_wh_29___gris_mercury"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 172-182 cm",
+      "stock": 1,
+      "prix": 4499.99,
+      "mpn": "C65331U20LG",
+      "sku": "2151517",
+      "gtin13": "884603921418",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2392903-vtt_electrique_tout_suspendu_cannondale_moterra_neo_3_shimano_deore_xt_12v_750_wh_29___gris_mercury"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 182-195 cm",
+      "stock": 3,
+      "prix": 4499.99,
+      "mpn": "C65331U20XL",
+      "sku": "2151550",
+      "gtin13": "884603921425",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2392903-vtt_electrique_tout_suspendu_cannondale_moterra_neo_3_shimano_deore_xt_12v_750_wh_29___gris_mercury"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Mercury"
+    }
+  ],
+  "informations": {
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore M6100 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Moterra Neo, SmartForm C1 Alloy, 150mm travel, Proportional Response Tuned Suspension, removable downtube battery, injection molded skid plate, 55mm chainline, internal cable routing, 148x12mm thru-axle, UDH hanger, post mount brake, tapered headtube, 18mm two-bolt kickstand mount, integrated rear rack mounts",
+      "fourche": "RockShox Yari RC, 150mm, 15x110mm Boost, 44mm offset",
+      "amortisseur": "RockShox Deluxe Select, DebonAir, 2-Pos mode adjust, adjustable rebound"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Performance Line CX 250W",
+      "batterie": "Bosch PowerTube 750Wh",
+      "écran": "Bosch Kiox 300"
+    },
+    "direction": {
+      "jeu de direction": "Integrated Sealed Bearing, Tapered",
+      "potence": "Cannondale 3, 6061 Alloy, 31.8, 0°",
+      "cintre": "Cannondale 3 Riser, 6061 Alloy, 15mm rise, 8° sweep, 4° rise, 780mm",
+      "poignées": "Fabric FunGuy"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XT, 12-vitesses",
+      "pédalier": "FSA Bosch E-bike w/ 55mm chainline, 160mm, 34 dents",
+      "chaîne": "Shimano Deore, 12-vitesses",
+      "cassette": "Shimano Deore M6100, 10-51, 12-vitesses"
+    },
+    "leviers de frein": "Magura MT Thirty HC",
+    "équipements": {
+      "freins": "Shimano MT401 hydraulic disc / Shimano MT420 4-piston hydraulic disc, 203/203 mm rotors",
+      "selle": "Fabric Scoop Shallow Sport, steel rails",
+      "tige de selle": "TranzX dropper, internal routing, 31.6, 130mm (S), 150mm (M-XL)"
+    },
+    "roues": {
+      "jantes": "WTB ST i30 TCS, 32h, tubeless ready",
+      "moyeu avant": "Formula 15x110mm thru-axle ",
+      "moyeu arrière": "Shimano MT410, 12x148mm thru-axle",
+      "pneu avant": " Maxxis Minion DHF, 29 x 2.6\", EXO, tubeless ready ",
+      "pneu arrière": " Maxxis Rekon, 29 x 2.6\" (27.5x2.6\" - size Small), EXO, tubeless ready"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "taille de roues (pouces)": "27.5 R / 29 F",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 583,
+      "longueur base (mm)": 452,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1196,
+      "stack (mm)": 618,
+      "reach (mm)": 428
+    },
+    {
+      "taille cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 608,
+      "longueur base (mm)": 455,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1220,
+      "stack (mm)": 631,
+      "reach (mm)": 450
+    },
+    {
+      "taille cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 635,
+      "longueur base (mm)": 455,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1249,
+      "stack (mm)": 641,
+      "reach (mm)": 475
+    },
+    {
+      "taille cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 672,
+      "longueur base (mm)": 455,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1288,
+      "stack (mm)": 650,
+      "reach (mm)": 510
+    }
+  ]
+}

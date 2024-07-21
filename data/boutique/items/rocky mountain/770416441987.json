@@ -1,0 +1,107 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2589429",
+  "tailles": [
+    "S / 157-170 cm",
+    "M / 167-177 cm",
+    "L / 175-188 cm",
+    "XL / 185-198 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Rocky Mountain Instinct Powerplay Alloy 70 Shimano XT 12V 720Wh 29'' Orange Bleu 2023",
+  "marque": "Rocky Mountain",
+  "description": "Si vous cherchez à vous aventurer dans les alpages ou à explorer une nouvelle zone, l'Instinct Powerplay vous incitera à aller plus loin et à rechercher de nouvelles aventures.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/429/589429/2589429/5229482",
+  "mpn": "B0197MD3",
+  "gtin13": "770416441987",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 167-177 cm",
+      "stock": 1,
+      "prix": 5899.99,
+      "mpn": "B0197MD3",
+      "sku": "2587429",
+      "gtin13": "770416441987",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2714382-vtt_electrique_tout_suspendu_rocky_mountain_instinct_powerplay_alloy_70_shimano_xt_12v_720wh_29___orange_bleu_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-188 cm",
+      "stock": 1,
+      "prix": 5899.99,
+      "mpn": "B0197LG3",
+      "sku": "2587441",
+      "gtin13": "770416442083",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2714382-vtt_electrique_tout_suspendu_rocky_mountain_instinct_powerplay_alloy_70_shimano_xt_12v_720wh_29___orange_bleu_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-198 cm",
+      "stock": 2,
+      "prix": 5617.84,
+      "mpn": "B0197XL3",
+      "sku": "2587461",
+      "gtin13": "770416442182",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2714382-vtt_electrique_tout_suspendu_rocky_mountain_instinct_powerplay_alloy_70_shimano_xt_12v_720wh_29___orange_bleu_2023"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano XT 12V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": "585 / 583",
+      "longueur base (mm)": "439 / 436",
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": "64.2 / 64.95",
+      "angle tube de selle (°)": "76.2 / 76.95",
+      "empattement (mm)": "1201 / 1199",
+      "stack (mm)": "624 / 618",
+      "reach (mm)": "432 / 441"
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": "610 / 608",
+      "longueur base (mm)": "439 / 436",
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": "64.2 / 64.95",
+      "angle tube de selle (°)": "76.2 / 76.95",
+      "empattement (mm)": "1226 / 1224",
+      "stack (mm)": "624 / 618",
+      "reach (mm)": "457 / 466"
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": "638 / 636",
+      "longueur base (mm)": "439 / 436",
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": "64.2 / 64.95",
+      "angle tube de selle (°)": "76.2 / 76.95",
+      "empattement (mm)": "1256 / 1253",
+      "stack (mm)": "632 / 626",
+      "reach (mm)": "482 / 491"
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": "671 / 669",
+      "longueur base (mm)": "439 / 436",
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": "64.2 / 64.95",
+      "angle tube de selle (°)": "76.2 / 76.95",
+      "empattement (mm)": "1292 / 1290",
+      "stack (mm)": "646 / 639",
+      "reach (mm)": "512 / 520"
+    }
+  ]
+}

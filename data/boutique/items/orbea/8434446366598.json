@@ -1,0 +1,146 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2517287",
+  "tailles": [
+    "S / 150-165 cm",
+    "M / 160-175 cm",
+    "L / 170-185 cm",
+    "XL / 180-198 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Orbea Rise H30 Shimano Deore 12V 540 Wh 29'' Violet Metallic Mulberry 2023",
+  "marque": "Orbea",
+  "description": "Lors de son lancement, l'Orbea Rise a secoué le monde des vélos électriques tout-terrain légers avec sa philosophie \"plus de vélo, moins de E\". Il s'agit tout simplement de l'e-bike Orbea offrant la sensation la plus naturelle du marché, qui rapproche les cyclistes du terrain et bouleverse leurs attentes en matière de comportement d'un VTT électrique.\r\n\r\nLe soutien fourni par le taux progressif, ainsi que les caractéristiques anti-squat du placement du pivot principal, font du Rise un allié efficace qui ne sapera pas votre énergie lors d'efforts soutenus. La suspension progressive est souple et dynamique avec une bonne traction, mais monte en puissance pour gérer les inévitables gros impacts. Le Rise a une courbe modérément progressive à 22 %, ce qui lui confère un comportement très efficace sur les sentiers sans perdre le côté ludique et naturel que les riders apprécient tant.\r\n\r\nDans le cadre d’un travail commun avec Shimano, Orbea a développé sa propre électronique et ses propres batteries, tandis que Shimano a configuré son moteur EP6 pour qu'il fonctionne parfaitement avec le firmware RS. Le réglage du couple du moteur Shimano EP-RS à 60 Nm permet d'augmenter l'autonomie tout en améliorant le rendement. Cela permet également de monter des composants VTT standard, ce qui élargit les options et réduit encore le poids.\r\n\r\nEn utilisant des processus d’hydroformage et des tubes d'aluminium triplement aboutés, les ingénieurs de chez Orbea ont optimisé l’épaisseur des parois pour gagner en poids et renforcer les zones critiques. Les finitions polies imitent l’esthétique d’un cadre en carbone et augmentent la résistance à la fatigue des soudures.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/287/517287/2517287/4954000",
+  "mpn": "N37005V7",
+  "gtin13": "8434446366598",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 160-175 cm",
+      "stock": 1,
+      "prix": 3699.99,
+      "mpn": "N37005V7",
+      "sku": "2398837",
+      "gtin13": "8434446366598",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2589244-vtt_electrique_tout_suspendu_orbea_rise_h30_shimano_deore_12v_540_wh_29___violet_metallic_mulberry_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 170-185 cm",
+      "stock": 2,
+      "prix": 3699.99,
+      "mpn": "N37007V7",
+      "sku": "2398824",
+      "gtin13": "8434446366628",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2589244-vtt_electrique_tout_suspendu_orbea_rise_h30_shimano_deore_12v_540_wh_29___violet_metallic_mulberry_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 180-198 cm",
+      "stock": 1,
+      "prix": 3699.99,
+      "mpn": "N37009V7",
+      "sku": "2398705",
+      "gtin13": "8434446366673",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2589244-vtt_electrique_tout_suspendu_orbea_rise_h30_shimano_deore_12v_540_wh_29___violet_metallic_mulberry_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "V7 - Metallic Mulberry - Black (Matt)"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 140,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Orbea Rise Hydro, 29\" wheels, Boost 12x148 mm, 140 mm travel",
+      "fourche": "Marzocchi Bomber Z2, QR15x110 mm, 140 mm travel",
+      "amortisseur": "Fox Float DPS Performance, 3-Position, Evol, custom tune, 210x55 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Shimano EP600-RS",
+      "batterie": "Orbea Internal, 540 Wh",
+      "commande": "Shimano EN600-L"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, 1x12-vitesses",
+      "dérailleur arrière": "Shimano Deore RD-M6100-SGS, ShadowPlus, 12-vitesses",
+      "cassette": "Shimano Deore CS-M6100, 10-51 Dents",
+      "chaîne": "Shimano CN-M6100",
+      "pédalier": "e*thirteen e*spec, Direct Mount, Boost, 32 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano BR-MT410, Hydr. Disc Brake, Rotors 180/180 mm",
+      "selle": "Selle Italia Model X, FecAlloy Rail, 145 x 248 mm",
+      "tige de selle": "OC Mountain Control MC20, 31.6 mm, Dropper / Shimano SL-MT500 Remote"
+    },
+    "roues": {
+      "jantes": "Alloy, Tubeless, 29c, 32H, 29\"",
+      "pneu avant": " Maxxis Dissector, 60 TPI, 3CMaxxTerra, Exo, TLR, 29 x 2.40\" ",
+      "pneu arrière": " Maxxis Rekon, 120 TPI, 3CMaxxTerra, Exo+, TLR, 29 x 2.40\""
+    },
+    "direction": {
+      "cintre": "OC Mountain Control MC31, Rise 20 mm, Width 800 mm",
+      "potence": "OC Mountain Control MC20, 0º",
+      "jeu de direction": "Acros Alloy 1-1/8 - 1-1/2\" Integrated"
+    },
+    "référence": "N370"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 381,
+      "tube supérieur (mm)": 565,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": "66 / 65.5",
+      "angle tube de selle (°)": "77 / 76.5",
+      "empattement (mm)": 1180,
+      "stack (mm)": 604,
+      "reach (mm)": 425
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 419,
+      "tube supérieur (mm)": 592,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": "66 / 65.5",
+      "angle tube de selle (°)": "77 / 76.5",
+      "empattement (mm)": 1205,
+      "stack (mm)": 613,
+      "reach (mm)": 450
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 457,
+      "tube supérieur (mm)": 619,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": "66 / 65.5",
+      "angle tube de selle (°)": "77 / 76.5",
+      "empattement (mm)": 1229,
+      "stack (mm)": 627,
+      "reach (mm)": 474
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 508,
+      "tube supérieur (mm)": 649,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": "66 / 65.5",
+      "angle tube de selle (°)": "77 / 76.5",
+      "empattement (mm)": 1255,
+      "stack (mm)": 646,
+      "reach (mm)": 500
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2578555",
+  "tailles": [
+    "S / 154-165 cm",
+    "M / 162-175 cm",
+    "L / 172-185 cm",
+    "XL / 182-195 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Cannondale Moterra Neo EQ Shimano Deore / XT 12V 750 Wh 29'' Vert Agave",
+  "marque": "Cannondale",
+  "description": "Faufilez-vous à travers la ville. Parcourez les bois. Le nouveau Moterra Neo EQ sait tout faire. Il rassemble des capacités hors-route incroyables et des fonctionnalités parfaites pour les trajets quotidiens.\r\n\r\nUtilisation pratique ou plaisir ? Travail ou aventure ? Pourquoi choisir ? Le Moterra Neo EQ vous offre le meilleur des deux mondes. Portant l’ADN de notre renommé VTTAE Moterra Neo et doté de tout ce dont vous avez besoin pour une véritable mobilité urbaine, ce vélo à assistance électrique est à lui seul un moyen de transport doux et un vélo de trail enjoué. Ce robuste vélo utilitaire et sportif ne connaît pas de limites.\r\n\r\nC’est assurément un vélo moderne adapté aux trajets quotidiens, mais ne vous y trompez pas. Mais sous son air urbain et raffiné se cache un fougueux VTTAE. Avec sa fourche RockShox au débattement de 150 mm, ses robustes composants et ses freins à disque 4 pistons, il n’attend que vous pour s’aventurer sur les sentiers.\r\n\r\nSurvolez les nids-de-poule, les voies de tramway, les racines et les cailloux, avec maîtrise, en confort et en toute confiance. En ville comme sur les sentiers, la suspension avant et arrière au débattement régulier et les gros pneus adhérents effacent les bosses.\r\nPartez à l’aventure et roulez plus loin sans vous soucier de recharger la batterie. Avec le moteur le plus puissant et la capacité de batterie la plus grande de la marque la plus reconnue en technologie de VAE, rien n’est hors de portée.\r\nTout ce dont vous avez besoin pour vos aventures en ville et au-delà. Un porte-bagages arrière pour transporter vos affaires, des garde-boue complets pour vous garder au sec, un éclairage puissant pour voir et être vu(e), une béquille, et même une selle qui s’abaisse au moyen d’une manette.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/555/578555/2578555/5201141",
+  "mpn": "C65311U20LG",
+  "gtin13": "",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 172-185 cm",
+      "stock": 1,
+      "prix": 4799.99,
+      "mpn": "C65311U20LG",
+      "sku": "2436591",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2690326-vtt_electrique_tout_suspendu_cannondale_moterra_neo_eq_shimano_deore___xt_12v_750_wh_29___vert_agave"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Agave"
+    }
+  ],
+  "informations": {
+    "genre": "HommeFemme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 130,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Moterra Neo, SmartForm C1 Alloy, 130mm travel, Proportional Response Tuned Suspension, removable downtube battery, injected molded skid plate, 55mm chainline, internal cable routing, 148x12mm thru-axle, UDH hanger, post mount brake, tapered headtube, 18mm two-bolt kickstand mount, integrated rear rack",
+      "fourche": "RockShox 35 Silver R, 150mm, Coil, 15x110mm thru-axle, tapered steerer, 44mm offset, rack and fender compatible",
+      "amortisseur": "RockShox Deluxe Select, DebonAir"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Performance Line CX",
+      "batterie": "Bosch PowerTube 750Wh",
+      "écran": "Bosch Kiox 300 w/ LED remote"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, 1x12 vitesses",
+      "dérailleur arrière": "Shimano XT, 12 vitesses",
+      "cassette": "Shimano Deore M6100, 10-51 Dents",
+      "chaîne": "Shimano Deore 6100",
+      "pédalier": "FSA Bosch E-bike w/ custom Ai offset, 160mm, 34 dents"
+    },
+    "équipements": {
+      "freins": "Shimano MT420 4-piston hydraulic disc, 203/203 mm rotors",
+      "selle": "Fabric Scoop Shallow Sport, steel rails",
+      "tige de selle": "Cannondale DownLow Dropper, internal routing, 31.6, 150mm (Cannondale 3, 6061 Alloy, 31.6 x 350mm on size Small for clearance)"
+    },
+    "roues": {
+      "jantes": "WTB ST i30 TCS, 32h, tubeless ready",
+      "moyeu avant": "Formula 15x110mm thru-axle ",
+      "moyeu arrière": "Shimano MT410, 12x148mm thru-axle",
+      "pneus": "Continental eRuban, 29 x 2.3\""
+    },
+    "direction": {
+      "cintre": "Cannondale 3 Riser, Alloy, 25mm rise, 8° sweep, 5° rise, 780mm",
+      "poignées": "Fabric FunGuy",
+      "potence": "Cannondale 2, 6061 Alloy, 35mm, 0°",
+      "jeu de direction": "Integrated Sealed Bearing, Tapered"
+    },
+    "accessoires": "Cannondale E-bike lights by Lezyne - Foresite E350 headlight, Hindsite E25 taillight - kickstand, alloy full coverage fenders, removable Moterra Rack, 15kg max."
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 583,
+      "longueur base (mm)": 455,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 69.8,
+      "empattement (mm)": 1197,
+      "stack (mm)": 623,
+      "reach (mm)": 427
+    },
+    {
+      "taille cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 608,
+      "longueur base (mm)": 455,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 69.5,
+      "empattement (mm)": 1221,
+      "stack (mm)": 637,
+      "reach (mm)": 449
+    },
+    {
+      "taille cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 635,
+      "longueur base (mm)": 455,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 69.5,
+      "empattement (mm)": 1250,
+      "stack (mm)": 646,
+      "reach (mm)": 474
+    },
+    {
+      "taille cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 672,
+      "longueur base (mm)": 455,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 69.5,
+      "empattement (mm)": 1289,
+      "stack (mm)": 655,
+      "reach (mm)": 509
+    }
+  ]
+}

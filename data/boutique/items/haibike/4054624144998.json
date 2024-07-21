@@ -1,0 +1,129 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2463059",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-175 cm",
+    "L / 175-185 cm",
+    "XL / 185-195 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Haibike AllMtn 3 Shimano Deore 12V 720 Wh 29''/27.5'' Vert Citron 2023",
+  "marque": "Haibike",
+  "description": "À la recherche d'un robuste eFully vraiment tout terrain ?\r\nAlors notre nouveau AllMtn 3 est parfait pour vous : grâce à son débattement avant et arrière de 160 mm, à ses robustes freins à disque à 4 pistons Shimano et au puissant moteur Yamaha PW-X3, ce VTT électrique vous permet de venir à bout de toutes les pistes en douceur.\r\nQuant aux roues de diamètre différent, de 29\"/ 27,5\", elles offrent une traction et une maîtrise toujours parfaites, sans problème, même dans les montées et les descentes les plus raides.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/59/463059/2463059/4716025",
+  "mpn": "45704360",
+  "gtin13": "4054624144998",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-195 cm",
+      "stock": 2,
+      "prix": 3399.99,
+      "mpn": "45704360",
+      "sku": "2421026",
+      "gtin13": "4054624144998",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2506915-vtt_electrique_tout_suspendu_haibike_allmtn_3_shimano_deore_12v_720_wh_29___27_5___vert_citron_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Lime"
+    }
+  ],
+  "informations": {
+    "poids maximum": "120 kg : le poids maximum du système comprend le vélo, le cycliste et la charge (porte-bagages ou remorque)",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 160,
+    "débattement cadre (mm)": 160,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Haibike, AllMtn, Aluminium 6061, Travel 160 mm",
+      "fourche": "RockShox, 35 Gold RL, Air, travel= 160 mm, Aluminium steerer tube 1 1/8\" - 1 1/2\" tapered, 15 x 110mm thru-axle Boost",
+      "amortisseur": "RockShox, Deluxe select, Air, Trunnion Mount"
+    },
+    "assistance électrique": {
+      "moteur": "Yamaha, PW-X3, 250W, 85 Nm, 25km/h",
+      "batterie": "Yamaha InTube, 720 Wh",
+      "écran": "Yamaha, Side Switch, 1.7\" LCD, 7 functions"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, Trigger switch, 1x12-Vitesses",
+      "dérailleur arrière": "Shimano Deore M6100, 12-Vitesses",
+      "cassette": "Shimano M6100, 10 - 51 Dents",
+      "chaîne": "Shimano, CN-M6100",
+      "pédalier": "Haibike Components, The Crank ++, Aluminium, plateau Steel, 36 dents",
+      "boîtier de pédalier": "Integrated in the motor"
+    },
+    "équipements": {
+      "freins": "himano, MT420, 4-piston disc brake, disc Shimano 203/203 mm",
+      "pédales": "Freeridepedal, Aluminium, with Reflector",
+      "selle": "Selle Royal, Vivo",
+      "tige de selle": "Haibike Components, Dropper-Post Remote 34.9, Aluminium, Telescope, 34.9 mm"
+    },
+    "roues": {
+      "jantes": "Avant : WTB, ST i30 TCS, Double Wall / Arrière : WTB, ST i35 TCS, double wall",
+      "pneu avant": " Maxxis, Minion DHF II, 63-622, 29\" x 2.5\" ",
+      "pneu arrière": " Maxxis, Minion DHR II, 66-584, 27.5\" x 2.6\""
+    },
+    "direction": {
+      "cintre": "Haibike Components, TheBar +++, 780 mm",
+      "poignées": "Haibike, MTB grips",
+      "potence": "Haibike Components, TheStem ++, A-head, 31.8 mm",
+      "jeu de direction": "Acros, BlockLock, Aluminium"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1220,
+      "stack (mm)": 646,
+      "reach (mm)": 421
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1250,
+      "stack (mm)": 646,
+      "reach (mm)": 451
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 627,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1279,
+      "stack (mm)": 655,
+      "reach (mm)": 475
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 659,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1313,
+      "stack (mm)": 664,
+      "reach (mm)": 505
+    }
+  ]
+}

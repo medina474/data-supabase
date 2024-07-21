@@ -1,0 +1,139 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2666415",
+  "tailles": [
+    "S / 154-165 cm",
+    "XL / 182-195 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Cannondale Moterra Neo S3 Shimano Deore 10V 630 Wh 29'' Vert",
+  "marque": "Cannondale",
+  "description": "Un VTTAE à double suspension conçu pour s’affranchir des limites. Avec sa maniabilité intuitive, son moteur Shimano EP6 offrant à la fois une puissance et une autonomie importantes, rien n’est hors de portée.\r\n\r\nCircuits locaux ou haute montagne, ce VTTAE révolutionnera votre expérience. Agile et rapide dans les montées, stable et rassurant même dans les descentes les plus vicieuses, il apporte du fun sur les chemins et vous donne des ailes sur les sentiers difficiles. C’est le genre de machine qui vous rend impatient(e) de la prochaine sortie.\r\n\r\nLa puissance et l’autonomie ne sont qu’un début. Ce qui rend le Moterra Neo S3 vraiment exceptionnel, c’est sa maniabilité. Grâce à notre conception de cadre « Proportional Response », chaque taille de cadre bénéficie d’une configuration de suspension et d’une géométrie spécifique, qui donnent au vélo une maniabilité telle qu’il semble avoir été conçu spécialement pour vous. Et c’est justement le cas.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/415/666415/2666415/5364042",
+  "mpn": "C65343U10XL",
+  "gtin13": "",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 154-165 cm",
+      "stock": 1,
+      "prix": 3699.99,
+      "mpn": "C65343U10SM",
+      "sku": "2645654",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2786218-vtt_electrique_tout_suspendu_cannondale_moterra_neo_s3_shimano_deore_10v_630_wh_29___vert"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 182-195 cm",
+      "stock": 1,
+      "prix": 3499.99,
+      "mpn": "C65343U10XL",
+      "sku": "2645645",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2786218-vtt_electrique_tout_suspendu_cannondale_moterra_neo_s3_shimano_deore_10v_630_wh_29___vert"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Pine"
+    }
+  ],
+  "informations": {
+    "genre": "HommeFemme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : 150mm travel, SmartForm C2 Alloy, Cannondale Tuned Suspension, removable downtube battery, internal cable routing, 148x12mm thru-axle, post mount brake, tapered headtube",
+      "fourche": "SR Suntour XCR 34 Boost, 140mm, Air, rebound adjust, 46mm offset",
+      "amortisseur": "X-Fusion O2 Pro Air, adjustable rebound, lock-out"
+    },
+    "assistance électrique": {
+      "moteur": "Shimano EP6, 85 Nm, 25 km/h",
+      "batterie": "Shimano BT-E8036 630Wh, 36V, 17.5Ah",
+      "écran": "Shimano SC-EN500"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M4100, 1x10-vitesses",
+      "dérailleur arrière": "Shimano Deore M5130 GS, 10-vitesses",
+      "cassette": "Shimano CUES LG600, 11-43, 10-vitesses",
+      "chaîne": "Shimano LG500 Linkglide,",
+      "pédalier": "FSA E-Bike, 165mm, Shimano 10-speed, 34 dts"
+    },
+    "équipements": {
+      "freins": "Shimano MT200 hydraulic disc, 180/180mm RT10 rotors",
+      "selle": "Fabric Scoop Shallow Sport, rails acier",
+      "tige de selle": "TranzX dropper, internal routing, 31.6,"
+    },
+    "roues": {
+      "jantes": "WTB ST i25 TCS, 32h, tubeless ready",
+      "moyeu avant": "Shimano MT400, 15x110mm thru-axle ",
+      "moyeu arrière": "Shimano MT400, 12x148mm thru-axle",
+      "pneus": "WTB Breakout Comp, 29x2.3\", Wire 30TPI DNA compound"
+    },
+    "direction": {
+      "cintre": "Cannondale 3 Riser, 6061 Alloy, 15mm rise, 8° sweep, 4° rise, 780mm",
+      "poignées": "Fabric FunGuy",
+      "jeu de direction": "Integrated Sealed Bearing, Tapered",
+      "potence": "Cannondale 3, 3D Forged 6061 Alloy, 1-1/8\", 31.8, 6°"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 583,
+      "longueur base (mm)": 452,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1196,
+      "stack (mm)": 618,
+      "reach (mm)": 428,
+      "débattement tige de selle (mm)": 130
+    },
+    {
+      "taille cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 608,
+      "longueur base (mm)": 455,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1220,
+      "stack (mm)": 631,
+      "reach (mm)": 450,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 635,
+      "longueur base (mm)": 455,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1249,
+      "stack (mm)": 641,
+      "reach (mm)": 475,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 672,
+      "longueur base (mm)": 455,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1288,
+      "stack (mm)": 650,
+      "reach (mm)": 510,
+      "débattement tige de selle (mm)": 150
+    }
+  ]
+}

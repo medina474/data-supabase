@@ -1,0 +1,154 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2642315",
+  "tailles": [
+    "S / 162-172 cm",
+    "M / 172-182 cm",
+    "L / 180-188 cm",
+    "XL / 188-198 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu BMC Fourstroke AMP LT Three Shimano SLX 12V 360 Wh 29'' Gris Iron Noir 2023",
+  "marque": "BMC",
+  "description": "Amplifiez vos sensations sur le trail avec le BMC Fourstroke AMP LT conçu pour exceller sur tous les terrains. Cette machine ultramoderne respire la performance XC et offre une sensation de conduite progressive avec 120 mm de débattement fournis par la suspension dual-link APS révolutionnaire. Grâce au système de motorisation novateur TQ-HPR50, vous gagnerez de la vitesse non-stop là où vous ne l’attendiez pas, à la montée comme à la descente, avec l’assurance que rien ne se dressera entre vous, le trail et le chrono. Le cadre entièrement en carbone est construit selon la géométrie Big Wheel Concept Race la plus progressive, pouvant accueillir deux porte-bidons. Il est doté d’une butée de fourche intégrée et de différents éléments de protection du cadre.\r\n\r\nLe Fourstroke AMP LT Three dispose d’une transmission Shimano SLX 1x12 vitesses, d’une fourche RockShox SID RL ainsi que d’un amortisseur RockShox SIDLuxe Select+, de roues Alex MD30 d’une largeur intérieure de 30 mm, d’une tige de selle BMC MSP03 et du puissant moteur TQ-HPR50.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/315/642315/2642315/5322507",
+  "mpn": "30002829",
+  "gtin13": "7630027888676",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 162-172 cm",
+      "stock": 1,
+      "prix": 4599.99,
+      "mpn": "30002827",
+      "sku": "2191000",
+      "gtin13": "7630027888690",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2763308-vtt_electrique_tout_suspendu_bmc_fourstroke_amp_lt_three_shimano_slx_12v_360_wh_29___gris_iron_noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 172-182 cm",
+      "stock": 1,
+      "prix": 4599.99,
+      "mpn": "30002828",
+      "sku": "2191158",
+      "gtin13": "7630027888683",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2763308-vtt_electrique_tout_suspendu_bmc_fourstroke_amp_lt_three_shimano_slx_12v_360_wh_29___gris_iron_noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 180-188 cm",
+      "stock": 2,
+      "prix": 4599.99,
+      "mpn": "30002829",
+      "sku": "2191188",
+      "gtin13": "7630027888676",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2763308-vtt_electrique_tout_suspendu_bmc_fourstroke_amp_lt_three_shimano_slx_12v_360_wh_29___gris_iron_noir_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Iron Grey / Black"
+    }
+  ],
+  "informations": {
+    "poids maximum": "120 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "débattement fourche (mm)": 120,
+    "débattement cadre (mm)": 120,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano SLX 12V",
+    "pays de fabrication": "Taiwan"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Fourstroke LT AMP Carbon, APS Suspension System, 120 mm Travel, Integrated Battery, Fully Guided Internal Cable Routing, Post Mount Disc, 12x148 mm Boost Thru-Axle, Tire clearance: 60 mm (Measured Width)",
+      "fourche": "RockShox SID RL",
+      "amortisseur": "RockShox SIDLuxe Select+"
+    },
+    "assistance électrique": {
+      "moteur": "TQ-HPR50 Drive Unit, 50 Nm, 300 W, 25 km/h",
+      "batterie": "TQ 360 Wh",
+      "écran": "TQ V02 Display, 2\" O-LED, Bluetooth / ANT+",
+      "commande": "TQ V01 Remote"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano SLX SL-M7100, Rapidfire Plus, 1x12-vitesses",
+      "dérailleur arrière": "Shimano SLX RD-M7100, 12-vitesses",
+      "cassette": "Shimano Deore CS-M6100, 10-51 Dents",
+      "chaîne": "Shimano Deore CN-M6100",
+      "pédalier": "Praxis eCrank, 34 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano BR-MT520, Hydr. Disc Brake, Shimano SM-RT54 Rotors (180/180)",
+      "selle": "Fizik Antares R7",
+      "tige de selle": "BMC MSP03, 31.6 mm, 0 mm Offset"
+    },
+    "roues": {
+      "jantes": "Jantes : Alex MD30, 30 mm Inner Width / Moyeux : Shimano MT400/MT410",
+      "pneus": "Maxxis Rekon, TR, EXO, 61-622, 29x2.40\""
+    },
+    "direction": {
+      "cintre": "BMC MRB03, 760 mm width, 15 mm rise, 9° backsweep",
+      "potence": "Truvativ Atmos 6K, 6°"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 574,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1157,
+      "stack (mm)": 594,
+      "reach (mm)": 437,
+      "longueur de la potence (mm)": 40,
+      "longueur des manivelles (mm)": 165
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 597,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 102,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1178,
+      "stack (mm)": 605,
+      "reach (mm)": 457,
+      "longueur de la potence (mm)": 50,
+      "longueur des manivelles (mm)": 170
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 620,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 113,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1202,
+      "stack (mm)": 615,
+      "reach (mm)": 476,
+      "longueur de la potence (mm)": 50,
+      "longueur des manivelles (mm)": 170
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 644,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1227,
+      "stack (mm)": 627,
+      "reach (mm)": 496,
+      "longueur de la potence (mm)": 60,
+      "longueur des manivelles (mm)": 175
+    }
+  ]
+}

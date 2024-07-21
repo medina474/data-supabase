@@ -1,0 +1,141 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2648195",
+  "tailles": [
+    "S / 150-165 cm",
+    "M / 165-174 cm",
+    "L / 175-184 cm",
+    "XL / 185-200 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Rockrider E-Expl 700 S Shimano Deore 10V 630Wh 29'' Marron 2024",
+  "marque": "Rockrider",
+  "description": "Très robuste : transmission, suspensions et freinage ont été choisis pour un maximum de longévité et simplicité d'entretien.\r\nConnecté : il propose des fonctions enrichies avec son application mobile.\r\nConçu pour les randonnées tout terrain sur chemins cassants, avec du fort dénivelé (moyenne montagne et montagne).",
+  "image": "https://product-cdn-frz.alltricks.com/medium/195/648195/2648195/5327365",
+  "mpn": "4359395",
+  "gtin13": "3583787510193",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-174 cm",
+      "stock": 1,
+      "prix": 3199.99,
+      "mpn": "4359393",
+      "sku": "2628130",
+      "gtin13": "3583787510179",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2766021-vtt_electrique_tout_suspendu_rockrider_e_expl_700_s_shimano_deore_10v_630wh_29___marron_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-184 cm",
+      "stock": 1,
+      "prix": 3199.99,
+      "mpn": "4359392",
+      "sku": "2628110",
+      "gtin13": "3583787510148",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2766021-vtt_electrique_tout_suspendu_rockrider_e_expl_700_s_shimano_deore_10v_630wh_29___marron_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-200 cm",
+      "stock": 1,
+      "prix": 3199.99,
+      "mpn": "4359395",
+      "sku": "2628131",
+      "gtin13": "3583787510193",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2766021-vtt_electrique_tout_suspendu_rockrider_e_expl_700_s_shimano_deore_10v_630wh_29___marron_2024"
+    }
+  ],
+  "informations": {
+    "poids": "S : 26.5 kg, M : 26.6 kg, L : 26.7 kg, XL : 26.8 kg",
+    "genre": "Homme",
+    "débattement fourche (mm)": 140,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 10V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Cadre suspendu en aluminium 6061 monopivot avec bielette, Débattement 140 mm, Batterie intégrée à sortie latérale Douille de direction conique, Diamètre de tube de selle 31,6 mm",
+      "fourche": "Fourche ROCK SHOX 35 SILVER R 140 mm axe 110 x 15, offset 51 mm, ressort hélicoïdal souple (S) , moyen (M ,L) , dur (XL), réglage externe unique en détente.",
+      "amortisseur": "ROCK SHOX DELUXE SELECT COIL, 210 x 55 mm, ressort hélicoïdal"
+    },
+    "assistance électrique": {
+      "moteur": "Moteur central BROSE DRIVE T, 70 Nm,Assistance max. 320%",
+      "écran": "ERGO 900 - Ecran TFT couleur - 5 modes d'assistance : 1,2,3,4, Walk assist, Bluetooth.",
+      "batterie": "Batterie intégrée 630 Wh longue durée de vie (+500 cycles), Compatible extension de batterie de 360Wh vendue séparément"
+    },
+    "transmission": {
+      "manette de dérailleur": "SHIMANO DEORE 5130",
+      "dérailleur arrière": "SHIMANO DEORE 5130",
+      "cassette": "SHIMANO DEORE LG 11-43 10-speed",
+      "chaîne": "SHIMANO LG 500",
+      "pédalier": "manivelle 170 mm, 34 dents avec Antidéraillement"
+    },
+    "équipements": {
+      "freins": "Freins à disque hydrauliques TEKTRO M530, 4 pistons av, 2 pistons ar, 203/203 mm, 6 trous",
+      "selle": "DECATHLON LONG DISTANCE 60°",
+      "tige de selle": "ROCKRIDER DROPPER, Diamètre: 31,6 mm, Débattement: 120mm (S) / 150 mm (M/L) / 170 mm (XL), Poids : à partir de 650 g, Collier de selle : aluminium , diamètre 34,9 mm"
+    },
+    "roues": {
+      "jantes": "ROCKRIDER 29” 30c, largeur int. 30 mm, 32 rayons, 6 trous, corps de roue libre : HG, tubeless ready livré avec chambres à air",
+      "pneus": "ROCKRIDER GRIP 500 29\" x 2.4\", TUBELESS READY, Tringle: souple, Carcasse: 60 TPI 1 pli, Flancs: Skinwall avec bande laterale anti-crévaison, Bande de roulement: Bi-gomme"
+    },
+    "direction": {
+      "cintre": "ROCKRIDER SPORT, Rise : 10 (S,M) , 25 (L,XL), Largeur : 740mm (S,M) 760 mm (L,XL), 31,8 mm, Upsweep : 0 ° (S,M) , 6° (L,XL) Backsweep : 9°",
+      "potence": "Potence ROCKRIDER, Matière : Aluminium, Angle : 7°, Taille : 50 mm (S), 60 mm (M / L), 70 mm (XL)",
+      "jeu de direction": "ZS 44/28,6 - 56/40"
+    },
+    "accessoires": "Votre VTT est livré avec: Chargeur 4A sonnette, éclairages, catadioptres de roues (réflecteurs) et pédales."
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 377,
+      "tube supérieur (mm)": 590,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 96,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1199,
+      "stack (mm)": 602,
+      "reach (mm)": 428
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 407,
+      "tube supérieur (mm)": 610,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1224,
+      "stack (mm)": 630,
+      "reach (mm)": 441
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 427,
+      "tube supérieur (mm)": 640,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1254,
+      "stack (mm)": 630,
+      "reach (mm)": 471
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 447,
+      "tube supérieur (mm)": 660,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1278,
+      "stack (mm)": 653,
+      "reach (mm)": 485
+    }
+  ]
+}

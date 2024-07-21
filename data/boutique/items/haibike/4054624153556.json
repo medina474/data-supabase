@@ -1,0 +1,143 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2708776",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-175 cm",
+    "L / 175-185 cm",
+    "XL / 185-195 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Haibike AllMtn 2 Sram SX Eagle 12V 720 Wh 29'' / 27.5'' Gris / Jaune",
+  "marque": "Haibike",
+  "description": "Passages tapissés de racines vicieuses, pistes fluides ou pentes abruptes : avec notre AllMtn 2, c'est vous qui choisissez.\r\nGrâce au débattement de 160 mm de la suspension allié à une roue avant de 29\" et une roue arrière de 27,5\", vous avez l'assurance de franchir tranquillement n’importe quel obstacle tout en bénéficiant d’une traction optimale sur les pentes raides.\r\nCompact et puissant, le moteur Yamaha PW-X3 alimenté par une batterie de 720 Wh vous amène au sommet en un rien de temps et vous offre beaucoup de plaisir sur n'importe quel terrain.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/776/708776/2708776/5459459",
+  "mpn": "45600450",
+  "gtin13": "4054624153556",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 2,
+      "prix": 3999.99,
+      "mpn": "45600440",
+      "sku": "2676386",
+      "gtin13": "4054624153549",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2830924-vtt_electrique_tout_suspendu_haibike_allmtn_2_sram_sx_eagle_12v_720_wh_29_____27_5___gris___jaune"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 2,
+      "prix": 3999.99,
+      "mpn": "45600450",
+      "sku": "2676479",
+      "gtin13": "4054624153556",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2830924-vtt_electrique_tout_suspendu_haibike_allmtn_2_sram_sx_eagle_12v_720_wh_29_____27_5___gris___jaune"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-195 cm",
+      "stock": 1,
+      "prix": 3999.99,
+      "mpn": "45600460",
+      "sku": "2676436",
+      "gtin13": "4054624153563",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2830924-vtt_electrique_tout_suspendu_haibike_allmtn_2_sram_sx_eagle_12v_720_wh_29_____27_5___gris___jaune"
+    }
+  ],
+  "informations": {
+    "poids maximum": "150 kg : le poids maximum du système comprend le vélo, le cycliste et la charge (porte-bagages ou remorque)",
+    "genre": "Homme",
+    "débattement fourche (mm)": 160,
+    "débattement cadre (mm)": 160,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Haibike, AllMtn PW-X3, Aluminium, Travel 160 mm",
+      "fourche": "RockShox, 35 Gold RL, Air, 160 mm travel, Aluminium steerer tube 1 1/8\" - 1 1/2\" tapered, 15 x 110mm thru-axle Boost",
+      "amortisseur": "RockShox, Deluxe Select Plus, Air, Trunnion Mount"
+    },
+    "assistance électrique": {
+      "moteur": "Yamaha, PW-X3, 250 W, 85 Nm",
+      "batterie": "InTube, 720 Wh",
+      "écran": "Yamaha, Side Switch, 1.7\" LCD, 7 functions"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram, SX Eagle, Trigger switch, 1x12-Vitesses",
+      "dérailleur arrière": "Sram SX Eagle, 12-Vitesses",
+      "cassette": "Sram Eagle PG-1210, 11-50 Dents",
+      "chaîne": "Sram SX Eagle",
+      "pédalier": "Haibike Components, The Crank ++, Aluminium, Plateau Sram, 38 Dents"
+    },
+    "équipements": {
+      "freins": "TRP Slate T4, Hydraulic disc brakes, Tektro, TR203, 203/203 mm",
+      "pédales": "Freeridepedal, Aluminium, with Reflector",
+      "selle": "Selle Royal Vivo",
+      "tige de selle": "Haibike Components, Dropper-Post Remote 34.9, Aluminium, Telescope, 34.9 mm"
+    },
+    "roues": {
+      "jantes": "WTB, ST i35 TCS, Double Wall",
+      "pneu avant": " Maxxis, Minion DHF II, 63-622, 29 x 2.5\" ",
+      "pneu arrière": " Maxxis, Minion DHR II, 66-584, 27.5 x 2.6\""
+    },
+    "direction": {
+      "cintre": "Haibike Components, TheBar +++, 780 mm",
+      "poignées": "Haibike, MTB grips",
+      "potence": "Haibike Components, TheStem +++, 31.8 mm",
+      "jeu de direction": "Acros, BlockLock, Aluminium"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1220,
+      "stack (mm)": 646,
+      "reach (mm)": 421
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1250,
+      "stack (mm)": 646,
+      "reach (mm)": 451
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 627,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1279,
+      "stack (mm)": 655,
+      "reach (mm)": 475
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 659,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1313,
+      "stack (mm)": 664,
+      "reach (mm)": 505
+    }
+  ]
+}

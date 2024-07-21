@@ -1,0 +1,138 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2523021",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-175 cm",
+    "L / 175-185 cm",
+    "XL / 185-195 cm"
+  ],
+  "name": "VTT Electrique Tout Suspendu R Raymon TrailRay 160E 9.0 Tektro 10V 720 Wh 29'' Gris 2023",
+  "marque": "R Raymon",
+  "description": "Puissance et endurance considérables : le TrailRay 160E 9.0 est le partenaire idéal pour les sorties. Le puissant moteur central Yamaha fournit la poussée nécessaire avec un couple de 85 Nm, et la batterie de 720 Wh ne s'arrête pas avant vous. Notre nouveau cadre en aluminium marque des points avec sa géométrie moderne et ses bases courtes. Avec 170 mm de débattement à l'avant et 160 mm à l'arrière, l'E-MTB 29\" est souple et fluide, faisant du cyclisme un véritable plaisir !",
+  "image": "https://product-cdn-frz.alltricks.com/medium/21/523021/2523021/5094583",
+  "mpn": "4500009441",
+  "gtin13": "9010654004904",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-165 cm",
+      "stock": 1,
+      "prix": 3599.99,
+      "mpn": "4500009441",
+      "sku": "2180218",
+      "gtin13": "9010654004904",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2604781-vtt_electrique_tout_suspendu_r_raymon_trailray_160e_9_0_tektro_10v_720_wh_29___gris_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 2,
+      "prix": 3599.99,
+      "mpn": "4500009444",
+      "sku": "2180151",
+      "gtin13": "9010654004911",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2604781-vtt_electrique_tout_suspendu_r_raymon_trailray_160e_9_0_tektro_10v_720_wh_29___gris_2023"
+    }
+  ],
+  "informations": {
+    "poids maximum": "130 kg",
+    "genre": "Homme",
+    "débattement fourche (mm)": 170,
+    "débattement cadre (mm)": 160,
+    "matière du cadre": "Aluminium",
+    "groupe": "Panaché 10V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : 29\", alliage 6061, Batterie intégrée, Boost, 160 mm",
+      "fourche": "RockShox Domain R, DebonAir, Air, 170 mm, conique",
+      "amortisseur": "RockShox Deluxe Select, Air, 230x65 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Yamaha PW-X3, 250 W, 85 Nm",
+      "batterie": "Simplo, 720 Wh, 36 V"
+    },
+    "ecran": "Yamaha Display A, écran LCD, Micro-USB",
+    "levier de vitesse": "Tektro SL-M530R , 1x10 vitesses",
+    "transmission": {
+      "dérailleur arrière": "Tektro RD-M550, 10 vitesses",
+      "pédalier": "R Raymon EC40, Aluminium forgé, ISIS / R Raymon, Narrow Wide, 38 T",
+      "chaîne": "KMC e10S",
+      "cassette": "Tektro CS-M530, 11-50 T"
+    },
+    "roues": {
+      "jantes": "Mach 1 TRUCKY 30, oculaire, Tubeless Ready",
+      "moyeu avant": "R Raymon DA210F, 6 trous, 15x110 mm, Thru axle ",
+      "moyeu arrière": "R Raymon DA210R, 6 trous, 12x148 mm, Thru axle.",
+      "pneu avant": " Continental Trail King, 60-622, 29x2.4 ",
+      "pneu arrière": " Continental Trail King, 65-584, 27.5x2.6"
+    },
+    "équipements": {
+      "freins": "SRAM DB8, 4 pistons, Frein à disque hydraulique, SRAM Centerline, 200 mm, 6 trous",
+      "selle": "R Raymon MTB",
+      "tige de selle": "R Raymon, 34.9 mm, Tige de selle télescopique (Dropper Post)"
+    },
+    "tige": "R Raymon 35, 0 °, en avant",
+    "direction": {
+      "cintre": "R Raymon Riser 35 mm, 780 mm, Sweep : 9 °, Montée : 20 mm",
+      "poignées": "R Raymon MTB, Poignées à vis"
+    },
+    "couleurs": "Gris anthracite"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 576,
+      "tube de direction (mm)": 100,
+      "longueur de la base (mm)": 460,
+      "angle de braquage (°)": 64,
+      "angle du tube de selle (°)": 72,
+      "empattement (mm)": 1241,
+      "pile (mm)": 620,
+      "portée (mm)": 445
+    },
+    {
+      "taille du cadre": "M",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 592,
+      "tube de direction (mm)": 105,
+      "longueur de la base (mm)": 460,
+      "angle de braquage (°)": 64,
+      "angle du tube de selle (°)": 72,
+      "empattement (mm)": 1258,
+      "pile (mm)": 625,
+      "portée (mm)": 460
+    },
+    {
+      "taille du cadre": "L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 619,
+      "tube de direction (mm)": 110,
+      "longueur de la base (mm)": 460,
+      "angle de braquage (°)": 64,
+      "angle du tube de selle (°)": 72,
+      "empattement (mm)": 1285,
+      "pile (mm)": 629,
+      "portée (mm)": 485
+    },
+    {
+      "taille du cadre": "XL",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 645,
+      "tube de direction (mm)": 115,
+      "longueur de la base (mm)": 460,
+      "angle de braquage (°)": 64,
+      "angle du tube de selle (°)": 72,
+      "empattement (mm)": 1313,
+      "pile (mm)": 634,
+      "portée (mm)": 510
+    }
+  ]
+}

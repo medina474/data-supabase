@@ -1,0 +1,129 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2677959",
+  "tailles": [
+    "S / 155-166 cm",
+    "M / 167-178 cm",
+    "L / 177-186 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu BH Atom Lynx 8.0 Shimano Deore 10V 500 Wh 29'' Gris Rouge",
+  "marque": "BH",
+  "description": "Le coloris du vélo livré sera celui de la première photo.\r\n\r\nLa gamme Atom de BH comprend le système Turn & Slide « TS System », breveté par BH, avec intégration facile et minimaliste de la batterie dans la partie supérieure du tube diagonal, ce qui permet de conserver la conception et l'esthétique d'un cadre conventionnel.\r\n\r\nLa gamme Atom comprend un nouveau moteur BH Drive-1E 36V plus compact et léger pour de hautes performances et une puissance maximale dans une utilisation sportive, avec une grande sensibilité et réponse, avec un couple maximum de 80 Nm.\r\n\r\nLes vélos Atom Urban et Trekking sont conçus avec une géométrie ergonomique et incluent des modèles passe-bas pour un accès facile.\r\n\r\nCe système permet d’agir séparément sur les trois forces qui se produisent sur un vélo : pédalage, frein et suspension. Le résultat obtenu est l’efficacité maximum du pédalage avec une suspension qui fonctionne de façon constante et progressive. La suspension arrière travaillée des Lynx permet d’atteindre une plus grande distance avec un poids très léger.\r\n\r\nLes dispositifs X Display Lite et X Remote sont placés à l’intérieur du cintre pour une protection maximale.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/959/677959/2677959/5401239",
+  "mpn": "EA802SRSSM",
+  "gtin13": "8413616891603",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-166 cm",
+      "stock": 2,
+      "prix": 2799.99,
+      "mpn": "EA802SRSSM",
+      "sku": "2188454",
+      "gtin13": "8413616891603",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2802104-vtt_electrique_tout_suspendu_bh_atom_lynx_8_0_shimano_deore_10v_500_wh_29___gris_rouge"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 167-178 cm",
+      "stock": 2,
+      "prix": 2799.99,
+      "mpn": "EA802SRSMD",
+      "sku": "2187667",
+      "gtin13": "8413616891610",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2802104-vtt_electrique_tout_suspendu_bh_atom_lynx_8_0_shimano_deore_10v_500_wh_29___gris_rouge"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-186 cm",
+      "stock": 2,
+      "prix": 2799.99,
+      "mpn": "EA802SRSLA",
+      "sku": "2188251",
+      "gtin13": "8413616891627",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2802104-vtt_electrique_tout_suspendu_bh_atom_lynx_8_0_shimano_deore_10v_500_wh_29___gris_rouge"
+    }
+  ],
+  "informations": {
+    "genre": "HommeFemme",
+    "débattement fourche (mm)": 140,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 10V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "140 mm Full Suspension Alloy 29\" Internal Cable Routing",
+      "fourche": "SR Suntour XCR34 Air 140mm 15QR",
+      "amortisseur": "Rock Shox Deluxe Debonair"
+    },
+    "assistance électrique": {
+      "moteur": "BH1E, 36V, 80nm",
+      "batterie": "500 Wh",
+      "écran": "BH X Display Lite"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore",
+      "dérailleur arrière": "Shimano Deore, 10-vitesses",
+      "cassette": "Shimano CSM4100 10sp (11-46T)",
+      "chaîne": "Shimano HG54",
+      "pédalier": "Praxis 34T-165mm"
+    },
+    "équipements": {
+      "freins": "Shimano MT201 180mm/180",
+      "selle": "Prologo Proxim W350 Stn",
+      "tige de selle": "Alloy 31,6"
+    },
+    "roues": {
+      "jantes": "Alloy Double Wall, Moyeux Shimano",
+      "pneus": "Maxxis Forekaster TPI60 29\"X2,35\""
+    },
+    "direction": {
+      "cintre": "BH MTB Alloy Riser 780mm",
+      "poignées": "BH Perform w/ ringlock",
+      "potence": "BH Ahead",
+      "jeu de direction": "Tapered"
+    },
+    "collier de selle": "Quick Release",
+    "référence": "EA802SRS"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 587,
+      "longueur base (mm)": 464,
+      "douille de direction (mm)": 587,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": "74,7",
+      "stack (mm)": 644,
+      "reach (mm)": 410
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 608,
+      "longueur base (mm)": 464,
+      "douille de direction (mm)": 608,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": "74,6",
+      "stack (mm)": 649,
+      "reach (mm)": 430
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 464,
+      "douille de direction (mm)": 630,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": "74,6",
+      "stack (mm)": 654,
+      "reach (mm)": 450
+    }
+  ]
+}

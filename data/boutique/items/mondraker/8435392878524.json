@@ -1,0 +1,158 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2624225",
+  "tailles": [
+    "S / 163-170 cm",
+    "M / 167-178 cm",
+    "L / 175-188 cm",
+    "XL / 185-200 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Mondraker Neat R Carbon Sram GX/NX Eagle 12V 360 Wh 29'' Noir/Argent 2024",
+  "marque": "Mondraker",
+  "description": "Un nouveau défi. Une nouvelle ère de vélos électriques. Nés et conçus avec tout notre caractère, notre identité et nos convictions.\r\nUn Mondraker par définition, mais plus maniable, plus agile et plus rapide que jamais. Bienvenue au Neat.\r\n\r\nIl y a trois ans, nous avons lancé un projet avec une mission. Une seule. Créer une nouvelle génération de vélos électriques qui redéfinirait le concept actuel du VTT. Une nouvelle catégorie qui mettrait en valeur la meilleure version de vous-même en tant que cycliste, pour vous rendre plus rapide, partout. Puissant mais silencieux. Stable mais agile.\r\n\r\nUne mission que nous avons baptisée Neat et qui a donné naissance au premier e-MTB léger de notre histoire.\r\n\r\nAvec ce modèle, nous ouvrons les portes d'une nouvelle catégorie avec le moteur TQ-HPR50, une batterie amovible intégrée de 360 W, un cadre intégralement en fibre de carbone et un ensemble inférieur à 18 kg prêt à rouler. Mission accomplie. C'est maintenant à vous de jouer. ",
+  "image": "https://product-cdn-frz.alltricks.com/medium/225/624225/2624225/5305472",
+  "mpn": "010.24244",
+  "gtin13": "8435392878524",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 163-170 cm",
+      "stock": 10,
+      "prix": 5999.99,
+      "mpn": "010.24242",
+      "sku": "2564581",
+      "gtin13": "8435392878500",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2753485-vtt_electrique_tout_suspendu_mondraker_neat_r_carbon_sram_gx_nx_eagle_12v_360_wh_29___noir_argent_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 167-178 cm",
+      "stock": 10,
+      "prix": 5999.99,
+      "mpn": "010.24243",
+      "sku": "2564780",
+      "gtin13": "8435392878517",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2753485-vtt_electrique_tout_suspendu_mondraker_neat_r_carbon_sram_gx_nx_eagle_12v_360_wh_29___noir_argent_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-188 cm",
+      "stock": 1,
+      "prix": 5699.99,
+      "mpn": "010.24244",
+      "sku": "2564768",
+      "gtin13": "8435392878524",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2753485-vtt_electrique_tout_suspendu_mondraker_neat_r_carbon_sram_gx_nx_eagle_12v_360_wh_29___noir_argent_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-200 cm",
+      "stock": 10,
+      "prix": 5999.99,
+      "mpn": "010.24245",
+      "sku": "2564706",
+      "gtin13": "8435392878531",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2753485-vtt_electrique_tout_suspendu_mondraker_neat_r_carbon_sram_gx_nx_eagle_12v_360_wh_29___noir_argent_2024"
+    }
+  ],
+  "informations": {
+    "poids": "18.9 kg",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 160,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX/NX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Stealth Air full Carbon, Zero Suspension System optimizada para e-bike, 150mm de recorrido, Forward Geometry, batería interna no extraíble, eje trasero Boost de 12x148mm, tubo de dirección perfilado, bieleta superior Monobloc de una pieza, sistema de cableado interno HHG, rodamientos sellados MAX, ejes sobredimensionados de 15mm, sensor de velocidad integrado en la puntera, tapas de motor de plástico exclusivas",
+      "fourche": "Fox 36 29 Float GRIP EVOL Performance, 160mm, tubo de dirección perfilado, eje Boost de 15x110mm, desplazamiento de 44mm. Ajustes: compresión a tres posiciones con microajuste, rebote a baja velocidad, precarga por aire",
+      "amortisseur": "Fox Float X Performance EVOL, 185x55mm. Ajustes: compresión de 2 posiciones (Abierto/Bloqueado), rebote, precarga por aire. Anclaje superior Trunnion, casquillos inferiores de 30x8mm"
+    },
+    "assistance électrique": {
+      "moteur": "TQ HPR-50",
+      "batterie": "TQ HPR-50 360 Wh intégrée et amovible",
+      "écran": "Écran TQ HPR V01"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Trigger NX Eagle, 12 vitesses, X-Actuation 1:1, simple clic",
+      "dérailleur arrière": "Sram GX Eagle, Roller Bearing Clutch type 3, technologie de blocage de chape, 1 x 12 vitesses, X-Actuation 1:1",
+      "cassette": "Sram XG-1230, 11-50 dents, 12 vitesses",
+      "chaîne": "Sram NX Eagle, 12 vitesses, Powerlock",
+      "pédalier": "e*thirteen E*Spec Plus, plateau Sram X-Sync 2 Eagle 34 dents, acier, largeur étroite, 104 BCD (Manivelles : S : 165 mm / M : 165 mm / L : 170 mm / XL : 170 mm)"
+    },
+    "équipements": {
+      "freins": "Sram G2 R, étrier 4 pistons, disque monopièce 6 trous Centerline 200/200 mm IS, plaquettes organique sur acier",
+      "selle": "Fizik Terra Aidon Slim X5",
+      "tige de selle": "Onoff Pija dropper interne, diamètre 31,6 mm, 1X manette à distance avec roulement (Taille S : 405x95-125mm/Taille M : 458x120-150mm/Taille L : 498x140-170mm/Taille XL : 558x170-200mm)"
+    },
+    "roues": {
+      "jantes": "Mavic E-CrossRide 29, 30 mm de largeur interne, soudée, PFP, compatible tubeless, 28 rayons",
+      "moyeu avant": "Mavic , Boost 15x110 mm, IS 6 trous ",
+      "moyeu arrière": "Mavic, Boost 12x148 mm, système Ratched ID360, IS 6 trous, moyeu libre HG",
+      "pneu avant": " Maxxis Minion DHF 29x2,5 WT, compatible tubeless, gomme 3C MAXX TERRA, protection EXO+, 120 TPI, tringle souple ",
+      "pneu arrière": " Maxxis Minion DHR II 29x2,4 WT, compatible tubeless, gomme 3C MAXX TERRA, protection EXO+, 120 TPI, tringle souple"
+    },
+    "direction": {
+      "cintre": "Onoff Krypton 1.0, galbe : 25 mm, largeur : 800 mm, cintrage 9º, rehausse 5º, alésage 31,8 mm",
+      "poignées": "Onoff Desert, 1lock-on, 135 mm",
+      "potence": "Onoff Krypton FG 30 mm, CNC, alésage 31,8 mm",
+      "jeu de direction": "Acros custom pour douille de direction 1-1/2\", roulements à contact angulaire 40x52x7, acheminement interne de câbles"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 595,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1235,
+      "stack (mm)": 626,
+      "reach (mm)": 450
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 615,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1255,
+      "stack (mm)": 626,
+      "reach (mm)": 470
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 640,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1275,
+      "stack (mm)": 642,
+      "reach (mm)": 495
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 660,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1295,
+      "stack (mm)": 650,
+      "reach (mm)": 515
+    }
+  ]
+}

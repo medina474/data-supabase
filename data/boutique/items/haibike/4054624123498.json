@@ -1,0 +1,132 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2413758",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-175 cm",
+    "L / 175-185 cm",
+    "XL / 185-195 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Haibike AllTrail 4 29 Shimano Deore 11V 630 Wh 29'' Vert HoneyDew 2023",
+  "marque": "Haibike",
+  "description": "Avec l'Haibike AllTrail 4 29, vous pouvez rouler sur les sentiers en toute détente. Le puissant moteur Yamaha PW-ST avec batterie 630 Wh, associé à la transmission Shimano Deore 11 vitesses, vous offrent une gamme de rapports de vitesse finement équilibrée. Les roues de 29 pouces au fonctionnement souple et les éléments de suspension Suntour SR sensibles avec un débattement de 120 mm assurent un confort et une fluidité suffisants sur les terrains légers.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/758/413758/2413758/5460612",
+  "mpn": "45024252",
+  "gtin13": "4054624123498",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 1,
+      "prix": 3669.07,
+      "mpn": "45024248",
+      "sku": "2124897",
+      "gtin13": "4054624123481",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2458919-vtt_electrique_tout_suspendu_haibike_alltrail_4_29_shimano_deore_11v_630_wh_29___vert_honeydew_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-195 cm",
+      "stock": 1,
+      "prix": 3099.99,
+      "mpn": "45024252",
+      "sku": "2124750",
+      "gtin13": "4054624123498",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2458919-vtt_electrique_tout_suspendu_haibike_alltrail_4_29_shimano_deore_11v_630_wh_29___vert_honeydew_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "HoneyDew / Black"
+    }
+  ],
+  "informations": {
+    "poids maximum": "120 kg : le poids maximum du système comprend le vélo, le cycliste et la charge (porte-bagages ou remorque)",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 120,
+    "débattement cadre (mm)": 120,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Haibike, FullNine Yamaha i630, Aluminium 6061, 120 mm travel",
+      "fourche": "SR Suntour XCR34 Coil LOR, Lockout, Steel spring, 120 mm travel, Aluminium steerer tube 1 1/8\" - 1 1/2\" tapered, 15 x 110 mm thru-axle Boost",
+      "amortisseur": "SR Suntour Edge LO-R8, Air, Trunnion Mount"
+    },
+    "assistance électrique": {
+      "moteur": "Yamaha PW-ST System, 250 Wh, 70 Nm, 25 km/h",
+      "batterie": "Yamaha InTube, 630 Wh",
+      "écran": "Yamaha Side Switch, 1.7\" LCD, 7 functions"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M5100, Trigger switch, 1x11-vitesses",
+      "dérailleur arrière": "Shimano Deore M5100, 11-vitesses",
+      "cassette": "Shimano M5100, 11-51 Dents",
+      "chaîne": "KMC X11e",
+      "pédalier": "Haibike Components, The Crank +, Aluminium, Chainring, Steel, 36 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano MT410, Hydr. Disc Brake, 180/180 mm Shimano RT30 rotors",
+      "pédales": "Freeridepedal, Aluminium, with Reflector",
+      "selle": "Selle Bassano Reko R2 E-Sport",
+      "tige de selle": "Haibike Components, TheSeatpost ++, Aluminium, 31.6 mm"
+    },
+    "roues": {
+      "jantes": "Rodi Tryp 30, With Eyelets, Double Wall, Aluminium",
+      "moyeux": "Shimano MT400-B, Center Lock",
+      "pneus": "Continental Trail King, 60-622, 29 x 2.4\""
+    },
+    "direction": {
+      "cintre": "Haibike Components, TheBar ++, 780 mm",
+      "poignées": "Haibike MTB grips",
+      "potence": "Haibike Components, TheStem ++, A-head, 31.8 mm, 7.0°",
+      "jeu de direction": "Feimin, A-Head Tapered, Ball bearing"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "M",
+      "taille de cadre (cm)": 44,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 620,
+      "longueur base (mm)": 495,
+      "douille de direction (mm)": 135,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1231,
+      "stack (mm)": 623,
+      "reach (mm)": 424
+    },
+    {
+      "taille de cadre": "L",
+      "taille de cadre (cm)": 48,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 640,
+      "longueur base (mm)": 495,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1252,
+      "stack (mm)": 628,
+      "reach (mm)": 442
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de cadre (cm)": 52,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 660,
+      "longueur base (mm)": 495,
+      "douille de direction (mm)": 145,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1272,
+      "stack (mm)": 632,
+      "reach (mm)": 461
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2674954",
+  "tailles": [
+    "M / 165-175 cm",
+    "L / 175-185 cm"
+  ],
+  "name": "VTT Electrique Tout-Suspendu Husqvarna Hard Cross HC2 Sram SX Eagle 12V 630 Wh 29''/27.5'' Noir/Blanc 2024",
+  "marque": "Husqvarna",
+  "description": "Engagez-vous sur de nouveaux sentiers difficiles tout en sachant que vous y parviendrez. La cinématique et les fonctionnalités du Husqvarna Hard Cross HC2 offrent l’agilité et la fermeté nécessaires pour affronter les sentiers les plus techniques.\r\n\r\nLe HC2 offre les mêmes performances de haut niveau que le reste de la gamme. Résultat ? Un vélo d'enduro prêt à s'élancer sur les pistes les plus difficiles et les meilleurs bike parks. Le moteur Shimano EP6 qui équipe la nouvelle version offre des performances d'assistance au pédalage améliorées et des sensations plus naturelles.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/954/674954/2674954/5381970",
+  "mpn": "4002307244",
+  "gtin13": "9010654128334",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 1,
+      "prix": 4099.99,
+      "mpn": "4002307244",
+      "sku": "2666754",
+      "gtin13": "9010654128334",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2796625-vtt_electrique_tout_suspendu_husqvarna_hard_cross_hc2_sram_sx_eagle_12v_630_wh_29___27_5___noir_blanc_2024"
+    }
+  ],
+  "informations": {
+    "poids": "25,1 kg",
+    "poids maximum": "130 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 180,
+    "débattement cadre (mm)": 170,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : 29/27.5\", alliage 6061, Batterie intégrée, Boost, New HQV Alloy, 170 mm",
+      "fourche": "RockShox Domain R, DebonAir, Air, 180 mm, tapered"
+    },
+    "amortisseur arrière": "RockShox Super Deluxe Select+, Air, 230x65 mm",
+    "assistance électrique": {
+      "moteur": "Shimano EP6, DU-EP600, 250 W, 85 Nm",
+      "batterie": "Core S1+, 630 Wh, 36 V, 17.5 Ah (amovible)",
+      "écran": "Shimano SC-EN600, LCD-Display, ANT, Bluetooth"
+    },
+    "changement de vitesse": "Sram SX Eagle, Single Click, 1x12 vitesses",
+    "transmission": {
+      "dérailleur arrière": "Sram SX Eagle, 12 vitesses",
+      "cassette": "Sram PG-1230, 11-50 dts",
+      "chaîne": "Sram SX Eagle",
+      "pédalier": "Shimano FC-EM600, Aluminium forgé, Shimano EP24, plateau Sram X-Sync Eagle, 34 dts"
+    },
+    "équipements": {
+      "freins": "Sram DB8, 4 pistons, Frein à disque hydraulique, disques Sram Centerline, 200/200 mm, 6 trous",
+      "selle": "Husqvarna MTB",
+      "tige de selle": "Husqvarna Pro, 31.6 mm, Tige de selle télescopique (Dropper Post)"
+    },
+    "roues": {
+      "jantes": "Avant : Ryde Disc30, oeilletée, Tubeless Ready / Arrière : Ryde Disc35, oeilletée, Tubeless Ready",
+      "moyeu avant": "Husqvarna DA210F, 6 trous, 15x110 mm, Axe traversant ",
+      "moyeu arrière": "Husqvarna DA210R, 6 trous, 12x148 mm, Axe traversant, HG",
+      "pneu avant": " Schwalbe Magic Mary, Evolution, 62-622, 29x2.4'', Tubeless Ready ",
+      "pneu arrière": " Schwalbe Hans Dampf, Evolution, 65-584, 27.5x2.6'', Tubeless Ready"
+    },
+    "direction": {
+      "cintre": "Husqvarna Riser 35 mm, 780 mm, Sweep: 9 °, Rise: 20 mm",
+      "poignées": "Husqvarna MTB, Poignées à vis",
+      "potence": "Husqvarna 35, 0 °, Ahead"
+    }
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 574,
+      "bases de chaîne (mm)": 445,
+      "longueur du tube de direction (mm)": 100,
+      "angle du tube de direction (°)": 64.5,
+      "angle du tube de selle (°)": 77.4,
+      "empattement (mm)": 1215,
+      "stack (mm)": 647,
+      "reach (mm)": 430
+    },
+    {
+      "taille du cadre": "M",
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 604,
+      "bases de chaîne (mm)": 445,
+      "longueur du tube de direction (mm)": 115,
+      "angle du tube de direction (°)": 64.5,
+      "angle du tube de selle (°)": 77.3,
+      "empattement (mm)": 1248,
+      "stack (mm)": 661,
+      "reach (mm)": 455
+    },
+    {
+      "taille du cadre": "L",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 632,
+      "bases de chaîne (mm)": 445,
+      "longueur du tube de direction (mm)": 130,
+      "angle du tube de direction (°)": 64.5,
+      "angle du tube de selle (°)": 77.2,
+      "empattement (mm)": 1277,
+      "stack (mm)": 674,
+      "reach (mm)": 480
+    },
+    {
+      "taille du cadre": "XL",
+      "tube de selle (mm)": 485,
+      "tube supérieur (mm)": 661,
+      "bases de chaîne (mm)": 445,
+      "longueur du tube de direction (mm)": 145,
+      "angle du tube de direction (°)": 64.5,
+      "angle du tube de selle (°)": 77.2,
+      "empattement (mm)": 1309,
+      "stack (mm)": 687,
+      "reach (mm)": 505
+    }
+  ]
+}

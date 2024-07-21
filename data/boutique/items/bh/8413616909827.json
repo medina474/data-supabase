@@ -1,0 +1,142 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2581481",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 165-177 cm",
+    "L / 175-189 cm",
+    "XL / 185-202 cm"
+  ],
+  "name": "VTT Electrique Tout-Suspendu BH Atomx Cross Pro-S Shimano Deore/XT 12V 720 Wh 27.5'' Gris/Noir",
+  "marque": "BH",
+  "description": "Le besoin de mettre au point un VTT électrique hautes performances a conduit au lancement du projet Atom X. Une équipe d'experts des domaines de la géométrie, des suspensions et des performances des VTT, de technologies avancées de motorisation, batteries et informatique a été formée.\r\n\r\nPlus de kilomètres, pour arriver plus loin et atteindre de nouveaux horizons, qui estompent les limites du VTT que vous connaissiez et vous ouvrent un monde nouveau de possibilités à explorer, à la puissance maximale.\r\n\r\nUne géométrie sur laquelle vous pouvez compter en cas de besoin, quand les choses se compliquent.\r\nUn contrôle total de votre vélo dans les descentes et les sections les plus techniques grâce à sa portée (reach) plus étendue, sa partie arrière ultra-rigide et réactive, sa selle en retrait et l'angle de chasse élancé.\r\n\r\nNous avons conçu le nouvel AtomX, encore plus rigide, en vue de décupler les possibilités du cycliste.\r\nPour cela, nous avons surdimensionné l’axe principal de suspension, obtenant ainsi 20 % de rigidité de torsion supplémentaires grâce aux roulements autocentrés.\r\nEt 79 % dans le tube de direction grâce au nouveau couvercle intégré.\r\n\r\nLa technologie Ballistic Carbon Layup, ce sont des fibres haut module présentant une résistance accrue aux chocs du terrain.\r\nEt le moulage carbone HCIM- Hollow Core Internal Molding (Moulage interne à noyau creux) permet de réduire au maximum le poids du cadre jusqu’à 2 350 grammes, amortisseur compris, pour vous aider à dépasser vos limites.\r\n\r\nTrès léger et compact, avec un impact visuel minime et un centre de gravité bas, le capteur n’oppose aucun type de résistance en mode sans assistance. Il a été conçu en magnésium pour ramener son poids à 2,9 kg tout en préservant son couple maximal de 90 Nm (de 90 à 120 tr/min).\r\nLe capteur de vitesse (Speed Sensor) a été intégré dans la patte de dérailleur, afin d’affiner la sensibilité du capteur et parer aux vibrations et à la saleté.\r\n\r\nGrâce à l’iRemote, vous connaîtrez le niveau de charge restant et pourrez gérer le niveau d’assistance, de manière simple et visuelle.\r\nTéléchargez l’appli BH iConnect et/ou connectez votre AtomX à un dispositif Garmin.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/481/581481/2581481/5214952",
+  "mpn": "ER562SNNMD",
+  "gtin13": "8413616909827",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-170 cm",
+      "stock": 6,
+      "prix": 4199.99,
+      "mpn": "ER562SNNSM",
+      "sku": "2187939",
+      "gtin13": "8413616909834",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2694542-vtt_electrique_tout_suspendu_bh_atomx_cross_pro_s_shimano_deore_xt_12v_720_wh_27_5___gris_noir"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-177 cm",
+      "stock": 53,
+      "prix": 4199.99,
+      "mpn": "ER562SNNMD",
+      "sku": "2187892",
+      "gtin13": "8413616909827",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2694542-vtt_electrique_tout_suspendu_bh_atomx_cross_pro_s_shimano_deore_xt_12v_720_wh_27_5___gris_noir"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-189 cm",
+      "stock": 9,
+      "prix": 4199.99,
+      "mpn": "ER562SNNLA",
+      "sku": "2187464",
+      "gtin13": "8413616909810",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2694542-vtt_electrique_tout_suspendu_bh_atomx_cross_pro_s_shimano_deore_xt_12v_720_wh_27_5___gris_noir"
+    }
+  ],
+  "informations": {
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 120,
+    "débattement cadre (mm)": 100,
+    "matière du cadre": "Alu / Carbone",
+    "groupe": "Shimano Deore XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone/Aluminium : 100mm Full Suspension Carbon 27,5\"+ Alloy Rear Triangle",
+      "fourche": "SR Suntour XCR34 LO 120mm 15QR",
+      "amortisseur": "RockShox Deluxe Select"
+    },
+    "assistance électrique": {
+      "moteur": "Brose S Mag, X System, 250W, 25 km/h",
+      "batterie": "720Wh",
+      "écran": "BH X Display"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore, 1x12 vitesses",
+      "dérailleur arrière": "Shimano XT, 12 vitesses",
+      "cassette": "Shimano CSM6100, 12 vitesses, 10-51 Dents",
+      "chaîne": "Shimano CNM6100",
+      "pédalier": "FSA 38 dents -170mm"
+    },
+    "équipements": {
+      "freins": "Shimano XT, 4 pistons, 203/203mm",
+      "selle": "Selle Royal EZone",
+      "tige de selle": "BH Lite Alloy 31.6"
+    },
+    "roues": {
+      "jantes": "Race Face Ar 30 TR",
+      "pneus": "Schwalbe Smart Sam 27,5x2,6\""
+    },
+    "direction": {
+      "cintre": "BH Lite Riser 720mm",
+      "poignées": "Ergon GP10",
+      "potence": "Ergotec Adjustable",
+      "jeu de direction": "Acros AZX-581 BL"
+    },
+    "collier de selle": "Alloy",
+    "référence": "ER562"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "taille des roues (pouces)": 27.5,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 587,
+      "bases de chaîne (mm)": 453,
+      "longueur du tube de direction (mm)": 110,
+      "angle du tube de direction (°)": 69,
+      "angle du tube de selle (°)": 74,
+      "stack (mm)": 585,
+      "reach (mm)": 413
+    },
+    {
+      "taille du cadre": "M",
+      "taille des roues (pouces)": 27.5,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 595,
+      "bases de chaîne (mm)": 453,
+      "longueur du tube de direction (mm)": 120,
+      "angle du tube de direction (°)": 69,
+      "angle du tube de selle (°)": 74,
+      "stack (mm)": 601,
+      "reach (mm)": 429
+    },
+    {
+      "taille du cadre": "L",
+      "taille des roues (pouces)": 27.5,
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 621,
+      "bases de chaîne (mm)": 453,
+      "longueur du tube de direction (mm)": 135,
+      "angle du tube de direction (°)": 69,
+      "angle du tube de selle (°)": 74,
+      "stack (mm)": 615,
+      "reach (mm)": 445
+    },
+    {
+      "taille du cadre": "XL",
+      "taille des roues (pouces)": 27.5,
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 640,
+      "bases de chaîne (mm)": 453,
+      "longueur du tube de direction (mm)": 150,
+      "angle du tube de direction (°)": 69,
+      "angle du tube de selle (°)": 74,
+      "stack (mm)": 629,
+      "reach (mm)": 460
+    }
+  ]
+}

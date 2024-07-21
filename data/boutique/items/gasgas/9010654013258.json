@@ -1,0 +1,108 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2680031",
+  "tailles": [
+    "M / 165-175 cm",
+    "L / 175-185 cm"
+  ],
+  "name": "VTT Electrique Tout-Suspendu GasGas G Light Trail 2.0 Sram NX/SX 12V 500Wh 29'' Blanc Noir",
+  "marque": "GASGAS",
+  "description": "Faire du VTT avec le mode boost enclenché. Le GasGas G Light Trail 2.0 te rapproche plus que jamais de ce vélo de randonnée polyvalent. Un VTTAE haute performance ainsi que des caractéristiques de légèreté qui reflètent celles du vélo tout terrain traditionnel, permettent au G Light Trail 2.0 de se distinguer vraiment des autres. Il n'a rien à voir avec ce que nous avons fait auparavant. C'est un vélo de randonnée qui se comporte comme un VTT dans les descentes, mais qui présente l'avantage de l'assistance électrique si tu peines dans une montée. Le G Light Trail 2.0 se caractérise par son cadre en carbone ultra léger roulant sur des roues de 29''.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/31/680031/2680031/5406862",
+  "mpn": "4700001644",
+  "gtin13": "9010654013258",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 1,
+      "prix": 3599.99,
+      "mpn": "4700001644",
+      "sku": "2666744",
+      "gtin13": "9010654013258",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2805137-vtt_electrique_tout_suspendu_gasgas_g_light_trail_2_0_sram_nx_sx_12v_500wh_29___blanc_noir"
+    }
+  ],
+  "informations": {
+    "poids": "20,4 kg",
+    "genre": "HommeFemme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram NX/SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "29\", carbone, Batterie intégrée, Boost, 150 mm",
+      "fourche": "RockShox Revelation RC, DebonAir, Air, 150 mm, tapered",
+      "amortisseur": "RockShox Deluxe Select, Air, 230x65 mm"
+    },
+    "assistance électrique": {
+      "moteur": "AIR DRIVE powered by Yamaha, 250 W, 50 Nm",
+      "batterie": "Yamaha ML500, 500 Wh, 36 V (amovible)",
+      "écran": "Yamaha Interface X, LED-Display, ANT, Bluetooth"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram SX Eagle, Single Click, 1x12-vitesses",
+      "dérailleur arrière": "Sram NX Eagle, 12-vitesses",
+      "cassette": "Sram PG-1210, 11-50 dts",
+      "chaîne": "Sram SX Eagle",
+      "pédalier": "GasGas EC33, Aluminium forgé, JIS, plateau Sram X-Sync Eagle, 34 dts"
+    },
+    "équipements": {
+      "freins": "Freins à disques hydrauliques Formula Cura, 4/2 pistons, disques Formula, 203/180 mm, 6 trous",
+      "selle": "Italia SLR Boost, Titane",
+      "tige de selle": "GasGas Pro, 31.6 mm, Tige de selle télescopique (Dropper Post)"
+    },
+    "roues": {
+      "jantes": "NewMen Evolution A.30, Tubeless ready, 6 trous, 15x110/12x148 mm, Axe traversant, roue libre HG",
+      "pneus": "Continental Trail King, 29x2.3'' TR"
+    },
+    "direction": {
+      "cintre": "Race Face Turbine 35 mm, 780 mm, Sweep: 8 °, Rise: 20 mm",
+      "poignées": "GasGas MTB, Poignées à vis",
+      "potence": "Race Face Affect 35, 0 °, Ahead",
+      "jeu de direction": "GasGas ZS44/ZS56"
+    },
+    "poids maximal": "120 kg : pilote + matériel"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 605,
+      "tube de direction (mm)": 125,
+      "longueur de base (mm)": 47,
+      "angle de direction (°)": 65.5,
+      "angle du tube de selle (°)": 74,
+      "empattement (mm)": 1265,
+      "stack (mm)": 642,
+      "reach (mm)": 462
+    },
+    {
+      "taille du cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 630,
+      "tube de direction (mm)": 130,
+      "longueur de base (mm)": 475,
+      "angle de direction (°)": 65.5,
+      "angle du tube de selle (°)": 74,
+      "empattement (mm)": 1290,
+      "stack (mm)": 647,
+      "reach (mm)": 486
+    },
+    {
+      "taille du cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 655,
+      "tube de direction (mm)": 140,
+      "longueur de base (mm)": 475,
+      "angle de direction (°)": 65.5,
+      "angle du tube de selle (°)": 74,
+      "empattement (mm)": 1317,
+      "stack (mm)": 656,
+      "reach (mm)": 508
+    }
+  ]
+}

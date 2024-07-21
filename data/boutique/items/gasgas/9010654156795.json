@@ -1,0 +1,109 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2679923",
+  "tailles": [
+    "S / 158-170 cm",
+    "M / 168-180 cm"
+  ],
+  "name": "VTT Electrique Tout-Suspendu GasGas ECC 4 Sram GX Eagle 12V 630Wh 29'' Rouge Gris Noir",
+  "marque": "GASGAS",
+  "description": "Un modèle à couper le souffle, le GasGas ECC 4 complète la toute nouvelle gamme de VTT électriques E-Enduro. Avec son entrée sur le podium lors de la Coupe du monde, son cadre en carbone éprouvé, assorti d'un bras oscillant arrière de taille spécifique, il crée un ressenti incomparable qui offre une maniabilité exceptionnelle même sur les pistes les plus ardues. Les éléments SRAM sont bien présents sur l'ECC 4, avec une transmission GX Eagle à 12 vitesses, des bras de manivelle GX Eagle et des freins SRAM DB8 sur des rotors SRAM Centerline de 220/200 mm.\r\n\r\nLe système de propulsion très attendu SRAM Eagle Powertrain produit un couple de 90 Nm et une puissance maximale de 680 W lorsque vous en avez le plus besoin. La batterie est une SRAM Eagle Powertrain de 630 Wh. L’écran SRAM Eagle Powertrain AXS Bridge intégré au tube supérieur affiche toutes les informations essentielles dont vous avez besoin, sans créer de distraction sur la piste. ",
+  "image": "https://product-cdn-frz.alltricks.com/medium/923/679923/2679923/5406220",
+  "mpn": "3102403040",
+  "gtin13": "9010654156795",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 158-170 cm",
+      "stock": 1,
+      "prix": 5499.99,
+      "mpn": "3102403040",
+      "sku": "2666874",
+      "gtin13": "9010654156795",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2805115-vtt_electrique_tout_suspendu_gasgas_ecc_4_sram_gx_eagle_12v_630wh_29___rouge_gris_noir"
+    }
+  ],
+  "informations": {
+    "poids": "24,6 kg",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 170,
+    "débattement cadre (mm)": 160,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "29\", carbone, Batterie intégrée, Boost, 160 mm",
+      "fourche": "RockShox ZEB Select+, DebonAir+, Air, 170 mm, tapered",
+      "amortisseur": "RockShox Super Deluxe Select+, Ressort, 205x65 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Sram Eagle Powertrain Drive Unit, 250 W, 90 Nm",
+      "batterie": "Sram Eagle Powertrain, 630 Wh (amovible)",
+      "écran": "Sram Eagle Powertrain AXS Bridge Display"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX Eagle, Single Click, 1x12-vitesses",
+      "dérailleur arrière": "Sram GX Eagle, 12-vitesses",
+      "cassette": "Sram PG-1210, 11-50 dts",
+      "chaîne": "Sram SX Eagle",
+      "pédalier": "Sram GX Eagle E-MTB 160 mm, plateau Sram XX Eagle"
+    },
+    "équipements": {
+      "freins": "Freins à disques hydrauliques Sram DB8, 4 pistons, disques Sram Centerline, 220/200 mm, 6 trous",
+      "selle": "Selle San Marco GND",
+      "tige de selle": "GasGas, 34.9 mm, Tige de selle télescopique (Dropper Post)"
+    },
+    "roues": {
+      "jantes": "Mach 1 TRUCKY 30, oeilletée, Tubeless Ready, 15x110/12x148 mm, Axe traversant, roue libre HG",
+      "pneu avant": " Maxxis Assegai, 63-622, 29x2.5'' ",
+      "pneu arrière": " Maxxis Minion DHR II, 62-622, 29x2.4''"
+    },
+    "direction": {
+      "cintre": "GasGas Riser 35 mm, 780 mm, Sweep: 9 °, Rise: 20 mm",
+      "poignées": "GasGas MTB, Poignées à vis",
+      "potence": "GasGas 35, 0 °, Ahead, 40 mm",
+      "jeu de direction": "Acros AZX-579 ZS56/ZS56"
+    },
+    "poids maximal": "130 kg : pilote + matériel"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 588,
+      "tube de direction (mm)": 115,
+      "longueur de base (mm)": 461,
+      "angle de direction (°)": 64,
+      "angle du tube de selle (°)": 76,
+      "empattement (mm)": 1259,
+      "stack (mm)": 649,
+      "reach (mm)": 450
+    },
+    {
+      "taille du cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 613,
+      "tube de direction (mm)": 130,
+      "longueur de base (mm)": 461,
+      "angle de direction (°)": 64,
+      "angle du tube de selle (°)": 75,
+      "empattement (mm)": 1290,
+      "stack (mm)": 663,
+      "reach (mm)": 475
+    },
+    {
+      "taille du cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 638,
+      "tube de direction (mm)": 145,
+      "longueur de base (mm)": 461,
+      "angle de direction (°)": 64,
+      "angle du tube de selle (°)": 75,
+      "empattement (mm)": 1322,
+      "stack (mm)": 676,
+      "reach (mm)": 500
+    }
+  ]
+}

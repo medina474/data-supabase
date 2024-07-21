@@ -1,0 +1,124 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2708785",
+  "tailles": [
+    "L / 175-185 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Haibike Hybe 10.5 Sram GX Eagle AXS 12V 720 Wh MX(29/27.5'') Marron 2024",
+  "marque": "Haibike",
+  "description": "Maîtrisez tous les terrains ! Si vous ne jurez que par ce qui se fait de mieux, notre tout nouveau Haibike HYBE 10.5 est fait pour vous. Ce vélo électrique de sport offre la combinaison idéale en termes de vitesse, d'intégration et de performances. C'est un champion du monde même sur les terrains les plus rudes. En montée, le nouveau moteur Yamaha PW-XM répondra à toutes vos attentes. En descente, vous bénéficiez d'un confort maximum grâce au débattement de 170 mm de la fourche et de 160 mm à l'arrière. Quant aux freins à disque Magura MT7, ils vous assurent de vous arrêter rapidement à tout moment. Fluidité : les roues de 29″ à l'avant et de 27,5″ à l'arrière constituent un double avantage et garantissent de véritables performances sur le terrain. En outre, le dérailleur Sram GX Eagle AXS vous assure de toujours trouver le braquet idéal. Comme dit précédemment, vous n'avez aucune raison d'accepter le moindre compromis avec le nouveau HYBE 10.5, quel que soit le terrain.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/785/708785/2708785/5459768",
+  "mpn": "45904450",
+  "gtin13": "4054624154225",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 1,
+      "prix": 6499.99,
+      "mpn": "45904450",
+      "sku": "2676546",
+      "gtin13": "4054624154225",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2830926-vtt_electrique_tout_suspendu_haibike_hybe_10_5_sram_gx_eagle_axs_12v_720_wh_mx_29_27_5____marron_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Choco/canary/grey - matt"
+    }
+  ],
+  "informations": {
+    "poids maximum": "120.0 kg",
+    "genre": "HommeFemme",
+    "débattement fourche (mm)": 170,
+    "débattement cadre (mm)": 160,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram GX Eagle AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium, 160mm, through axle M12 (1.00) x 148mm",
+      "fourche": "RockShox ZEB Charger R Ultimate DebonAir+, 170 mm, Aluminium steerer tube 1 1/8\" - 1 1/2\" tapered, 15 x 110mm thru-axle Boost",
+      "amortisseur": "RockShox, Super Deluxe Ultimate, Air, Trunnion"
+    },
+    "assistance électrique": {
+      "moteur": "Yamaha, PW-XM, 250 W, 85 Nm",
+      "batterie": "Yamaha InTube, 720 Wh (amovible)",
+      "écran": "Yamaha, Interface - X"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram AXS POD Controller",
+      "dérailleur arrière": "Sram GX Eagle T-Type AXS",
+      "cassette": "Sram XS-1275 Eagle, 10-52 dts",
+      "chaîne": "Sram T- Type GX Eagle",
+      "pédalier": "Haibike Components, The Crank ++, Aluminium 165, plateau Sram, 36 dts"
+    },
+    "équipements": {
+      "freins": "Magura, MT7, 4-piston disc brake, disques Magura MDR-C, 203/203 mm",
+      "pédales": "Freeridepedal, Aluminium, with Reflector",
+      "selle": "Prologo Proxim W400",
+      "tige de selle": "Haibike Components, Dropper-Post Remote 34.9, Aluminium"
+    },
+    "roues": {
+      "jantes": "DT Swiss H1900",
+      "pneus": "Maxxis, Assegai MaxxTerra/Exo+/TR, 63-622, 29x2.5\" / Maxxis Minion DHR II, 66-584, 27.5x2.6''"
+    },
+    "direction": {
+      "cintre": "Haibike Components, TheBar +++, 780 mm",
+      "poignées": "Haibike, MTB grips",
+      "potence": "Haibike Components, TheStem 2, A-head, 31.8 mm",
+      "jeu de direction": "Acros, BlockLock, Aluminium"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1220,
+      "stack (mm)": 646,
+      "reach (mm)": 421
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1250,
+      "stack (mm)": 646,
+      "reach (mm)": 451
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 627,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1279,
+      "stack (mm)": 655,
+      "reach (mm)": 475
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 659,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1313,
+      "stack (mm)": 664,
+      "reach (mm)": 505
+    }
+  ]
+}

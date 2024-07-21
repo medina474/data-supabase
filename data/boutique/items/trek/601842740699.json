@@ -1,0 +1,143 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2622974",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-175 cm",
+    "L / 175-188 cm",
+    "XL / 188-196 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Trek Fuel EXe 9.8 Shimano XT 12V 360 Wh 29'' Noir",
+  "marque": "Trek",
+  "description": "Le Fuel EXe 9.8 XT est un VTT d’un tout nouveau genre qui introduit une puissance presque invisible sur le trail dans un ensemble d’assistance au pédalage électrique qui est compact et qui s’adapte à votre façon de rouler. Il est doté de la transmission TQ, petite, mais puissante, qui vous aide quand vous en avez besoin, mais qui s’efface dans les descentes pour vous apporter les véritables sensations d’un VTT de trail. Grâce au cadre en carbone, le vélo est léger et réactif. L’ensemble de suspension RockShox amélioré est combiné au changement de vitesse Shimano XT pour donner un modèle qui trouve l’équilibre parfait entre la performance et le prix.\r\n\r\nVous aimez les trails et vous recherchez le meilleur de ce que les VTT traditionnels et les VTTAE ont à offrir. Vous ne souhaitez pas sacrifier l’agilité de la maîtrise à la puissance, mais vous appréciez un peu d’assistance dans les côtes. Les technologies les plus récentes vous intéressent et vous êtes prêt à réaliser des améliorations là où cela compte le plus. Vous ne souhaitez pas perdre les sensations naturelles de la pratique du VTT et vous cherchez un moteur électrique affiné qui vous aidera discrètement pendant vos sorties.\r\n\r\nUn cadre OCLV Mountain Carbon avec une batterie de 360 Wh complètement intégrée et une transmission à démultiplicateur harmonique à anneau à broches, un port de charge intelligent, un affichage DEL intégré et une commande au guidon discrète. Sans oublier une fourche RockShox Lyrik Select+ de 150 mm de débattement avec ressort DebonAir et amortisseur Charger 2.1 RC et une suspension arrière RockShox Super Deluxe Select+ de 140 mm de débattement. Et le tout complété par le changement de vitesse précis et la modulation d’une transmission Shimano XT.\r\n\r\nLe Fuel EXe 9.8 est un VAE qui a vu le jour pour le trail. Il garantit un comportement vif et ludique dans les descentes et offre une assistance intuitive dans les montées. Il est doté d’une transmission TQ, petite, mais puissante, qui agit discrètement, si bien que vous pouvez continuer à vivre l’instant présent sur le trail. Il se caractérise également par le changement de vitesse précis de Shimano XT, des roues en carbone et un ensemble de suspension amélioré. Vous payez pour les composants qui comptent vraiment.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/974/622974/2622974/5302376",
+  "mpn": "5272366",
+  "gtin13": "601842740699",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 51,
+      "prix": 9499,
+      "mpn": "5272365",
+      "sku": "2358314",
+      "gtin13": "601842740705",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2752844-vtt_electrique_tout_suspendu_trek_fuel_exe_9_8_shimano_xt_12v_360_wh_29___noir"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-188 cm",
+      "stock": 51,
+      "prix": 9999,
+      "mpn": "5272366",
+      "sku": "2357175",
+      "gtin13": "601842740699",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2752844-vtt_electrique_tout_suspendu_trek_fuel_exe_9_8_shimano_xt_12v_360_wh_29___noir"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 188-196 cm",
+      "stock": 7,
+      "prix": 9499,
+      "mpn": "5272367",
+      "sku": "2358996",
+      "gtin13": "601842740682",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2752844-vtt_electrique_tout_suspendu_trek_fuel_exe_9_8_shimano_xt_12v_360_wh_29___noir"
+    }
+  ],
+  "informations": {
+    "poids": "18.10 kg",
+    "genre": "HommeFemme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : OCLV Mountain Carbon, batterie amovible, acheminement interne des câbles, basculeur en alliage, tube de selle de 34,9 mm, fixation supérieure de guide-chaîne, ligne de chaîne de 55 mm, Mino Link, ABP, Boost148, UDH, débattement de 140 mm",
+      "fourche": "RockShox Lyrik Select+, ressort DebonAir, amortisseur Charger 2.1 RC, pivot conique, déport de 44 mm, Boost110, Maxle Stealth 15 mm, débattement de 150 mm",
+      "amortisseur": "RockShox Super Deluxe Select+ RT, 205 x 60 mm"
+    },
+    "assistance électrique": {
+      "moteur": "TQ-HPR50, 50 Nm, 250 watt maximum de puissance continue, 300 watt de puissance en pointe",
+      "batterie": "TQ 360 Wh"
+    },
+    "écran ": "Écran LED de TQ avec Bluetooth et connectivité ANT+",
+    "transmission": {
+      "manette de dérailleur": "Shimano XT M8100, 12 vitesses",
+      "dérailleur arrière": "Shimano XT M8100, galets longs, 12 vitesses",
+      "cassette": "Shimano XT M8100, 10-51 Dents",
+      "chaîne": "Shimano XT M8100, 12 vitesses",
+      "pédalier": "Taille S, M, L, XL : E*thirteen E*spec Plus, 34 dts, 165 mm de long Taille S, M, L, XL : E*thirteen E*spec Race carbone, 34 dts, 165 mm de long"
+    },
+    "équipements": {
+      "freins": "Shimano XT M8120, hydrauliques à disque, 4 pistons, disques Shimano RT76, 6 trous, 203/203 mm",
+      "selle": "Bontrager Arvada, rails en austénite, largeur de 138 mm",
+      "tige de selle": "Taille S : Tige de selle télescopique Bontrager Line Elite, 100 mm de débattement, MaxFlow, acheminement interne, 34,9 mm, longueur de 345 mm Taille M : Tige de selle télescopique Bontrager Line Elite, 150 mm de débattement, MaxFlow, acheminement interne, 34,9 mm, longueur de 440 mm Taille L : Tige de selle télescopique Bontrager Line Elite, 170 mm de débattement, MaxFlow, acheminement interne, 34,9 mm, longueur de 485 mm Taille XL : Tige de selle télescopique Bontrager Line Elite, 200 mm de débattement, MaxFlow, acheminement interne, 34,9 mm, longueur de 550 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Line Elite 30, carbone OCLV Mountain, Tubeless Ready",
+      "pneus": "Bontrager SE5 Team Issue, Tubeless Ready, flancs Core Strength, tringle en aramide, 120 tpi, 29x2,5 pouces"
+    },
+    "direction": {
+      "poignées": "Bontrager XR Trail Elite, nylon lock-on"
+    },
+    "cintre/potence intégré": "Taille S : Potence/cintre intégré Bontrager RSL, OCLV carbon, élévation cintre 27,5 mm, largeur de 820 mm, inclinaison de potence 0, longueur de potence 35 mm Taille M, L, XL : Cintre/potence intégré Bontrager RSL, OCLV carbon, élévation cintre 27,5 mm, largeur de 820 mm, inclinaison de potence 0, longueur de potence 45 mm"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 573,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 69,
+      "empattement (mm)": 1186,
+      "stack (mm)": 623,
+      "reach (mm)": 430
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 69.5,
+      "empattement (mm)": 1215,
+      "stack (mm)": 627,
+      "reach (mm)": 455
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 70.5,
+      "empattement (mm)": 1245,
+      "stack (mm)": 627,
+      "reach (mm)": 485
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 657,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1275,
+      "stack (mm)": 636,
+      "reach (mm)": 510
+    }
+  ]
+}

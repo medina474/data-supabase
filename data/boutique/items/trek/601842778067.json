@@ -1,0 +1,137 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2495985",
+  "tailles": [
+    "XS / 145-155 cm",
+    "S / 155-165 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Trek Powerfly FS 9 EQ Sram GX Eagle AXS 12V 625 Wh 27.5'' Gris Lithium / Noir Gén 3",
+  "marque": "Trek",
+  "description": "Le Powerfly FS 9 Equipped est un VTTAE tout suspendu qui vous permet à la fois de vous aventurer sur des singletracks et de vous rendre au travail. Doté de pièces haut de gamme, d’un puissant système de transmission avec une commande intelligente et d’une suspension exceptionnelle, aucun trail ne lui fait peur. De plus, il possède toutes les caractéristiques utilitaires dont vous avez besoin pour vos déplacements quotidiens tels que les garde-boue, des éclairages et un porte-bagage arrière.\r\n\r\nVous souhaitez un VTTAE tout suspendu super polyvalent pour attaquer les pistes. Vous souhaitez également un vélo tout équipé pour vos trajets quotidiens, vous permettre de rapporter la baguette à la maison ou vous faire plaisir sur le chemin après le travail.\r\n\r\nUn cadre aluminium résistant qui abrite complètement une batterie de grande autonomie de 625 Wh, un puissant moteur Bosch Performance CX qui offre une assistance pouvant atteindre 25 km/h et une télécommande intelligente LED avec affichage Kiox, pouvant être utilisé avec ou sans téléphone. Il est aussi doté d’une fourche télescopique de 120 mm, d’un débattement arrière de 110 mm, de freins hydrauliques à 4 pistons, de roues Bontrager Line Comp 30, d’une transmission 12 vitesses Sram Gx Eagle AXS et d’une tige de selle télescopique pour adopter une position basse en descente.\r\n\r\nNotre meilleur Powerfly FS est performant à la fois sur les pistes accidentées, les trails et lors de vos trajets quotidiens grâce à un système de suspension confortable, une transmission puissante et de nombreuses fonctions utilitaires.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/985/495985/2495985/4895157",
+  "mpn": "5278025",
+  "gtin13": "601842778067",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XS / 145-155 cm",
+      "stock": 2,
+      "prix": 5999,
+      "mpn": "5278025",
+      "sku": "2366974",
+      "gtin13": "601842778067",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2563694-vtt_electrique_tout_suspendu_trek_powerfly_fs_9_eq_sram_gx_eagle_axs_12v_625_wh_27_5___gris_lithium___noir_gen_3"
+    }
+  ],
+  "informations": {
+    "poids": "M - 27,00 kg / 59,53 lbs",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 120,
+    "débattement cadre (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram GX Eagle AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Aluminium Alpha Platinum, Batterie intégrée amovible (RIB), tube de direction conique, acheminement interne des câbles, Motor Armor, basculeur, fixations de porte-bagages et garde-boue, APB, Boost148, débattement de 100 mm",
+      "fourche": "SR Suntour Zeron 35, ressort pneumatique, amortisseur LO R, blocage hydraulique, pivot conique, déport de 44 mm, Boost110, axe traversant à écrou 15 mm, débattement de 120 mm",
+      "amortisseur": "RockShox SID Lux Select+, 190x45 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Performance Line CX, Système intelligent, corps du moteur en magnésium, 85 Nm, assistance limitée à 25 km/h",
+      "batterie": "Bosch PowerTube 625 Wh, système intelligent",
+      "écran": "Bosch Kiox 300, système intelligent / Commande à distance Bosch LED, smart system"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX Eagle AXS, 12 vitesses",
+      "dérailleur arrière": "Sram GX Eagle AXS, chape longue, 12 vitesses",
+      "cassette": "Sram Eagle XG-1275, 10-52 Dents, 12 vitesses",
+      "chaîne": "Sram GX Eagle, 12 vitesses",
+      "pédalier": "Sram X1 1000, longueur de 165 mm, plateau X-Sync de Sram, 36 dents, acier"
+    },
+    "équipements": {
+      "freins": "Disque hydraulique à 4 pistons Sram G2 RS, disques Sram à 6 trous, 200/200 mm",
+      "selle": "Bontrager Commuter Comp",
+      "tige de selle": "Taille XS, S, M : Tige de selle télescopique Bontrager Line, 100 mm de débattement, acheminement interne, 31,6 mm, longueur de 345 mm Taille L, XL : Tige de selle télescopique Bontrager Line, 150 mm de débattement, acheminement interne, 31,6 mm, longueur de 440 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Line Comp 30, Tubeless Ready, 28 trous, valve presta",
+      "pneus": "Taille XS, S : Bontrager LT4 Expert, bande réfléchissante, tringle rigide, 60 tpi, 27,5x2,40 pouces Taille M, L, XL : Bontrager LT4 Expert, bande réfléchissante, tringle rigide, 60 tpi, 29x2,40 pouces"
+    },
+    "direction": {
+      "cintre": "Bontrager Rhythm Comp, Alu, 31,8 mm, élévation de 15 mm, largeur de 750 mm",
+      "poignées": "Bontrager XR Endurance Comp, lock-on",
+      "potence": "Taille XS, S : Bontrager Elite, 31,8 mm, fixation pour feux Blendr, élévation 7 degrés, longueur de 60 mm Taille M, L, XL : Bontrager Elite, 31,8 mm, fixation pour feux Blendr, élévation 7 degrés, longueur de 70 mm"
+    },
+    "accessoires": "Éclairage Avant : Phare Supernova Mini 2, DEL 5-21 V / Éclairage Arrière : Supernova E3 Mini-2 feu arrière, LED / Béquille : Pletscher Comp Flex 18 / Garde-boue ",
+    "couleur": "Satin Lithium Grey/Trek Black"
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "taille des roues (pouces)": 27.5,
+      "tube de selle (mm)": 368,
+      "tube supérieur (mm)": 554,
+      "longueur base (mm)": 468,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68.3,
+      "empattement (mm)": 1170,
+      "stack (mm)": 599,
+      "reach (mm)": 405
+    },
+    {
+      "taille cadre": "S",
+      "taille des roues (pouces)": 37.5,
+      "tube de selle (mm)": 395,
+      "tube supérieur (mm)": 564,
+      "longueur base (mm)": 468,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68.3,
+      "empattement (mm)": 1180,
+      "stack (mm)": 599,
+      "reach (mm)": 415
+    },
+    {
+      "taille cadre": "M",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 589,
+      "longueur base (mm)": 470,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 67.5,
+      "empattement (mm)": 1206,
+      "stack (mm)": 637,
+      "reach (mm)": 430
+    },
+    {
+      "taille cadre": "L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 621,
+      "longueur base (mm)": 470,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 67.5,
+      "empattement (mm)": 1240,
+      "stack (mm)": 646,
+      "reach (mm)": 460
+    },
+    {
+      "taille cadre": "XL",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 646,
+      "longueur base (mm)": 470,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 67.5,
+      "empattement (mm)": 1265,
+      "stack (mm)": 646,
+      "reach (mm)": 485
+    }
+  ]
+}

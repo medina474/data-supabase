@@ -1,0 +1,115 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2510167",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 165-177 cm",
+    "L / 175-189 cm"
+  ],
+  "name": "VTT Electrique Tout Suspendu BH Atom Lynx 8.2 Shimano Deore 12S 29'' Gris 2022",
+  "marque": "BH",
+  "description": "Le vélo de montagne Atom Lynx 8.2  est un vélo aux performances maximales, agile et léger.\r\nLes vélos Atom se caractérisent par leur \"TS System\" breveté par BH Bikes, qui intègre la batterie dans le tube diagonal, permettant ainsi d'obtenir la forme d'un cadre traditionnel. Son design optimisé offre une géométrie compacte caractéristique des cadres BH.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/167/510167/2510167/4933682",
+  "mpn": "EA822SNSLA",
+  "gtin13": "8413616891689",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-170 cm",
+      "stock": 1,
+      "prix": 3599.99,
+      "mpn": "EA822SNSSM",
+      "sku": "2187641",
+      "gtin13": "8413616891665",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2578734-vtt_electrique_tout_suspendu_bh_atom_lynx_8_2_shimano_deore_12s_29___gris_2022"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-189 cm",
+      "stock": 2,
+      "prix": 3599.99,
+      "mpn": "EA822SNSLA",
+      "sku": "2188155",
+      "gtin13": "8413616891689",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2578734-vtt_electrique_tout_suspendu_bh_atom_lynx_8_2_shimano_deore_12s_29___gris_2022"
+    }
+  ],
+  "informations": {
+    "genre": "HommeFemme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Acier",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Alloy: 140 mm Full Suspension Alloy 29\" Internal Cable Routing",
+      "fourche": "Rock Shox Recon RL 150mm 15QR",
+      "amortisseur": "Rock Shox Deluxe Debonair"
+    },
+    "direction": {
+      "jeu de direction": "Acros AIX-322 OD46",
+      "potence": "BH Ahead"
+    },
+    "manette": "Shimano Deore, 1x12-speeds",
+    "dérailleur": "Shimano Deore, 12-speeds",
+    "transmission": {
+      "cassette": "Shimano CSM5100 12sp (10-51T)",
+      "pédalier": "Praxis 34T-165mm"
+    },
+    "chaine": "Shimano CNM6100",
+    "équipements": {
+      "freins": "Shimano MT420 4 Piston 203mm/203mm",
+      "selle": "Prologo Proxim W450 Stn",
+      "tige de selle": "Kind Shock RAGEI"
+    },
+    "roues": {
+      "jantes": "Alexrims EXR25 TR, Shimano Hubs, Stainless Steel spoke",
+      "pneu avant": "Minion TPI60 EXO TR 29\"X2,5",
+      "pneu arrière": ""
+    },
+    "cintre": "BH MTB Alloy Riser 780mm",
+    "grips": "Ergon GE10",
+    "assistance électrique": {
+      "moteur": "BH1E",
+      "batterie": "720WH"
+    },
+    "couleur": "Grey"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 571,
+      "longueur de la base (mm)": 430,
+      "douille de direction (mm)": 140,
+      "angle de braquage (°)": 67,
+      "angle du tube de selle (°)": "74,7",
+      "stack (mm)": 644,
+      "reach (mm)": 410
+    },
+    {
+      "taille du cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 580,
+      "longueur de la base (mm)": 430,
+      "douille de direction (mm)": 145,
+      "angle de braquage (°)": 67,
+      "angle du tube de selle (°)": "74,6",
+      "stack (mm)": 649,
+      "reach (mm)": 430
+    },
+    {
+      "taille du cadre": "L",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 605,
+      "longueur de la base (mm)": 430,
+      "douille de direction (mm)": 150,
+      "angle de braquage (°)": 67,
+      "angle du tube de selle (°)": "74,6",
+      "stack (mm)": 654,
+      "reach (mm)": 450
+    }
+  ]
+}

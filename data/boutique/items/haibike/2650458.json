@@ -1,0 +1,167 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2650458",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-175 cm",
+    "L / 175-185 cm",
+    "XL / 185-195 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Haibike Adventr FS 9 Sram NX/SX Eagle 12V 720 Wh 29'' Argent Bleu 2023",
+  "marque": "Haibike",
+  "description": "Suspension intégrale pour la prochaine aventure : le vélo électrique Haibike Adventr FS 9, équipé de roues de 29\", allie les avantages d'un eFully au confort et aux caractéristiques d'un vélo de trekking électrique. Avec son moteur Yamaha PW-S2 alimenté par une batterie de 720 Wh, ses suspensions avant et arrière au débattement de 140 mm, son dérailleur Sram et ses freins à disque hydrauliques Shimano, vous êtes parfaitement équipé pour aller travailler ou pour partir plusieurs jours en randonnée sur un terrain plus difficile. Grâce au système de rail modulaire, et tout en restant en conformité avec la réglementation StVZO, vous pouvez fixer des accessoires en toute simplicité tels qu'un porte-bagages et des garde-boues.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/458/650458/2650458/5330536",
+  "mpn": "45600350",
+  "gtin13": "",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-165 cm",
+      "stock": 2,
+      "prix": 3299.99,
+      "mpn": "45600330",
+      "sku": "2420787",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2767221-vtt_electrique_tout_suspendu_haibike_adventr_fs_9_sram_nx_sx_eagle_12v_720_wh_29___argent_bleu_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 4,
+      "prix": 3299.99,
+      "mpn": "45600340",
+      "sku": "2420925",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2767221-vtt_electrique_tout_suspendu_haibike_adventr_fs_9_sram_nx_sx_eagle_12v_720_wh_29___argent_bleu_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 3,
+      "prix": 3299.99,
+      "mpn": "45600350",
+      "sku": "2420869",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2767221-vtt_electrique_tout_suspendu_haibike_adventr_fs_9_sram_nx_sx_eagle_12v_720_wh_29___argent_bleu_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-195 cm",
+      "stock": 4,
+      "prix": 3299.99,
+      "mpn": "45600360",
+      "sku": "2421262",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2767221-vtt_electrique_tout_suspendu_haibike_adventr_fs_9_sram_nx_sx_eagle_12v_720_wh_29___argent_bleu_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Silver / Dark Blue - Matt"
+    }
+  ],
+  "informations": {
+    "poids maximum": "150 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 140,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram NX/SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Adventr FS Aluminium, 140 mm travel",
+      "fourche": "RockShox 35 Gold RL, Air, Aluminium steerer tube 1 1/8\" - 1 1/2\" tapered, Boost 15 x 110 mm thru-axle, 140 mm travel",
+      "amortisseur": "RockShox Deluxe select, Air, Trunnion Mount"
+    },
+    "assistance électrique": {
+      "moteur": "Yamaha PW-S2, 250 W, 75 Nm, 25 km/h",
+      "batterie": "InTube 720 Wh",
+      "écran": "Yamaha, Side Switch, 1.7\" LCD, 7 functions"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram SX Eagle, Trigger switch, 1x12-vitesses",
+      "dérailleur arrière": "Sram NX Eagle, 12-vitesses",
+      "cassette": "Sram PG-1210 Eagle, 11-50 Dents",
+      "chaîne": "Sram SX Eagle",
+      "pédalier": "Haibike Components, The Crank +++, Aluminium / Sram, 38 Dents"
+    },
+    "guide-chaîne": "Nylon DirectMount",
+    "équipements": {
+      "freins": "Shimano MT420, 4-piston, Hydr. Disc Brake, (203/203)",
+      "pédales": "Freeridepedal, Aluminium, with Reflector",
+      "selle": "Selle Royal Vivo",
+      "tige de selle": "Haibike Components, Dropper-Post Remote 34.9, Aluminium, Telescope, 34.9 mm"
+    },
+    "roues": {
+      "jantes": "WTB ST i30 TCS, Double Wall",
+      "moyeux": "Shimano MT400, Center Lock",
+      "pneus": "Continental Ruban, Reflex, 29x2.3\""
+    },
+    "direction": {
+      "cintre": "Haibike Components, TheBar ++, 780 mm",
+      "potence": "Alu A-head, 31.8 mm",
+      "jeu de direction": "Acros BlockLock, Aluminium"
+    },
+    "accessoires": "Herrmans H-Black MR8 E, 50 lm Headlight / AXA Juno Ebike Rear Light / Dynamo via system battery / StandWell, system carrier / Curana, Apollo 75, Aluminium Fenders / Ursus, Mooi, Rear stand"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de cadre (cm)": 41,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 480,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1234,
+      "stack (mm)": 651,
+      "reach (mm)": 419
+    },
+    {
+      "taille de cadre": "M",
+      "taille de cadre (cm)": 44,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 585,
+      "longueur base (mm)": 480,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1243,
+      "stack (mm)": 654,
+      "reach (mm)": 434
+    },
+    {
+      "taille de cadre": "L",
+      "taille de cadre (cm)": 47,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 480,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 76.9,
+      "empattement (mm)": 1253,
+      "stack (mm)": 666,
+      "reach (mm)": 445
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de cadre (cm)": 50,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 620,
+      "longueur base (mm)": 480,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.9,
+      "empattement (mm)": 1267,
+      "stack (mm)": 669,
+      "reach (mm)": 465
+    }
+  ]
+}

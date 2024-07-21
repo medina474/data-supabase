@@ -1,0 +1,123 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2456515",
+  "tailles": [
+    "S / 165-175 cm",
+    "M / 175-185 cm",
+    "L / 183-200 cm"
+  ],
+  "name": "VTT Electrique Tout-Suspendu R Raymon FullRay 130E 4.0 Tektro M350 9V 500 Wh 29'' Noir 2023",
+  "marque": "R Raymon",
+  "description": "Le R Raymon FullRay 130E 4.0 est un VTT électrique haut de gamme avec un cadre en aluminium.\r\nCe vélo de montagne est conçu pour les amateurs de VTT qui recherchent la performance et une bonne expérience de conduite.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/515/456515/2456515/4700758",
+  "mpn": "4500010446",
+  "gtin13": "9010654005314",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 175-185 cm",
+      "stock": 8,
+      "prix": 2049.99,
+      "mpn": "4500010446",
+      "sku": "2179640",
+      "gtin13": "9010654005314",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2499975-vtt_electrique_tout_suspendu_r_raymon_fullray_130e_4_0_tektro_m350_9v_500_wh_29___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 183-200 cm",
+      "stock": 5,
+      "prix": 2049.99,
+      "mpn": "4500010450",
+      "sku": "2179756",
+      "gtin13": "9010654005321",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2499975-vtt_electrique_tout_suspendu_r_raymon_fullray_130e_4_0_tektro_m350_9v_500_wh_29___noir_2023"
+    }
+  ],
+  "informations": {
+    "poids": "24.7 kg",
+    "genre": "HommeFemme",
+    "débattement fourche (mm)": 130,
+    "débattement cadre (mm)": 130,
+    "matière du cadre": "Aluminium",
+    "groupe": "Tektro M350 9V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : 29\", alliage 6061, Batterie intégrée, Boost, 130 mm",
+      "fourche": "SR Suntour XCM34 Boost LO, Ressort, 130 mm, conique",
+      "amortisseur": "SR Suntour Raidon R, Air, 210x55 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Yamaha PW-TE, 250 W, 60 Nm",
+      "batterie": "Yamaha ML500, 500 Wh, 36 V"
+    },
+    "affichage": "Yamaha Display A, écran LCD, Micro-USB",
+    "levier de changement de vitesse": "Tektro SL-M350R",
+    "transmission": {
+      "dérailleur arrière": "Tektro RD-M350, 9-vitesses",
+      "pédalier": "Wheeltop, forgé en aluminium, JIS, plateau R Raymon, 38 dents",
+      "chaîne": "KMC e9S",
+      "cassette": "Tektro CS-M350, 11-46 dents"
+    },
+    "roues": {
+      "jantes": "Mach 1 650E, oeilletée, Tubeless Ready",
+      "moyeu avant": "R Raymon DA210F, 6 trous, 15x110 mm, Axe traversant ",
+      "moyeu arrière": "R Raymon DA210R, 6 trous, 12x148 mm, Axe traversant, HG",
+      "pneus": "Continental Cross King, 58-622, 29x2.3"
+    },
+    "équipements": {
+      "freins": "Tektro HD-M280, 2 pistons, frein à disque hydraulique",
+      "selle": "R Raymon MTB",
+      "tige de selle": "R Raymon, 31.6 mm, 350 mm, Brevet"
+    },
+    "direction": {
+      "potence": "R Raymon 31.8, 7 °, Ahead",
+      "cintre": "R Raymon Riser 31,8 mm, 780 mm, Sweep : 6 °, Rise : 15 mm",
+      "poignées": "R Raymon MTB, Poignées à vis"
+    },
+    "couleurs": "Noir"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 572,
+      "tube de direction (mm)": 115,
+      "longueur de la base (mm)": 475,
+      "angle de braquage (°)": 66,
+      "angle du tube de selle (°)": 75,
+      "empattement (mm)": 1223,
+      "stack (mm)": 615,
+      "reach (mm)": 435
+    },
+    {
+      "taille du cadre": "M",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 599,
+      "tube de direction (mm)": 125,
+      "longueur de la base (mm)": 475,
+      "angle de braquage (°)": 66,
+      "angle du tube de selle (°)": 75,
+      "empattement (mm)": 1252,
+      "stack (mm)": 625,
+      "reach (mm)": 460
+    },
+    {
+      "taille du cadre": "L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 630,
+      "tube de direction (mm)": 135,
+      "longueur de la base (mm)": 475,
+      "angle de braquage (°)": 66,
+      "angle du tube de selle (°)": 75,
+      "empattement (mm)": 1286,
+      "stack (mm)": 634,
+      "reach (mm)": 490
+    }
+  ]
+}

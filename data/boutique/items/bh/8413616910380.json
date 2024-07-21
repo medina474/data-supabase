@@ -1,0 +1,146 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2422960",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 165-177 cm",
+    "L / 175-189 cm",
+    "XL / 185-202 cm"
+  ],
+  "name": "VTT Electrique Tout-Suspendu Bh Bikes Atomx Lynx Pro 9.0 Shimano Deore XT 12V 720 Wh 29'' Bleu 2022",
+  "marque": "BH",
+  "description": "Vous recherchez un vélo électrique très léger, en carbone et au design innovant, offrant de hautes performances, une géométrie High Performance et une grande autonomie grâce à une batterie de 720 Wh.\r\nL'utilisation de cellules à densité énergétique maximale, disposées en nid d'abeille, a permis de réduire la section du tube diagonal de 18 mm, d'y placer 720 Wh pour une autonomie de 155 km et d'alléger le triangle avant. La batterie est intégrée de façon indépendante dans le cadre et le port de charge est accessible par le haut, pour qu'elle puisse vous accompagner sur tous les parcours, sans jamais vous faire défaut.\r\n\r\nNous avons déplacé la position du moteur vers l'avant pour obtenir un porte-à-faux bas, de façon à pouvoir avoir la taille S sur les modèles de 140 mm et 160 mm, sans sacrifier la géométrie.\r\nPlus de kilomètres, pour aller plus loin et atteindre de nouveaux horizons, en effaçant les limites du VTT que vous connaissiez et en ouvrant un nouveau monde de possibilités à explorer, à puissance maximale.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/960/422960/2422960/4652426",
+  "mpn": "ER902BSNMD",
+  "gtin13": "8413616910380",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-170 cm",
+      "stock": 10,
+      "prix": 4299.99,
+      "mpn": "ER902BSNSM",
+      "sku": "2188485",
+      "gtin13": "8413616910397",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2464725-vtt_electrique_tout_suspendu_bh_bikes_atomx_lynx_pro_9_0_shimano_deore_xt_12v_720_wh_29___bleu_2022"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-177 cm",
+      "stock": 1,
+      "prix": 4099.99,
+      "mpn": "ER902BSNMD",
+      "sku": "2187973",
+      "gtin13": "8413616910380",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2464725-vtt_electrique_tout_suspendu_bh_bikes_atomx_lynx_pro_9_0_shimano_deore_xt_12v_720_wh_29___bleu_2022"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-189 cm",
+      "stock": 49,
+      "prix": 4299.99,
+      "mpn": "ER902BSNLA",
+      "sku": "2188533",
+      "gtin13": "8413616910373",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2464725-vtt_electrique_tout_suspendu_bh_bikes_atomx_lynx_pro_9_0_shimano_deore_xt_12v_720_wh_29___bleu_2022"
+    }
+  ],
+  "informations": {
+    "poids": "--",
+    "genre": "Homme",
+    "débattement fourche (mm)": 160,
+    "débattement cadre (mm)": 160,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Alliage : 160mm Full Susp. 29\" Passage interne des câbles, Acros ICR / Triangle arrière en alliage",
+      "fourche": "FOX 36 FLOAT Performance 160mm 15QR"
+    },
+    "amortisseur arrière": "FOX FLOAT DPS Performance",
+    "assistance électrique": {
+      "moteur": "BROSE SMag, X System, 250W, 25 km/h",
+      "batterie": "Système X, 720Wh"
+    },
+    "affichage": "I-Remote BH",
+    "manette de vitesse": "Shimano Deore XT, 1x12 vitesses",
+    "transmission": {
+      "dérailleur arrière": "Shimano Deore XT 12sp",
+      "cassette": "Shimano CSM6100 12sp (10-51T)",
+      "chaîne": "Shimano CN-M6100",
+      "pédalier": "Praxis 32T-165mm"
+    },
+    "équipements": {
+      "freins": "Shimano XT 4 pistons 203mm, frein à disque hydr. Disque, (203/203)",
+      "selle": "Prologo Proxim W450 Stn",
+      "tige de selle": "Race Face DP Aeffect 31,6"
+    },
+    "roues": {
+      "jantes": "Race Face Ar 30 TR",
+      "moyeux": "BH",
+      "pneu avant": "Minion TPI120 Terra EXO TR 29 \"X2,5",
+      "pneu arrière": ""
+    },
+    "direction": {
+      "cintre": "BH Lite 35 780mm",
+      "poignées": "Ergon GE10",
+      "potence": "BH Evo 35 Fit, 31,8 mm",
+      "jeu de direction": "Acros AZX-581 BL."
+    },
+    "collier de selle": "Alloy",
+    "couleur": "Bleu",
+    "référence": "ER902"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 570,
+      "bases de chaîne (mm)": 455,
+      "longueur du tube de direction (mm)": 100,
+      "angle du tube de direction (°)": 65,
+      "angle du tube de selle (°)": 76,
+      "stack (mm)": 621,
+      "reach (mm)": 423
+    },
+    {
+      "taille du cadre": "M",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 598,
+      "bases de chaîne (mm)": 455,
+      "longueur du tube de direction (mm)": 110,
+      "angle du tube de direction (°)": 65,
+      "angle du tube de selle (°)": 76,
+      "stack (mm)": 625,
+      "reach (mm)": 450
+    },
+    {
+      "taille du cadre": "L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 620,
+      "bases de chaîne (mm)": 455,
+      "longueur du tube de direction (mm)": 110,
+      "angle du tube de direction (°)": 65,
+      "angle du tube de selle (°)": 76,
+      "stack (mm)": 634,
+      "reach (mm)": 470
+    },
+    {
+      "taille du cadre": "XL",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 638,
+      "bases de chaîne (mm)": 455,
+      "longueur du tube de direction (mm)": 125,
+      "angle du tube de direction (°)": 65,
+      "angle du tube de selle (°)": 76,
+      "stack (mm)": 648,
+      "reach (mm)": 485
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2460094",
+  "tailles": [
+    "M / 167-175 cm",
+    "S / 157-165 cm",
+    "L / 172-182 cm",
+    "XL / 185-195 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Cannondale Moterra Neo S1 Shimano SLX/XT 12V 630 Wh 29'' Vert",
+  "marque": "Cannondale",
+  "description": "Un VTTAE à double suspension conçu pour s’affranchir des limites. \r\n\r\nCircuits locaux ou haute montagne, ce VTTAE révolutionnera votre expérience. Agile et rapide dans les montées, stable et rassurant même dans les descentes les plus vicieuses, il apporte du fun sur les chemins et vous donne des ailes sur les sentiers difficiles. C’est le genre de machine qui vous rend impatient(e) de la prochaine sortie.\r\n\r\nLa puissance et l’autonomie ne sont qu’un début. Ce qui rend le Moterra Neo vraiment exceptionnel, c’est sa maniabilité. Grâce à notre conception de cadre « Proportional Response », chaque taille de cadre bénéficie d’une configuration de suspension et d’une géométrie spécifique, qui donnent au vélo une maniabilité telle qu’il semble avoir été conçu spécialement pour vous. Et c’est justement le cas.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/94/460094/2460094/4871970",
+  "mpn": "C65122U10XL",
+  "gtin13": "884603928974",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-195 cm",
+      "stock": 2,
+      "prix": 3499.99,
+      "mpn": "C65122U10XL",
+      "sku": "2151689",
+      "gtin13": "884603928974",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2502948-vtt_electrique_tout_suspendu_cannondale_moterra_neo_s1_shimano_slx_xt_12v_630_wh_29___vert"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Gunmetal Green"
+    }
+  ],
+  "informations": {
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano SLX XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : 150mm travel, SmartForm C2 Alloy, Cannondale Tuned Suspension, removable downtube battery, internal cable routing, 148x12mm thru-axle, post mount brake, tapered headtube",
+      "fourche": "RockShox Lyrik Select +, 150mm, Solo Air, 15x110mm stealth thru-axle, tapered steerer, 51mm offset",
+      "amortisseur": "RockShox Deluxe Select +, DebonAir, 2-Pos mode adjust, adjustable rebound"
+    },
+    "assistance électrique": {
+      "moteur": "Shimano EP8, 85 Nm, 25 km/h - Modes d'assistance : Marche, Eco, Trail et Boost",
+      "batterie": "Shimano BT-E8036 630Wh, 36V, 17.5Ah",
+      "écran": "Shimano LCD couleur 1.6 pouce"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano SLX, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XT, 12-vitesses",
+      "cassette": "Shimano Deore, Hyperglide, 10-51 dents, 12-vitesses",
+      "chaîne": "Shimano M6100 Hyperglide, 12-vitesses",
+      "pédalier": "FSA E-Bike, 165mm, Shimano 12-vitesses, 34 dents"
+    },
+    "équipements": {
+      "freins": "Shimano SLX 4-piston hydraulic disc, RT64 rotors 203mm/203mm",
+      "selle": "Cannondale Ergo XC",
+      "tige de selle": "Cannondale DownLow dropper, internal routing, 31.6, 125mm (S), 150mm (M-XL)"
+    },
+    "roues": {
+      "jantes": "WTB ST i30 TCS, 32h, tubeless ready",
+      "moyeu avant": "Shimano MT400, 15x110mm thru-axle ",
+      "moyeu arrière": "Shimano MT400, 12x148mm thru-axle",
+      "pneu avant": " Maxxis Assegai, 29 x 2.6\", 3C, EXO+, tubeless ready ",
+      "pneu arrière": " Maxxis DHR II, 29 x 2.6\", 3C, EXO+, tubeless ready"
+    },
+    "direction": {
+      "cintre": "Cannondale 3 Riser, 6061 Alloy, 15mm rise, 8° sweep, 4° rise, 780mm",
+      "poignées": "Fabric FunGuy",
+      "jeu de direction": "Integrated Sealed Bearing, Tapered",
+      "potence": "Cannondale 3, 3D Forged 6061 Alloy, 1-1/8\", 31.8, 7°"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 583,
+      "longueur base (mm)": 452,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1196,
+      "stack (mm)": 618,
+      "reach (mm)": 428
+    },
+    {
+      "taille cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 608,
+      "longueur base (mm)": 455,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1220,
+      "stack (mm)": 631,
+      "reach (mm)": 450
+    },
+    {
+      "taille cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 635,
+      "longueur base (mm)": 455,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1249,
+      "stack (mm)": 641,
+      "reach (mm)": 475
+    },
+    {
+      "taille cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 672,
+      "longueur base (mm)": 455,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1288,
+      "stack (mm)": 650,
+      "reach (mm)": 510
+    }
+  ]
+}

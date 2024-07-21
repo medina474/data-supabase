@@ -1,0 +1,144 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2687766",
+  "tailles": [
+    "M / 165-174 cm",
+    "L / 175-184 cm",
+    "XL / 185-200 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Rockrider E-Feel 900S Team Edition Shimano XT Di2 12V 630Wh 29'' Noir 2024",
+  "marque": "Rockrider",
+  "description": "Conçu pour les pilotes qui roulent vite en montée comme en descente ! Champs de racines, pentes raides, franchissement de pierriers… Rien ne lui fait peur !\r\nFabriqué au Canada et conçu en France. Le pilotage devient plus accessible grâce à ce VTTAE robuste, polyvalent, maniable et joueur ! Le plus : ses suspensions RockShox en version Ultimate.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/766/687766/2687766/5434653",
+  "mpn": "4218651",
+  "gtin13": "3583787510490",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-174 cm",
+      "stock": 1,
+      "prix": 5499,
+      "mpn": "4218649",
+      "sku": "2628485",
+      "gtin13": "3583787510476",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2815402-vtt_electrique_tout_suspendu_rockrider_e_feel_900s_team_edition_shimano_xt_di2_12v_630wh_29___noir_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-184 cm",
+      "stock": 1,
+      "prix": 5499,
+      "mpn": "4218648",
+      "sku": "2628378",
+      "gtin13": "3583787510483",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2815402-vtt_electrique_tout_suspendu_rockrider_e_feel_900s_team_edition_shimano_xt_di2_12v_630wh_29___noir_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-200 cm",
+      "stock": 1,
+      "prix": 5499,
+      "mpn": "4218651",
+      "sku": "2628319",
+      "gtin13": "3583787510490",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2815402-vtt_electrique_tout_suspendu_rockrider_e_feel_900s_team_edition_shimano_xt_di2_12v_630wh_29___noir_2024"
+    }
+  ],
+  "informations": {
+    "poids": "24,6 kg (taille M)",
+    "genre": "Homme",
+    "débattement fourche (mm)": 160,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano XT 12V",
+    "pays de fabrication": "Canada"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Cadre suspendu en aluminium 6061, Débattement 150 mm, Batterie intégrée à sortie verticale, Douille de direction conique, Diamètre de tube de selle 31,6 mm",
+      "fourche": "RockShox Zeb Ultimate 160 mm, axe 110 x 15, offset 44 mm, Debon Air+ w/ ButterCups",
+      "amortisseur": "RockShox Super Deluxe Ultimate, 210 x 52,5 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Moteur central Shimano EP801, 85Nm",
+      "écran": "Shimano SC-EN600, Bluetooth",
+      "batterie": "Batterie intégrée 630 Wh"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano SW-EN600-R Di2, 1x12 vitesses",
+      "dérailleur arrière": "Shimano XT 8150 Di2, 12 vitesses",
+      "cassette": "Shimano M6100 10-51 dts",
+      "chaîne": "Shimano XT M8100",
+      "pédalier": "Shimano XT 165mm, 34 dts avec Antidéraillement"
+    },
+    "équipements": {
+      "freins": "Freins à disque hydrauliques TRP Trail Evo, 4 pistons, 203/203 mm, 6 trous",
+      "selle": "Decathlon Short Nose",
+      "tige de selle": "Rockrider Dropper, 31,6 mm"
+    },
+    "roues": {
+      "jantes": "Mavic E-Deemax S 29, 28 trous, largeur interne 30mm, Roue libre MS",
+      "pneus": "Rockrider Grip 500 29x2.4\", Tubeless Ready, Tringle souple, Carcasse 60 TPI, Flancs Skinwall avec bande laterale anti-crévaison, Bi-gomme"
+    },
+    "direction": {
+      "cintre": "Rockrider Sport, Rise 15mm, Largeur 780mm, 31,8 mm, Upsweep 5°, Backsweep 9°",
+      "potence": "Rockrider Aluminium, 0°, 45mm",
+      "jeu de direction": "ZS 44/28,6 - 56/40"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 567,
+      "longueur base (mm)": 465,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": "76,5",
+      "empattement (mm)": 1217,
+      "stack (mm)": 632,
+      "reach (mm)": 425,
+      "débattement tige de selle (mm)": 120
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 415,
+      "tube supérieur (mm)": 589,
+      "longueur base (mm)": 465,
+      "douille de direction (mm)": 118,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": "76,5",
+      "empattement (mm)": 1240,
+      "stack (mm)": 639,
+      "reach (mm)": 445,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 611,
+      "longueur base (mm)": 465,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": "76,5",
+      "empattement (mm)": 1263,
+      "stack (mm)": 645,
+      "reach (mm)": 465,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 633,
+      "longueur base (mm)": 465,
+      "douille de direction (mm)": 135,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": "76,5",
+      "empattement (mm)": 1288,
+      "stack (mm)": 654,
+      "reach (mm)": 485,
+      "débattement tige de selle (mm)": 170
+    }
+  ]
+}

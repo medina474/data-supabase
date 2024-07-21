@@ -1,0 +1,122 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2509869",
+  "tailles": [
+    "S / 155-165 cm",
+    "L / 175-188 cm",
+    "XL / 188-196 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Trek Fuel EXe 9.9 Shimano XTR 12V 360 Wh 29'' Bleu 2023",
+  "marque": "Trek",
+  "description": "Le Fuel EXe 9.9 XTR donne une nouvelle définition au VTT de haut niveau avec un ensemble de composants qui coche toutes les cases, voire un peu plus. Depuis sa discrète transmission TQ qui s’intègre à la nature jusqu’aux roues et au cadre en carbone avec la transmission haut de gamme Shimano XTR, le Fuel EXe 9.9 est prêt à se lancer sur les trails. L’ensemble de suspension RockShox amélioré, souple et fluide vous donne l’impression de flotter tandis que l’assistance discrète TQ vous donne les bienfaits d’un vent de dos lorsque vous pédalez dans ces côtes qui brûlent les cuisses.\r\n\r\nLes grandes performances ne vous suffisent pas. Vous voulez le meilleur que peut offrir le secteur. Depuis le cadre et les roues en carbone jusqu’à la transmission XTR en passant par la suspension titulaire RockShox qui ne fait qu’une bouchée des rochers et des racines, vous recherchez un vélo qui est prêt à tout et qui vous aidera à retourner au sommet pour vous lancer une nouvelle fois dans la descente grâce à un moteur silencieux que vous remarquerez à peine.\r\n\r\nUn cadre en OCLV Mountain Carbon avec une batterie de 360 Wh complètement intégrée, une transmission à démultiplicateur harmonique à anneau à broches de chez TQ avec port de charge intelligent, un écran DEL intégré et une commande discrète au guidon, une fourche RockShox Lyrik Ultimate de 150 mm avec AirWiz, un ressort DebonAir et un amortisseur Charger 3 RC2 et une suspension arrière RockShox Super Deluxe Ultimate de 140 mm de débattement. Sans oublier, des roues légères et rigides en carbone Tubeless Ready et la transmission XTR vedette de Shimano.\r\n\r\nLe Fuel EXe 9.9 est un VAE qui redéfinit les catégories et dont les composants répondront aux besoins des pilotes les plus exigeants. Il gère sans broncher les côtes escarpées sans vous sortir de votre élément grâce à la transmission TQ discrète et très résistante qui vous fera oublier les VAE volumineux. Il intègre une multitude de composants haut de gamme, depuis les roues en carbone jusqu’au groupe XTR, le groupe le plus léger et le plus performant de Shimano.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/869/509869/2509869/4931482",
+  "mpn": "5272471",
+  "gtin13": "601842740774",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-188 cm",
+      "stock": 3,
+      "prix": 13499,
+      "mpn": "5272471",
+      "sku": "2358889",
+      "gtin13": "601842740774",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2576569-vtt_electrique_tout_suspendu_trek_fuel_exe_9_9_shimano_xtr_12v_360_wh_29___bleu_2023"
+    }
+  ],
+  "informations": {
+    "poids": "M - 17,47 kg",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano XTR 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : OCLV Mountain Carbon, batterie amovible, acheminement interne des câbles, basculeur en alliage, tube de selle de 34,9 mm, fixation supérieure de guide-chaîne, ligne de chaîne de 55 mm, Mino Link, ABP, Boost148, UDH, débattement de 140 mm",
+      "fourche": "RockShox Lyrik Ultimate, AirWiz, ressort DebonAir, amortisseur Charger 2 RC2, déport de 44 mm, Boost110, Maxle Stealth, débattement de 150 mm",
+      "amortisseur": "RockShox Super Deluxe Ultimate AirWiz, amortisseur RCT2, 205 x 60 mm"
+    },
+    "assistance électrique": {
+      "moteur": "TQ-HPR50, 50 Nm, 250 watts maximum de puissance continue, 300 watts de puissance en pointe",
+      "batterie": "TQ 360 Wh"
+    },
+    "écran ": "Écran LED de TQ avec Bluetooth et connectivité ANT+",
+    "transmission": {
+      "manette de dérailleur": "Shimano XTR M9100, 12 vitesses",
+      "dérailleur arrière": "Shimano XTR M9100, Shadow Plus, chape longue, pignon de 51 dts max",
+      "cassette": "Shimano XTR M9101, 10-51 dents, 12 vitesses",
+      "chaîne": "Shimano Dura-Ace/XTR M9100, 12 vitesses",
+      "pédalier": "E*thirteen E*spec Race carbone, 165 mm de long, plateau Sram X-Sync, 32 dents, ligne de chaîne à 55 mm"
+    },
+    "équipements": {
+      "freins": "Shimano XT M9120, hydrauliques à disque, 4 pistons, disques Shimano RT86, 6 trous, 203/180 mm",
+      "selle": "Bontrager Arvada, rails en austénite, largeur de 138 mm",
+      "tige de selle": "Taille S : Tige de selle télescopique Bontrager Line Elite, 100 mm de débattement, MaxFlow, acheminement interne, 34,9 mm, longueur de 345 mm Taille M : Tige de selle télescopique Bontrager Line Elite, 150 mm de débattement, MaxFlow, acheminement interne, 34,9 mm, longueur de 440 mm Taille L : Tige de selle télescopique Bontrager Line Elite, 170 mm de débattement, MaxFlow, acheminement interne, 34,9 mm, longueur de 485 mm Taille XL : Tige de selle télescopique Bontrager Line Elite, 200 mm de débattement, MaxFlow, acheminement interne, 34,9 mm, longueur de 550 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Line Pro 30, OCLV Mountain Carbon, Tubeless Ready",
+      "pneus": "Bontrager SE5 Team Issue, Tubeless Ready, flancs Core Strength, tringle en aramide, 120 tpi, 29x2,5 pouces"
+    },
+    "direction": {
+      "poignées": "Bontrager XR Trail Elite, nylon lock-on"
+    },
+    "cintre/potence intégré": "Taille S : Potence/cintre intégré Bontrager RSL, OCLV Carbon, élévation cintre 27,5 mm, largeur de 820 mm, inclinaison de potence 0, longueur de potence 35 mm Taille M, L, XL : Cintre/potence intégré Bontrager RSL, OCLV Carbon, élévation cintre 27,5 mm, largeur de 820 mm, inclinaison de potence 0, longueur de potence 45 mm"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 573,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 69,
+      "empattement (mm)": 1186,
+      "stack (mm)": 623,
+      "reach (mm)": 430
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 69.5,
+      "empattement (mm)": 1215,
+      "stack (mm)": 627,
+      "reach (mm)": 455
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 70.5,
+      "empattement (mm)": 1245,
+      "stack (mm)": 627,
+      "reach (mm)": 485
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 657,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1275,
+      "stack (mm)": 636,
+      "reach (mm)": 510
+    }
+  ]
+}

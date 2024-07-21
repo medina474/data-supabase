@@ -1,0 +1,130 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2636152",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 165-177 cm",
+    "L / 175-189 cm"
+  ],
+  "name": "VTT Electrique Tout-Suspendu BH AtomE Lynx Pro 8.2 Shimano Deore 11V 720 Wh 29'' Rouge",
+  "marque": "BH",
+  "description": "Le AtomE Lynx Pro 8.2, un EMTB de 140mm de debattement avec un maximum de puissance pour \"rouler\" sur tout type de sentier.\r\nUne géométrie sur laquelle vous pouvez compter en cas de besoin, quand les choses se compliquent.\r\n\r\nLes velos de la gamme ATOMe sont dotes d’un moteur shimano ep6 plus leger, plus silencieux et plus compact, mais offrant aussi peu de resistance au pedalage que l’ep801. Ideal pour une utilisation sur sentiers ou terrain urbain, il garantit un pedalage naturel et un couple maximal de 85 nm.\r\n\r\nL'accès à la batterie par le haut du tube diagonal offre une excellente ergonomie.\r\nLa batterie, logee dans le tube diagonal dont la section est la plus reduite Du marche, offre une capacite de 720 Wh et une autonomie de jusqu’a 155 KM. La charge, qui permet d’atteindre rapidement 80% de la capacite maximale de la batterie, peut se faire soit via un port integre dans le cadre ou en se raccordant directement a la batterie.\r\n\r\nLe systeme de suspension split pivot permet d’aborder n’importe quel terrain dans n’importe quelle condition. Grace a « l’antisquat », qui garantit l’efficacite de pedalage, et au « brake-squat », qui assure un freinage optimal.\r\n\r\nCompact et personnalisable, il propose differents profils et s’adapte a une grande variete de cintres et cablages. Son ecran compact et simple a lire offre un affichage dynamique lors des changements de niveaux d’assistance.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/152/636152/2636152/5313372",
+  "mpn": "ES824RRRSM",
+  "gtin13": "8413616980598",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-170 cm",
+      "stock": 1,
+      "prix": 4930.9,
+      "mpn": "ES824RRRSM",
+      "sku": "2579859",
+      "gtin13": "8413616980598",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2757472-vtt_electrique_tout_suspendu_bh_atome_lynx_pro_8_2_shimano_deore_11v_720_wh_29___rouge"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-177 cm",
+      "stock": 2,
+      "prix": 4930.9,
+      "mpn": "ES824RRRMD",
+      "sku": "2579793",
+      "gtin13": "8413616980581",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2757472-vtt_electrique_tout_suspendu_bh_atome_lynx_pro_8_2_shimano_deore_11v_720_wh_29___rouge"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-189 cm",
+      "stock": 2,
+      "prix": 4930.9,
+      "mpn": "ES824RRRLA",
+      "sku": "2579903",
+      "gtin13": "8413616980574",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2757472-vtt_electrique_tout_suspendu_bh_atome_lynx_pro_8_2_shimano_deore_11v_720_wh_29___rouge"
+    }
+  ],
+  "informations": {
+    "genre": "HommeFemme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore M5100 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : 140 mm Full Suspension Alloy 29\" internal cable routing",
+      "fourche": "RockShox Recon RL 150mm 15QR",
+      "amortisseur": "RockShox Deluxe Debonair"
+    },
+    "assistance électrique": {
+      "moteur": "Shimano EP6, 85 Nm, 25 km/h",
+      "batterie": "720Wh"
+    },
+    "ecran": "Shimano EN600",
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore, 1x11 vitesses",
+      "dérailleur arrière": "Shimano Deore, 11 vitesses",
+      "cassette": "Shimano CSM5100, 11 vitesses, 11-51 Dents",
+      "chaîne": "Shimano HG60",
+      "pédalier": "Shimano 34 dents -165mm"
+    },
+    "équipements": {
+      "freins": "Shimano MT420, 4 pistons, 203/203mm",
+      "selle": "Prologo Proxim W450 Stn",
+      "tige de selle": "Kind Shock RAGEI"
+    },
+    "roues": {
+      "jantes": "BH Lite Mach1 Trucky 30",
+      "pneu avant": "Minion TP120 EXO TR 29x2.5",
+      "pneu arrière": ""
+    },
+    "direction": {
+      "cintre": "BH MTB Alloy Riser 35 780mm",
+      "poignées": "Ergon GE10",
+      "potence": "BH Ahead",
+      "jeu de direction": "Acros AZX-578 BL"
+    },
+    "collier de selle": "Alloy",
+    "référence": "ES824"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 580,
+      "bases de chaîne (mm)": 464,
+      "longueur du tube de direction (mm)": 120,
+      "angle du tube de direction (°)": 66,
+      "angle du tube de selle (°)": 74.5,
+      "stack (mm)": 624,
+      "reach (mm)": 427
+    },
+    {
+      "taille du cadre": "M",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 605,
+      "bases de chaîne (mm)": 464,
+      "longueur du tube de direction (mm)": 130,
+      "angle du tube de direction (°)": 66,
+      "angle du tube de selle (°)": 74.5,
+      "stack (mm)": 633,
+      "reach (mm)": 455
+    },
+    {
+      "taille du cadre": "L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 623,
+      "bases de chaîne (mm)": 464,
+      "longueur du tube de direction (mm)": 140,
+      "angle du tube de direction (°)": 66,
+      "angle du tube de selle (°)": 74.5,
+      "stack (mm)": 642,
+      "reach (mm)": 475
+    }
+  ]
+}

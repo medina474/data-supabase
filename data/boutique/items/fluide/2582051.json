@@ -1,0 +1,119 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2582051",
+  "tailles": [
+    "42 cm / 155-170 cm",
+    "46 cm / 170-180 cm",
+    "50 cm / 181-193 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Fluide Sram SX Eagle 12V 630 Wh 29'' Gris 2023",
+  "marque": "Fluide",
+  "description": "Le VTT électrique tout-suspendu Fluide est équipé d'une fourche suspendue RST Vibe de 130 mm de débattement et d'un amortisseur Kind Shock A5. Grâce à sa batterie de 630 Wh et à sa motorisation Bafang M410 et à son couple de 80 Nm, les montées sont un jeu d'enfant. La transmission Sram SX Eagle 12 vitesses et les freins à disque hydrauliques Shimano MT200 vous garantissent toute la fiabilité dont vous avez besoin.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/51/582051/2582051/5218282",
+  "mpn": "AL.MS2901.3142",
+  "gtin13": "",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "42 cm / 155-170 cm",
+      "stock": 1,
+      "prix": 2199.99,
+      "mpn": "AL.MS2901.3142",
+      "sku": "2565602",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2695875-vtt_electrique_tout_suspendu_fluide_sram_sx_eagle_12v_630_wh_29___gris_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "46 cm / 170-180 cm",
+      "stock": 7,
+      "prix": 2199.99,
+      "mpn": "AL.MS2901.3146",
+      "sku": "2565698",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2695875-vtt_electrique_tout_suspendu_fluide_sram_sx_eagle_12v_630_wh_29___gris_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "50 cm / 181-193 cm",
+      "stock": 6,
+      "prix": 2199.99,
+      "mpn": "AL.MS2901.3150",
+      "sku": "2565507",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2695875-vtt_electrique_tout_suspendu_fluide_sram_sx_eagle_12v_630_wh_29___gris_2023"
+    }
+  ],
+  "informations": {
+    "poids": "26.0 kg",
+    "genre": "Homme",
+    "débattement fourche (mm)": 130,
+    "débattement cadre (mm)": 130,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Aluminium 6061, Full Suspension MTB 29\", Integrated Battery, Boost 12x148 mm, 130 mm travel",
+      "fourche": "RST Vibe, Boost 15x110 mm, 130 mm travel",
+      "amortisseur": "Kind Shock A5, 190x50 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Bafang M410, 80 Nm, 250 W, 25 km/h",
+      "batterie": "Bafang Intube 630 Wh, 36 V, 17.5 Ah with BMS",
+      "écran": "Bafang E161 led full function set w/bluetooth"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram SX Eagle, 1x12-vitesses",
+      "dérailleur arrière": "Sram SX Eagle, 12-vitesses",
+      "cassette": "Sram PG-1210 Eagle, 11-50 Dents",
+      "pédalier": "Bafang, 170 mm, 32 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano BR-MT200, Hydr. Disc Brake, (180/180)",
+      "selle": "Signum Mtb, Performance line",
+      "tige de selle": "Signum Alloy, Black, 30.4 x 350 mm"
+    },
+    "roues": {
+      "jantes": "Signum XS3006, 32H, Disc, 29\"",
+      "pneus": "Schwalbe Smart Sam, 29 x 2.60\""
+    },
+    "direction": {
+      "cintre": "Signum Alloy oversize, 660 mm",
+      "potence": "Signum Alloy, 31.8 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre (cm)": 42,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 610,
+      "longueur base (mm)": 485,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1227
+    },
+    {
+      "taille de cadre (cm)": 46,
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 621,
+      "longueur base (mm)": 485,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1239
+    },
+    {
+      "taille de cadre (cm)": 50,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 485,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1248
+    }
+  ]
+}

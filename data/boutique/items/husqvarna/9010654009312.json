@@ -1,0 +1,122 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2501897",
+  "tailles": [
+    "M / 165-175 cm",
+    "L / 175-185 cm",
+    "XL / 185-195 cm"
+  ],
+  "name": "VTT Electrique Tout-Suspendu Husqvarna Mountain Cross MC1 Tektro M350 9V 630 Wh 29''/27.5'' Jaune/Noir 2023",
+  "marque": "Husqvarna",
+  "description": "Polyvalent par nature, le MC1 vous permet de maîtriser calmement les montagnes, dévaler les pentes et parcourir des paysages incroyables, grâce à son châssis dynamique de soutien, sa nouvelle géométrie et son moteur.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/897/501897/2501897/4911876",
+  "mpn": "4000004544",
+  "gtin13": "9010654009312",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 3,
+      "prix": 3499.99,
+      "mpn": "4000004544",
+      "sku": "2180006",
+      "gtin13": "9010654009312",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2568478-vtt_electrique_tout_suspendu_husqvarna_mountain_cross_mc1_tektro_m350_9v_630_wh_29___27_5___jaune_noir_2023"
+    }
+  ],
+  "informations": {
+    "poids": "--",
+    "genre": "HommeFemme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Aluminium",
+    "groupe": "Tektro M350 9V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : 29/27.5\", alliage 6061, Batterie intégrée, Boost, 150 mm",
+      "fourche": "RockShox 35 Gold RL, DebonAir, Air, 150 mm, tapered"
+    },
+    "amortisseur arrière": "RockShox Deluxe Select+, Air, 230x62.5 mm",
+    "assistance électrique": {
+      "moteur": "Shimano EP8, DU-EP800, 250 W, 85 Nm",
+      "batterie": "Core S1, 630 Wh, 36 V, 17.5 Ah",
+      "écran": "Shimano SC-E7000, LCD-Display, ANT, Bluetooth"
+    },
+    "changement de vitesse": "Tektro SL-M350R, 1x9 vitesses",
+    "transmission": {
+      "dérailleur arrière": "Tektro RD-M350, 9 vitesses",
+      "cassette": "Tektro CS-M350, 11-46 dents",
+      "chaîne": "KMC e9S",
+      "pédalier": "Shimano FC-EM600, Aluminium forgé, Shimano EP24, plateau Husqvarna, Narrow Wide, 34 dents"
+    },
+    "équipements": {
+      "freins": "Magura MT5, 4 pistons, Frein à disque hydraulique, disques Magura MDR-C, 203/203 mm, 6 trous",
+      "selle": "Husqvarna MTB",
+      "tige de selle": "Husqvarna Pro, 31.6 mm, Tige de selle télescopique (Dropper Post)"
+    },
+    "roues": {
+      "jantes": "Avant : Ryde Disc30, oeilletée, Tubeless Ready / Arrière : Ryde Disc35, oeilletée, Tubeless Ready",
+      "moyeu avant": "Husqvarna DA210F, 6 trous, 15x110 mm, Axe traversant ",
+      "moyeu arrière": "Husqvarna DA210R, 6 trous, 12x148 mm, Axe traversant, HG",
+      "pneu avant": " Schwalbe Nobby Nic, Performance, 62-622, 29x2.4 ",
+      "pneu arrière": " Schwalbe Nobby Nic, Performance, 65-584, 27.5x2.6"
+    },
+    "direction": {
+      "cintre": "Husqvarna Riser 35 mm, 780 mm, Sweep: 8 °, Rise: 20 mm",
+      "potence": "Husqvarna 35, 0 °, Ahead"
+    },
+    "grips": "Husqvarna MTB, Poignées à vis"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 567,
+      "bases de chaîne (mm)": 445,
+      "longueur du tube de direction (mm)": 130,
+      "angle du tube de direction (°)": 65.5,
+      "angle du tube de selle (°)": 77.1,
+      "empattement (mm)": 1184,
+      "stack (mm)": 619,
+      "reach (mm)": 425
+    },
+    {
+      "taille du cadre": "M",
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 596,
+      "bases de chaîne (mm)": 445,
+      "longueur du tube de direction (mm)": 115,
+      "angle du tube de direction (°)": 65.5,
+      "angle du tube de selle (°)": 77,
+      "empattement (mm)": 1216,
+      "stack (mm)": 633,
+      "reach (mm)": 450
+    },
+    {
+      "taille du cadre": "L",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 626,
+      "bases de chaîne (mm)": 445,
+      "longueur du tube de direction (mm)": 130,
+      "angle du tube de direction (°)": 65.5,
+      "angle du tube de selle (°)": 76.9,
+      "empattement (mm)": 1247,
+      "stack (mm)": 646,
+      "reach (mm)": 475
+    },
+    {
+      "taille du cadre": "XL",
+      "tube de selle (mm)": 485,
+      "tube supérieur (mm)": 655,
+      "bases de chaîne (mm)": 445,
+      "longueur du tube de direction (mm)": 145,
+      "angle du tube de direction (°)": 65.5,
+      "angle du tube de selle (°)": 76.8,
+      "empattement (mm)": 1279,
+      "stack (mm)": 660,
+      "reach (mm)": 500
+    }
+  ]
+}

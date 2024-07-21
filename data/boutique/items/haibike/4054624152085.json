@@ -1,0 +1,140 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2677989",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-175 cm",
+    "L / 175-185 cm",
+    "XL / 185-195 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Haibike Nduro 6 Sram SX Eagle 12V 720 Wh 27''/29'' Gris/Noir 2024",
+  "marque": "Haibike",
+  "description": "À la recherche d'un VTT électrique à la fois robuste et agile, mais qui offre aussi beaucoup d'agrément ? Chez lui sur les pistes exigeantes, notre NDURO 7 est le jouet parfait pour les fans de freeride et des sites VTT. Compact et puissant, le moteur Yamaha PW-X3 au couple de 85 Nm vous conduit facilement jusqu'à l'entrée de votre piste favorite. Grâce à son design Fifty-Fifty, vous évitez de sacrifier la performance, que ce soit dans les ascensions techniques ou dans les descentes les plus difficiles. En outre, le triangle arrière progressif aux propriétés anti-cabrement optimisées offre encore plus d’efficacité dans les montées. Avec un débattement de 180 mm à l’avant et à l’arrière, des roues de tailles différentes et des freins à disque Magura MT7, vous êtes paré pour le hors piste.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/989/677989/2677989/5401588",
+  "mpn": "45700440",
+  "gtin13": "4054624152085",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 1,
+      "prix": 4399.99,
+      "mpn": "45700440",
+      "sku": "2676468",
+      "gtin13": "4054624152085",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2802722-vtt_electrique_tout_suspendu_haibike_nduro_6_sram_sx_eagle_12v_720_wh_27___29___gris_noir_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 1,
+      "prix": 4399.99,
+      "mpn": "45700450",
+      "sku": "2676522",
+      "gtin13": "4054624152092",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2802722-vtt_electrique_tout_suspendu_haibike_nduro_6_sram_sx_eagle_12v_720_wh_27___29___gris_noir_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Gris/Noir"
+    }
+  ],
+  "informations": {
+    "poids maximum": "120.0 kg",
+    "genre": "HommeFemme",
+    "débattement fourche (mm)": 180,
+    "débattement cadre (mm)": 180,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Haibike, Nduro PW-X3 , Aluminium",
+      "fourche": "RockShox, Domain R, Air, 180 mm travel, Aluminium steerer tube 1 1/8\" - 1 1/2\" tapered, 15 x 110mm thru-axle Boost",
+      "amortisseur": "RockShox, Super Deluxe Select, Air, Trunnion"
+    },
+    "assistance électrique": {
+      "moteur": "Yamaha, PW-X3, 250 W, 85 Nm",
+      "batterie": "Yamaha InTube, 720 Wh",
+      "écran": "Yamaha, Side Switch, 1.7\" LCD, 7 functions"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram, SX Eagle, Trigger switch",
+      "dérailleur arrière": "Sram, SX Eagle, 12V",
+      "cassette": "Sram, Eagle PG1230, 11 - 50 teeth",
+      "chaîne": "Sram, SX Eagle",
+      "pédalier": "Haibike Components, The Crank ++, Aluminium, plateau Sram, 38 teeth",
+      "boîtier de pédalier": "Integrated in the motor"
+    },
+    "équipements": {
+      "freins": "TRP, Slate G-Spec, 2-piston disc brake Tektro, TR203, 203 mm",
+      "pédales": "Freeridepedal, Aluminium, with Reflector",
+      "selle": "fi'zi:k, Terra Aidon X5-160",
+      "tige de selle": "Haibike Components, Dropper-Post Remote 34.9, Aluminium, Telescope, 34.9 mm"
+    },
+    "roues": {
+      "jantes": "WTB, ST i30 TCS, Double Wall (av) , WTB, ST i35 TCS, Double Wall (ar)",
+      "moyeux": "Haibike Components, The Hub ++, 6-bolt standard (av), TheHub ++ Thru axle 12x148, 6-bolt standard (ar)",
+      "pneu avant": " Schwalbe, Magic Mary Evo TLE, 29 x 2.4 inch ",
+      "pneu arrière": " Schwalbe, Big Betty, 65-584, 27.5 x 2.6 inch"
+    },
+    "direction": {
+      "cintre": "Haibike Components, TheBar +++, 780 mm",
+      "poignées": "Haibike, MTB grips",
+      "potence": "Haibike Components, TheStem 2, A-head, 31.8 mm",
+      "jeu de direction": "Acros, BlockLock, Aluminium"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 574,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 63.5,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1245,
+      "stack (mm)": 644,
+      "reach (mm)": 425
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 604,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 63.5,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1275,
+      "stack (mm)": 644,
+      "reach (mm)": 455
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 631,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 63.5,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1305,
+      "stack (mm)": 653,
+      "reach (mm)": 480
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 663,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 63.5,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1339,
+      "stack (mm)": 662,
+      "reach (mm)": 510
+    }
+  ]
+}

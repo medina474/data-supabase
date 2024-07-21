@@ -1,0 +1,117 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2590010",
+  "tailles": [
+    "S / 157-170 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Rocky Mountain Altitude Powerplay C70 Shimano XT 12V 720Wh 27.5''/29'' Noir Rouge 2023",
+  "marque": "Rocky Mountain",
+  "description": "Conçu avec notre système de motorisation Dyname 4.0, l'Altitude Powerplay a tout ce dont vous avez besoin pour des sorties d'enduro électrifiées.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/10/590010/2590010/5231450",
+  "mpn": "B0224SM74",
+  "gtin13": "770416427240",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 157-170 cm",
+      "stock": 1,
+      "prix": 7199.99,
+      "mpn": "B0224SM74",
+      "sku": "2587485",
+      "gtin13": "770416427240",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2716163-vtt_electrique_tout_suspendu_rocky_mountain_altitude_powerplay_c70_shimano_xt_12v_720wh_27_5___29___noir_rouge_2023"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 170,
+    "débattement cadre (mm)": 160,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "SMOOTHWALL™ Carbon | Integrated Display | Mid-High Pivot Smoothlink Suspension System | Press Fit BB | RIDE-4™ Adjustable Geometry + Suspension Rate | 160mm Travel. FORM™ Alloy Rear Triangle",
+      "fourche": "Fox 38 Float EVOL GRIP Performance Series 170mm | 44mm Offset",
+      "amortisseur": "Fox Float X2 Performance | Sealed Bearing Eyelet | 25x8mm F Hardware | All Sizes = 230x62.5mm | Size-Specific tune in FAQ"
+    },
+    "assistance électrique": {
+      "moteur": "Dyname 4.0 Mountain Bike Drive | 250w Nominal Power | 108Nm | Rocky Mountain Micro Remote | Low RPM - High Efficiency class 1 eMTB System | Designed in Canada",
+      "écran": "Rocky Mountain Jumbotron | Drive System Customization | Battery & Assist Level | Trip | Speed | Cadence | Top Tube Integration",
+      "batterie": "720 Wh Removable Integrated Li-Ion | 100% Charged in 3:55 (4A) / 7:35 (2A) | 80% Charged in 2:55 (4A) / 6:05 (2A)"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano XT",
+      "dérailleur arrière": "Shimano XT",
+      "cassette": "Shimano XT 10-51T",
+      "chaîne": "Shimano M8100",
+      "pédalier": "Race Face Aeffect Cinch 34T | 24mm Spindle | Crank Length: SM - MD = 165mm | LG - XL = 170mm"
+    },
+    "boitier de pédalier": "Shimano SM-BBMT500",
+    "équipements": {
+      "freins": "Shimano XT Trail 4 Piston | Metal Pads | F:Shimano RT66 203mm | R:Shimano RT66 203mm",
+      "selle": "WTB Volt Race 142",
+      "tige de selle": "Race Face Aeffect R Dropper 30.9mm | Shimano MT500 Remote | SM = 125mm | MD = 150mm | LG - XL = 175mm"
+    },
+    "roues": {
+      "jantes": "WTB ST i30 TCS 2.0 Tubeless | 32H | Tubeless Ready - Tape / Valves Incl | Cushcore XC Tire Inserts | Lightweight | Tire & Rim Protection",
+      "pneus": "F: Maxxis Assegai 2.5 WT 3C MaxxGrip DD Tubeless Ready // R: Maxxis Minion DHR II 2.4 WT 3C MaxxTerra DD Tubeless Ready"
+    },
+    "direction": {
+      "cintre": "Rocky Mountain AM | 780mm Width | 38mm Rise | 9° Backsweep | 5° Upsweep | 35 Clamp",
+      "potence": "Rocky Mountain 35 AM | 5° Rise | All Sizes = 40m",
+      "jeu de direction": "FSA Orbit NO.57E | Sealed Stainless 36°x45° Bearings | 30.2mm x 41mm x 7.1mm Upper | 40mm x 51.8mm x 7.5mm Lower | 1.5\" Crown Race"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": "587 / 585",
+      "longueur base (mm)": "439 / 436",
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": "63.5 / 64.3",
+      "angle tube de selle (°)": "75.5 / 76.3",
+      "empattement (mm)": "1210 / 1207",
+      "stack (mm)": "629 / 623",
+      "reach (mm)": "425 / 433"
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": "612 / 610",
+      "longueur base (mm)": "439 / 436",
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": "63.5 / 64.3",
+      "angle tube de selle (°)": "75.5 / 76.3",
+      "empattement (mm)": "1237 / 1232",
+      "stack (mm)": "628 / 623",
+      "reach (mm)": "450 / 458"
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": "639 / 637",
+      "longueur base (mm)": "439 / 436",
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": "63.5 / 64.3",
+      "angle tube de selle (°)": "75.5 / 76.3",
+      "empattement (mm)": "1264 / 1261",
+      "stack (mm)": "638 / 632",
+      "reach (mm)": "475 / 483"
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": "673 / 671",
+      "longueur base (mm)": "439 / 436",
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": "63.5 / 64.3",
+      "angle tube de selle (°)": "75.5 / 76.3",
+      "empattement (mm)": "1301 / 1298",
+      "stack (mm)": "652 / 645",
+      "reach (mm)": "508 / 513"
+    }
+  ]
+}

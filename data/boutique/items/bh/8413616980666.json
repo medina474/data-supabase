@@ -1,0 +1,69 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2708992",
+  "tailles": [
+    "M / 165-177 cm",
+    "L / 175-189 cm"
+  ],
+  "name": "VTT Electrique Tout-suspendu BH AtomE SUV Pro-SE Shimano XT/Deore 12V 720Wh 27,5' Noir",
+  "marque": "BH",
+  "description": "Les modèles Atom se caractérisent par leur «TS system» breveté par BH Bikes, dont la batterie se trouve dans le tube diagonal, permettant ainsi de conserver un cadre traditionnel. Grâce à sa conception optimisée, sa géométrie compacte est caractéristique des cadres BH.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/992/708992/2708992/5461061",
+  "mpn": "ES494NWNLA",
+  "gtin13": "8413616980666",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-177 cm",
+      "stock": 1,
+      "prix": 5499.9,
+      "mpn": "ES494NWNMD",
+      "sku": "2579921",
+      "gtin13": "8413616980673",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2831456-vtt_electrique_tout_suspendu_bh_atome_suv_pro_se_shimano_xt_deore_12v_720wh_27_5__noir"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-189 cm",
+      "stock": 1,
+      "prix": 5499.9,
+      "mpn": "ES494NWNLA",
+      "sku": "2579728",
+      "gtin13": "8413616980666",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2831456-vtt_electrique_tout_suspendu_bh_atome_suv_pro_se_shimano_xt_deore_12v_720wh_27_5__noir"
+    }
+  ],
+  "informations": {
+    "genre": "FemmeHomme",
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore XT 12V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille": "M",
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 575,
+      "douille de direction (mm)": 135,
+      "longueur de base (mm)": 460,
+      "angle de direction (°)": 69,
+      "angle du tube de selle (°)": 73,
+      "empattement (mm)": 650,
+      "stack (mm)": 615,
+      "reach (mm)": 420
+    },
+    {
+      "taille": "L",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 595,
+      "douille de direction (mm)": 150,
+      "longueur de base (mm)": 460,
+      "angle de direction (°)": 69,
+      "angle du tube de selle (°)": 73,
+      "empattement (mm)": 672,
+      "stack (mm)": 629,
+      "reach (mm)": 440
+    }
+  ]
+}

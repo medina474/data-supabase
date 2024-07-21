@@ -1,0 +1,109 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2565416",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 165-177 cm",
+    "L / 175-189 cm"
+  ],
+  "name": "VTT Electrique Tout-Suspendu BH iLynx Race 7.7 Shimano Deore/XT 12V 540 Wh 29'' Argent/Gris",
+  "marque": "BH",
+  "description": "La rapidité toujours au rendez-vous. Sur de courtes distances. Sur de longues distances. Sur les pistes. Sur les sentiers escarpés. En montée. En descente. Tout ce que vous recherchez dans un vélo XC et Marathon tout suspendu.\r\n\r\nÀ la recherche du meilleur équilibre entre agressivité et stabilité, nous avons rallongé la portée de 10-20 mm et l’angle de chasse est désormais compris entre 68 et 67º, avec des bases arrière courtes qui permettent de conserver la souplesse aussi bien en montée qu’en descente. Grâce à l’utilisation du standard « Metric », le Lynx Race affiche un débattement de 100 ou 120 mm en conservant le même niveau d’antisquat, qui garantit l’efficacité du pédalage, et le même niveau de brake-squat, qui assure un freinage optimal.\r\n\r\nUn nouvel axe principal de suspension, surdimensionné et à roulements autocentrés, permet d’augmenter de 30 % la rigidité de torsionnelle.\r\n\r\nÀ l’instar de tous les cadres haut de gamme BH, le Lynx Race Evo est conçu sur les bases de la technologie de moulage carbone HCIM ( Hollow Core Internal Molding) qui permet de réduire au maximum le poids du cadre et de la biellette, tout en faisant appel à une plus grande quantité de fibres à haut module pour obtenir un poids de 2.065 grammes amortisseur compris.\r\n\r\nJusqu’à 130 ou 175 km d’autonomie, à vous de choisir. Batterie de 540Wh. Possibilité d’ajout de la batterie supplémentaire XPro pour une puissance totale de 720 Wh et une autonomie maximale de 175 km\r\n\r\nLa nouvelle version du moteur BH2EXMAG. Gen 2 optimise l’assistance en améliorant de manière significative l’expérience de l’utilisateur grâce à la mise en œuvre d’évolutions électroniques et mécaniques, le tout conjugué à la présence d’un nouveau système Bluetooth. Il conserve un centre de gravité bas pour une stabilité optimale et incorpore des ailettes latérales pour améliorer de manière notable la dissipation de la chaleur.\r\n\r\nNotre système FIT permet de disposer de tous les outils nécessaires pour pouvoir rentrer chez soi en cas de problème. Ce kit comprend des clés H2.5/3/4/5/6, une clé T25, un dérive-chaîne, un adaptateur de cartouches CO2 et une attache rapide de chaîne. Upgrade Kit",
+  "image": "https://product-cdn-frz.alltricks.com/medium/416/565416/2565416/5180270",
+  "mpn": "EC773SSSMD",
+  "gtin13": "8413616969166",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-177 cm",
+      "stock": 9,
+      "prix": 5299.99,
+      "mpn": "EC773SSSMD",
+      "sku": "2559503",
+      "gtin13": "8413616969166",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2681632-vtt_electrique_tout_suspendu_bh_ilynx_race_7_7_shimano_deore_xt_12v_540_wh_29___argent_gris"
+    }
+  ],
+  "informations": {
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 120,
+    "débattement cadre (mm)": 120,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : 120mm Full Susp.Carbon 29\" Internal Cable Routing, Acros ICR",
+      "fourche": "Fox 34 FLOAT Performance 120mm 15QR"
+    },
+    "amortisseur arrière": "Fox FLOAT DPS Performance",
+    "assistance électrique": {
+      "moteur": "BH 2EXMAG",
+      "batterie": "540 Wh",
+      "écran": "BH i-Remote"
+    },
+    "casque d'écoute": "Acros AIF-543 ICR BL.",
+    "dérailleur": "Shimano Deore, 1x12 vitesses",
+    "transmission": {
+      "dérailleur arrière": "Shimano XT, 12 vitesses",
+      "cassette": "Shimano CSM6100 10-51 dents",
+      "chaîne": "Shimano CNM6100",
+      "pédalier": "FSA 34 dents 165mm"
+    },
+    "équipements": {
+      "freins": "Sram DB8 4 pistons 200mm",
+      "selle": "Prologo Proxim W350 Stn",
+      "tige de selle": "Race Face DP Effect 31.6"
+    },
+    "roues": {
+      "jantes": "Race Face Ar 30 TR",
+      "pneu avant": "Ardent",
+      "pneu arrière": "0 MaxxSpeed EXO TR 29X2,2"
+    },
+    "direction": {
+      "cintre": "BH MTB Lite Alloy Riser 780mm",
+      "poignées": "Ergon GE10"
+    },
+    "tige": "BH Evo 31 Fit",
+    "référence": "EC773"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 573,
+      "longueur de la base (mm)": 453,
+      "douille de direction (mm)": 105,
+      "angle de braquage (°)": 68.5,
+      "angle du tube de selle (°)": 75.5,
+      "empattement (mm)": 686,
+      "stack (mm)": 592,
+      "reach (mm)": 420
+    },
+    {
+      "taille du cadre": "M",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 595,
+      "longueur de la base (mm)": 453,
+      "douille de direction (mm)": 110,
+      "angle de braquage (°)": 68.5,
+      "angle du tube de selle (°)": 75.5,
+      "empattement (mm)": 709,
+      "stack (mm)": 599,
+      "reach (mm)": 440
+    },
+    {
+      "taille du cadre": "L",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 615,
+      "longueur de la base (mm)": 453,
+      "douille de direction (mm)": 120,
+      "angle de braquage (°)": 68.5,
+      "angle du tube de selle (°)": 75.5,
+      "empattement (mm)": 730,
+      "stack (mm)": 606,
+      "reach (mm)": 458
+    }
+  ]
+}

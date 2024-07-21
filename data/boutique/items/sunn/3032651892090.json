@@ -1,0 +1,107 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2679344",
+  "tailles": [
+    "L / 178-188 cm"
+  ],
+  "name": "VTT Electrique Tout-Suspendu Sunn Kern EL Finest Shimano XT/SLX 12V 630Wh MX (29/27,5'') Bleu Orange",
+  "marque": "Sunn",
+  "description": "Dévaler la montagne à toute vitesse, prendre un virage serré, réaliser un jump, puis 2, puis 3, faire monter l’adrénaline et pouvoir recommencer jusqu’au coucher de soleil, voici le Sunn Kern EL ! La gamme Enduro Electrique. Basé sur la cinématique Kern EN éprouvé en compétition EWS (podium final 2019), le Kern EL permet d’en faire plus, plus longtemps. Avec ses roues différenciées 27,5’’ et 29’’, découvrez la sensation de liberté et de vitesse sans contraintes !",
+  "image": "https://product-cdn-frz.alltricks.com/medium/344/679344/2679344/5403916",
+  "mpn": "YCSUWW5001",
+  "gtin13": "3032651892090",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-188 cm",
+      "stock": 1,
+      "prix": 6699,
+      "mpn": "YCSUWW5001",
+      "sku": "2175542",
+      "gtin13": "3032651892090",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2804206-vtt_electrique_tout_suspendu_sunn_kern_el_finest_shimano_xt_slx_12v_630wh_mx__29_27_5____bleu_orange"
+    }
+  ],
+  "informations": {
+    "poids": "26,82 kg",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 170,
+    "débattement cadre (mm)": 155,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano SLX XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Kern integrated 630Wh 6069 Edge Tubing Boost, 155 mm",
+      "fourche": "Fox 38 FLoat eMTB+ Factory Fit4 Boost 170 mm",
+      "amortisseur": "Fox DHX2 Performance Elite 210x55"
+    },
+    "assistance électrique": {
+      "moteur": "Shimano EP8, 85 Nm",
+      "batterie": "Shimano BTE8036, 630Wh (amovible)"
+    },
+    "commande/ecran": "nc",
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100 I-spec EV, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XT M8100 SGS, 12-vitesses",
+      "cassette": "Shiamno SLX M7100, 10-51 dts",
+      "pédalier": "Shimano XT M8150 boost 34 dts"
+    },
+    "équipements": {
+      "freins": "Formula Cura 4, 4 pistons, 203/203 mm",
+      "selle": "Brute One",
+      "tige de selle": "Brute Dropper"
+    },
+    "roues": {
+      "jantes": "Mavic E-XM 430 32 trous, Avant 29'' / Arrière 27,5''",
+      "pneu avant": " Maxxis Assegai 29x2.5\" Exo TLR ",
+      "pneu arrière": " Maxxis DHR II 27,5x2.6\" Exo TLR"
+    },
+    "direction": {
+      "cintre": "Brute, 780 mm x 31.8 mm, Rise 15 mm",
+      "potence": "Brute One CNC, 45 mm - 31.8 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 590,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1208,
+      "stack (mm)": 611,
+      "reach (mm)": 427,
+      "débattement tige de selle (mm)": 130
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 610,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1229,
+      "stack (mm)": 620,
+      "reach (mm)": 444,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1250,
+      "stack (mm)": 629,
+      "reach (mm)": 461,
+      "débattement tige de selle (mm)": 170
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2508476",
+  "tailles": [
+    "S / 157-165 cm",
+    "M / 167-175 cm",
+    "L / 172-182 cm",
+    "XL / 185-195 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Cannondale Moterra Neo Carbon LT 2 Shimano SLX/XT 12V 750 Wh 29/27.5'' Noir Mat",
+  "marque": "Cannondale",
+  "description": "Grimper au sommet est chose facile avec le nouveau système de motorisation Bosch Performance Line CX 750, passons maintenant à la descente ! Avec un débattement de 170 mm / 165 mm, un amortisseur piggyback et une construction robuste, vous êtes paré(e) pour un maximum de fun !\r\n\r\nRévolutionnant la maniabilité d’un VTTAE, le Moterra Neo LT 2 définit une catégorie à lui seul. Ce robuste VTTAE au grand débattement est aussi maniable qu’un vélo de trail, agile et rapide dans les montées, stable et rassurant même dans les descentes les plus vicieuses. C’est le genre de vélo qui fait de vous un meilleur rider, où que vous alliez.\r\n\r\nRoue avant en 29\" et 27,5\" à l'arrière vous permettent d'aller plus vite lorsque la pente devient raide.\r\n\r\nPour protéger le moteur et la batterie contre les impacts, le Moterra Neo est équipé d'un capot de batterie scellé et d'une plaque de protection robuste comme les moto trials.\r\n\r\nLe groupe moteur Performance Line CX, le plus puissant de Bosch pour VTTAE, offre une expérience de conduite incroyable. Avec un couple disponible de 85 N.m, il permet d’augmenter votre puissance de pédalage jusqu’à 340 %, de manière totalement intuitive et naturelle. Le summum de la puissance dans le monde du VTTAE.\r\nRoulez plus longtemps. Faites plus de tours. Explorez les sommets lointains. Avec la plus grande capacité de batterie disponible chez Bosch, l’angoisse de l’autonomie restante appartient au passé. Rechargez-la sur le vélo ou retirez-la facilement pour une recharge hors-vélo.\r\n\r\nTous les cyclistes n’ont pas la même taille, mais notre suspension à réponse proportionnelle est la seule conception qui réponde à cette constatation évidente. Chaque taille de cadre bénéficie de sa propre cinématique de suspension, avec points de fixation, biellettes d’amortisseur et rapports de levier spécifiques, pour garantir la meilleure performance de suspension pour chaque taille. Meilleure traction, meilleure efficacité de pédalage et suspension plus active lors du freinage, pour chaque rider, grand ou petit.\r\n\r\nLe cadre sophistiqué en fibre de carbone réduit le poids au minimum. Et, comme nos ingénieurs ont donné la priorité à la durabilité plutôt qu'au nombre de grammes, la confiance est là (tout comme la garantie à vie).\r\n ",
+  "image": "https://product-cdn-frz.alltricks.com/medium/476/508476/2508476/4928201",
+  "mpn": "C25552U10SM",
+  "gtin13": "",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 157-165 cm",
+      "stock": 2,
+      "prix": 4799.99,
+      "mpn": "C25552U10SM",
+      "sku": "2436524",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2574652-vtt_electrique_tout_suspendu_cannondale_moterra_neo_carbon_lt_2_shimano_slx_xt_12v_750_wh_29_27_5___noir_mat"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 172-182 cm",
+      "stock": 2,
+      "prix": 4799.99,
+      "mpn": "C25552U10LG",
+      "sku": "2151397",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2574652-vtt_electrique_tout_suspendu_cannondale_moterra_neo_carbon_lt_2_shimano_slx_xt_12v_750_wh_29_27_5___noir_mat"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-195 cm",
+      "stock": 1,
+      "prix": 4799.99,
+      "mpn": "C25552U10XL",
+      "sku": "2151725",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2574652-vtt_electrique_tout_suspendu_cannondale_moterra_neo_carbon_lt_2_shimano_slx_xt_12v_750_wh_29_27_5___noir_mat"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Matte Black"
+    }
+  ],
+  "informations": {
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 170,
+    "débattement cadre (mm)": 165,
+    "matière du cadre": "Alu / Carbone",
+    "groupe": "Shimano SLX XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone / Aluminium : Moterra Neo Carbon Front Triangle, SmartForm C1 Alloy Swingarm, 165mm travel, Proportional Response Tuned Suspension, removable downtube battery, alloy skid plate, 55mm chainline, internal cable routing, 148x12mm thru-axle, UDH hanger, post mount brake, 1.5” – 1.8” tapered headtube, 18mm two-bolt kickstand mount",
+      "fourche": "RockShox Zeb Select, Charger RC, 170mm, DebonAir, 15x110mm, 44mm offset",
+      "amortisseur": "RockShox Deluxe Select+, Coil, 2-Pos mode adjust, adjustable rebound"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Performance Line CX 250W, 25 km/h",
+      "batterie": "Bosch PowerTube, 750Wh",
+      "écran": "Bosch Kiox 300 w/ LED remote"
+    },
+    "direction": {
+      "jeu de direction": "Acros integrated sealed bearing, tapered",
+      "potence": "Cannondale 2, 6061 Alloy, 35mm, 0°",
+      "cintre": "Cannondale 3 Riser, 6061 Alloy, 25mm rise, 8° sweep, 5° rise, 800mm",
+      "poignées": "Fabric FunGuy"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano SLX, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XT, 12-vitesses",
+      "pédalier": "FSA Bosch E-bike w/ 55mm chainline, 160mm, 34 dents",
+      "chaîne": "Shimano SLX, 12-vitesses",
+      "cassette": "Shimano SLX, 10-51 Dents, 12-vitesses"
+    },
+    "équipements": {
+      "freins": "Magura MT5 4-piston hydraulic disc, Magura MDR-P 220/203mm, 6-bolt rotors",
+      "selle": "Fabric Scoop Shallow Sport, steel rails",
+      "tige de selle": "Cannondale DownLow Dropper, internal routing, 31.6, 125mm (S), 150mm (M), 170mm (L-XL)"
+    },
+    "roues": {
+      "jantes": "WTB ST i30 TCS, 32h, tubeless ready",
+      "moyeu avant": "Formula 15x110mm thru-axle ",
+      "moyeu arrière": " Shimano MT410, 12x148mm thru-axle",
+      "pneu avant": " Maxxis Assegai, 29x2.6\", 3C, EXO+, tubeless ready ",
+      "pneu arrière": " Maxxis DHR II, 27.5x2.6\", 3C, EXO+, tubeless ready"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "taille de roues (pouces)": "29/27.5",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 580,
+      "douille de direction (mm)": 105,
+      "longueur base (mm)": 452,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1217,
+      "stack (mm)": 623,
+      "reach (mm)": 426
+    },
+    {
+      "taille cadre": "M",
+      "taille de roues (pouces)": "29/27.5",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 602,
+      "douille de direction (mm)": 115,
+      "longueur base (mm)": 452,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1242,
+      "stack (mm)": 633,
+      "reach (mm)": 446
+    },
+    {
+      "taille cadre": "L",
+      "taille de roues (pouces)": "29/27.5",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 634,
+      "douille de direction (mm)": 125,
+      "longueur base (mm)": 452,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1276,
+      "stack (mm)": 642,
+      "reach (mm)": 476
+    },
+    {
+      "taille cadre": "XL",
+      "taille de roues (pouces)": "29/27.5",
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 671,
+      "douille de direction (mm)": 135,
+      "longueur base (mm)": 452,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1315,
+      "stack (mm)": 651,
+      "reach (mm)": 511
+    }
+  ]
+}

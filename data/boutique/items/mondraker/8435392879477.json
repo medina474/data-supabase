@@ -1,0 +1,157 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2636923",
+  "tailles": [
+    "S / 163-170 cm",
+    "M / 167-178 cm",
+    "L / 175-188 cm",
+    "XL / 185-200 cm"
+  ],
+  "name": "VTT Tout-Suspendu Mondraker Crusher Sram GX/NX Eagle 12V 720 Wh 29'' Gris/Noir 2024",
+  "marque": "Mondraker",
+  "description": "Le Crusher, le modèle d'entrée de gamme est équipé d'une fourche Fox 38 29 Float FIT GRIP EVOL Performance, d'un pédalier Sram GX Eagle, de freins Sram DB8, d'une tige de selle Onoff Pija dropper (avec un débattement de 125 à 200 mm selon la taille du cadre) et de pneus Maxxis Minion DHF/DHR II 2.6\" EXO+.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/923/636923/2636923/5315591",
+  "mpn": "010.24363",
+  "gtin13": "8435392879477",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 163-170 cm",
+      "stock": 10,
+      "prix": 6299.99,
+      "mpn": "010.24361",
+      "sku": "2564681",
+      "gtin13": "8435392879453",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2758325-vtt_tout_suspendu_mondraker_crusher_sram_gx_nx_eagle_12v_720_wh_29___gris_noir_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 167-178 cm",
+      "stock": 2,
+      "prix": 5499.99,
+      "mpn": "010.24362",
+      "sku": "2565004",
+      "gtin13": "8435392879460",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2758325-vtt_tout_suspendu_mondraker_crusher_sram_gx_nx_eagle_12v_720_wh_29___gris_noir_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-188 cm",
+      "stock": 1,
+      "prix": 5499.99,
+      "mpn": "010.24363",
+      "sku": "2564598",
+      "gtin13": "8435392879477",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2758325-vtt_tout_suspendu_mondraker_crusher_sram_gx_nx_eagle_12v_720_wh_29___gris_noir_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-200 cm",
+      "stock": 10,
+      "prix": 6299.99,
+      "mpn": "010.24364",
+      "sku": "2564534",
+      "gtin13": "8435392879484",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2758325-vtt_tout_suspendu_mondraker_crusher_sram_gx_nx_eagle_12v_720_wh_29___gris_noir_2024"
+    }
+  ],
+  "informations": {
+    "poids": "24.6 kg",
+    "genre": "HommeFemme",
+    "débattement fourche (mm)": 160,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Alu / Carbone",
+    "groupe": "Sram GX/NX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium / Carbone : Triangle avant Crusher Stealth Air Carbon, triangle arrière Atealth Alloy, Zero Suspension System optimisé pour e-Bike, chasse de 150 mm, Forward Geometry, batterie intégrée interne non-amovible, essieu arrière Boost 12x148 mm, douille de direction conique, biellette supérieure monobloc monopièce, acheminement interne de câbles HHG, roulements étanches capacité max., essieu surdimensionnés 17 mm, capteur de vitesse intégré à la patte arrière du cadre, protections du moteur exclusives en plastique",
+      "fourche": "Fox 38 29 Float FIT GRIP EVOL Performance, 160 mm, pivot de fourche conique adapté e-bike, essieu Boost 15x110 mm, déport 44 mm. Réglages : 3 positions avec compression micro-ajustable, rebond faible vitesse, précontrainte pneumatique",
+      "amortisseur": "Fox Float-X LV Performance, 205x65mm. Réglages : manette compression 2 positions, rebond basse vitesse, précontrainte pneumatique. Trunnion montage haut, bagues inférieures 25x10 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Shimano STEPS EP801",
+      "batterie": "Simplo interne 720 Wh G3",
+      "écran": "Shimano EN600"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Trigger NX Eagle, 12s, X-Actuation 1:1, un clic",
+      "dérailleur arrière": "Sram GX Eagle, Roller bearing clutch Type 3, blocage de cage, 1x12s, X-Actuation 1:1",
+      "cassette": "Sram PG-1210, 11-50 dents, 12 vitesses",
+      "chaîne": "Sram SX Eagle, 12 vitesses, Powerlock",
+      "pédalier": "Shimano Steps FC-EM600 ebike, 165 mm, plateau Sram X-Sync 2 Eagle 34 dents, Alloy, largeur étroite, 104 BCD"
+    },
+    "équipements": {
+      "freins": "Sram DB8, étrier 4 pistons, disque monopièce 6 trous Centerline 200/200 mm IS, plaquettes organiques",
+      "selle": "Fizik Terra Aidon X5 145 mm",
+      "tige de selle": "Onoff Pija dropper interne, diamètre 31,6 mm, 1x manette à distance avec roulement, taille S : 405x95-125 mm, taille M : 458x120-150 mm, taille L : 498x140-170 mm, taille XL : 558x170-200 mm"
+    },
+    "roues": {
+      "jantes": "Mavic E-Deemax 29, 30 mm de largeur interne, soudée, PFP, compatible tubeless, 28 rayons",
+      "moyeu avant": "Mavic, Boost 15x110 mm, IS 6 trous ",
+      "moyeu arrière": "Mavic, Boost 12x148 mm, système à rochets ID360, IS 6 trous, moyeu libre HG",
+      "pneu avant": " Maxxis Minion DHF 29x2,6, compatible tubeless, gomme 3C MAXX TERRA, protection EXO+, 120 TPI, tringle souple ",
+      "pneu arrière": " Maxxis Minion DHR II 29x2,6, compatible tubeless, gomme 3C MAXX TERRA, protection EXO+, 120 TPI, tringle souple"
+    },
+    "direction": {
+      "cintre": "Onoff Sulfur 1.0 double renfort alliage 6061, galbe : 20 mm, largeur : 800 mm, cintrage 9º, rehausse 5º, alésage 31,8 mm",
+      "poignées": "Onoff Desert, 1 lock-on, 135 mm",
+      "potence": "Onoff Sulfur FG 30mm 0º, alliage forgé 6061, alésage 31,8 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 605,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1227,
+      "stack (mm)": 622,
+      "reach (mm)": 450
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 625,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1247,
+      "stack (mm)": 622,
+      "reach (mm)": 470
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 650,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1267,
+      "stack (mm)": 640,
+      "reach (mm)": 490
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 670,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1287,
+      "stack (mm)": 640,
+      "reach (mm)": 510
+    }
+  ]
+}

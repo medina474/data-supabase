@@ -1,0 +1,135 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2534848",
+  "tailles": [
+    "M / 165-175 cm",
+    "L / 175-185 cm",
+    "XL / 185-195 cm"
+  ],
+  "name": "VTT Electrique Tout-Suspendu Husqvarna Mountain Cross MC3 Shimano Deore 12V 630 Wh 29/27.5'' Blanc 2023",
+  "marque": "Husqvarna",
+  "description": "L’ambition ne devrait pas connaître de limites.\r\nAvec un nouveau cadre en aluminium nettement plus léger que le précédent, allié à un moteur vraiment puissant, le nouveau MC3 vous offre le mélange idéal de contrôle, couple et confort, à chaque sortie.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/848/534848/2534848/5115800",
+  "mpn": "4000004746",
+  "gtin13": "9010654009244",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 1,
+      "prix": 3999.99,
+      "mpn": "4000004744",
+      "sku": "2180018",
+      "gtin13": "9010654009237",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2611927-vtt_electrique_tout_suspendu_husqvarna_mountain_cross_mc3_shimano_deore_12v_630_wh_29_27_5___blanc_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 1,
+      "prix": 3999.99,
+      "mpn": "4000004746",
+      "sku": "2179943",
+      "gtin13": "9010654009244",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2611927-vtt_electrique_tout_suspendu_husqvarna_mountain_cross_mc3_shimano_deore_12v_630_wh_29_27_5___blanc_2023"
+    }
+  ],
+  "informations": {
+    "poids": "24.3 kg",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore M6100 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : 29/27.5\", alliage 6061, Batterie intégrée, Boost, 150 mm",
+      "fourche": "RockShox Yari RC, DebonAir, Air, 150 mm, tapered"
+    },
+    "amortisseur arrière": "RockShox Deluxe Select+, Air, 230x62.5 mm",
+    "assistance électrique": {
+      "moteur": "Shimano EP8, DU-EP800, 250 W, 85 Nm",
+      "batterie": "Core S1, 630 Wh, 36 V, 17.5 Ah",
+      "écran": "Shimano SC-EM800, LCD-Display, ANT, Bluetooth"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore, SL-M6100, Rapidfire Plus",
+      "dérailleur arrière": "Shimano Deore XT, RD-M8100, Shadow Plus, 12-vitesses",
+      "cassette": "Shimano CS-M6100, 10-51 dents",
+      "chaîne": "KMC e12S",
+      "pédalier": "Shimano FC-EM600, Aluminium forgé, Shimano EP24, plateau Husqvarna, Narrow Wide, 34 T"
+    },
+    "équipements": {
+      "freins": "Shimano BR-MT420, 4 pistons, Frein à disque hydraulique, disques Shimano, 203/203 mm, Center Lock",
+      "selle": "Husqvarna MTB",
+      "tige de selle": "Husqvarna Pro, 31.6 mm, Tige de selle télescopique (Dropper Post)"
+    },
+    "roues": {
+      "jantes": "DT Swiss H 1900 SPLINE, Tubeless ready, Center Lock, 15x110/12x148 mm, Axe traversant",
+      "pneu avant": " Schwalbe Nobby Nic, Evolution, 62-622, 29x2.4, Tubeless Ready ",
+      "pneu arrière": " Schwalbe Nobby Nic, Evolution, 65-584, 27.5x2.6, Tubeless Ready"
+    },
+    "direction": {
+      "cintre": "Husqvarna Riser 35 mm, 780 mm, Sweep: 8 °, Rise: 20 mm",
+      "potence": "Husqvarna 35, 0 °, Ahead",
+      "jeu de direction": "Acros ICR, blocklock, ZS56/ZS56"
+    },
+    "grips": "Husqvarna MTB, Poignées à vis"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "dimension roues (pouces)": 27.5,
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 567,
+      "bases de chaîne (mm)": 445,
+      "longueur du tube de direction (mm)": 130,
+      "angle du tube de direction (°)": 65.5,
+      "angle du tube de selle (°)": 77.1,
+      "empattement (mm)": 1184,
+      "stack (mm)": 619,
+      "reach (mm)": 425
+    },
+    {
+      "taille du cadre": "M",
+      "dimension roues (pouces)": "29/27.5",
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 596,
+      "bases de chaîne (mm)": 445,
+      "longueur du tube de direction (mm)": 115,
+      "angle du tube de direction (°)": 65.5,
+      "angle du tube de selle (°)": 77,
+      "empattement (mm)": 1216,
+      "stack (mm)": 633,
+      "reach (mm)": 450
+    },
+    {
+      "taille du cadre": "L",
+      "dimension roues (pouces)": "29/27.5",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 626,
+      "bases de chaîne (mm)": 445,
+      "longueur du tube de direction (mm)": 130,
+      "angle du tube de direction (°)": 65.5,
+      "angle du tube de selle (°)": 76.9,
+      "empattement (mm)": 1247,
+      "stack (mm)": 646,
+      "reach (mm)": 475
+    },
+    {
+      "taille du cadre": "XL",
+      "dimension roues (pouces)": "29/27.5",
+      "tube de selle (mm)": 485,
+      "tube supérieur (mm)": 655,
+      "bases de chaîne (mm)": 445,
+      "longueur du tube de direction (mm)": 145,
+      "angle du tube de direction (°)": 65.5,
+      "angle du tube de selle (°)": 76.8,
+      "empattement (mm)": 1279,
+      "stack (mm)": 660,
+      "reach (mm)": 500
+    }
+  ]
+}

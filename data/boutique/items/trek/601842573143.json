@@ -1,0 +1,124 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2233700",
+  "tailles": [
+    "S / 153-166.5 cm",
+    "M / 161-175 cm",
+    "L / 174-188 cm",
+    "XL / 186-196 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Trek Rail 5 Shimano Deore 12V 625 Wh 29'' Rouge Crimson / Gris Lithium 2023",
+  "marque": "Trek",
+  "description": "Le Rail 5 625 est un VTT à assistance électrique mis au point pour se mesurer aux trails qui se respectent. Le Rail n’aura pas à rougir sur les trails face à ses homologues non électriques et vous donnera un coup de pouce pour retourner au sommet de la montagne, sans l’aide d’une navette ou d’une remontée mécanique.\r\n\r\nLe dispositif de commande Purion propose une fonction d’assistance à la marche et un mode eMTB intelligent qui offre automatiquement le niveau d’assistance adéquat en fonction du terrain.\r\n\r\nLe système de batterie intégrée amovible de Trek affiche un look remarquable et est on ne peut plus convivial : il dissimule complètement la batterie dans le cadre afin de la protéger, il permet de déposer aisément la batterie sans outillage et laisse de l’espace pour la fixation d’un porte-bidon. ",
+  "image": "https://product-cdn-frz.alltricks.com/medium/700/233700/2233700/4115718",
+  "mpn": "5258938",
+  "gtin13": "601842573143",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 161-175 cm",
+      "stock": 1,
+      "prix": 3799.99,
+      "mpn": "5258938",
+      "sku": "2105362",
+      "gtin13": "601842573143",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2147035-vtt_electrique_tout_suspendu_trek_rail_5_shimano_deore_12v_625_wh_29___rouge_crimson___gris_lithium_2023"
+    }
+  ],
+  "informations": {
+    "poids": "23.88 kg",
+    "genre": "Homme",
+    "débattement fourche (mm)": 160,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Alpha Platinum Aluminum, batterie intégrée amovible, 150 mm de débattement",
+      "fourche": "RockShox 35 Gold RL, ressort DebonAir, amortisseur Motion Control, blocage, pivot conique, déport de 44 mm, tête de fourche surdimensionnée pour VTTAE, Boost110, Maxle Stealth 15 mm, débattement de 160 mm",
+      "amortisseur": "Fourche RockShox Deluxe Select+"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Performance Line CX",
+      "batterie": "Bosch PowerTube 625 Wh"
+    },
+    "écran ": "Bosch Purion",
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, 1x12 vitesses",
+      "dérailleur arrière": "Shimano Deore M6100, chape longue, 12 vitesses",
+      "cassette": "Shimano Deore M6100, 10-51 Dents",
+      "chaîne": "Shimano Deore M6100",
+      "pédalier": "E*thirteen E*spec Plus, 34 dts, 165 mm de long"
+    },
+    "équipements": {
+      "freins": "Shimano, 4 pistons, disque hydrauliques, levier MT4100, étrier MT420, 203/203 mm",
+      "selle": "Bontrager Arvada, rails en acier, largeur de 138 mm",
+      "tige de selle": "Size: S TranzX JD-YSP18, débattement de 100 mm, acheminement interne, 31,6 mm, longueur de 361 mm Size: S Tige de selle télescopique Bontrager Line, 100 mm de débattement, acheminement interne, 31,6 mm, longueur de 345 mm Size: M, L, XL TranzX JD-YSP18, débattement de 130 mm, acheminement interne, 31,6 mm, longueur de 425 mm Size: M, L, XL Tige de selle télescopique Bontrager Line, 125 mm de débattement, acheminement interne, 31,6 mm, longueur de 395 mm"
+    },
+    "roues": {
+      "jantes": "Alex MD35, compatible tubeless, 32 trous, largeur 35 mm, valve presta",
+      "pneus": "Bontrager XR4 Comp, tringle rigide, 30 tpi, 29x2,6 pouces"
+    },
+    "direction": {
+      "cintre": "Alliage Bontrager, 31,8 mm, élévation 15 mm, largeur de 750 mm",
+      "poignées": "Bontrager XR Trail Comp, nylon lock-on",
+      "potence": "Bontrager Rhythm Comp, 31,8 mm, Knock Block, 0 degré, longueur de 50 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 587,
+      "longueur base (mm)": 447,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 64.9,
+      "angle tube de selle (°)": 68,
+      "empattement (mm)": 1195,
+      "stack (mm)": 623,
+      "reach (mm)": 425
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 611,
+      "longueur base (mm)": 447,
+      "douille de direction (mm)": 1005,
+      "angle de direction (°)": 64.9,
+      "angle tube de selle (°)": 68,
+      "empattement (mm)": 1220,
+      "stack (mm)": 622,
+      "reach (mm)": 450
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 633,
+      "longueur base (mm)": 447,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 64.9,
+      "angle tube de selle (°)": 68,
+      "empattement (mm)": 1243,
+      "stack (mm)": 627,
+      "reach (mm)": 470
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 665,
+      "longueur base (mm)": 447,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64.9,
+      "angle tube de selle (°)": 68,
+      "empattement (mm)": 1277,
+      "stack (mm)": 636,
+      "reach (mm)": 499
+    }
+  ]
+}

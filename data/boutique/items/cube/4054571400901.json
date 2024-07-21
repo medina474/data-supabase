@@ -1,0 +1,136 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2515900",
+  "tailles": [
+    "16 Pouces / 161-170 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Cube Stereo Hybrid 140 HPC Pro 750 Shimano Deore 11V 750 Wh 27.5'' Blanc Frost",
+  "marque": "Cube",
+  "description": "L’évolution ne s’arrête jamais. C’est pourquoi, pour tous les cadres bénéficiant du système SizeSplit, le Cube Stereo Hybrid 140 HPC offre désormais la possibilité de loger une batterie de 750 Wh protégée par un couvercle étanche. Ceci signifie que vous pouvez exploiter à son plein potentiel sa motorisation Bosch Performance CX quatrième génération (avec un couple de 85 Nm permettant d’avaler n’importe quelle montée) lors de vos sorties longues, quel que soit le cadre qui vous convient le mieux. Son axe arrière Boost 148, ses larges roulements de pivots et son All Mountain Geometry offrent un pilotage précis, même lorsque vous explorez les limites de ses débattements de 140 mm à l’arrière et 150 mm à l’avant. Sa patte de dérailleur Sram UDH offre une protection contre les chocs en cas d’accidents et se remplace très facilement. Enfin, son passage interne de câbles permet de réduire l’entretien et contribue à l’élégance de son cadre principal tout en carbone.\r\n\r\nLes collines vous appellent, et cela signifie qu’il vous faut un vélo approprié. L’unité motrice Bosch Performance CX quatrième génération et la batterie haute capacité du Cube Stereo Hybrid 140 HPC Pro ne vous laisseront pas tomber. Associez-leur la fiabilité et la profondeur de la transmission Shimano Deore 1x11 vitesses, et vous obtenez la garantie d’ascensions en toute facilité. Enfin, pour les descentes retour, vous disposez d’une fourche suspendue RockShox Recon Silver avec débattement de 150 mm à l’avant et d’un amortisseur RockShox Deluxe Select avec 140 mm à l’arrière. Ses pneus Schwalbe Nobby Nic de 2.6 pouces très adhérents vous permettent de rester scotché au sol, tandis que ses puissants freins à disque hydrauliques Magura MT Thirty et leurs disques de 203 mm vous garantissent un contrôle total de tous les instants. Il est prêt à relever le défi. Et vous ?",
+  "image": "https://product-cdn-frz.alltricks.com/medium/900/515900/2515900/4949789",
+  "mpn": "63601316",
+  "gtin13": "4054571400901",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "16 Pouces / 161-170 cm",
+      "stock": 1,
+      "prix": 3999.99,
+      "mpn": "63601316",
+      "sku": "2394483",
+      "gtin13": "4054571400901",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2586237-vtt_electrique_tout_suspendu_cube_stereo_hybrid_140_hpc_pro_750_shimano_deore_11v_750_wh_27_5___blanc_frost"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "frostwhite´n´grey"
+    }
+  ],
+  "informations": {
+    "poids": "24.5 kg",
+    "poids maximum": "135 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Alu / Carbone",
+    "groupe": "Shimano Deore 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone/Aluminium : C:62 Monocoque Advanced Twin Mold Technology, Aluminium 6061 T6 Rear Triangle, Efficient Trail Control, FSP 4-Link, Agile Trail Geometry, Boost 148, UDH, Fully Integrated Battery, Advanced Internal Cable Routing, Width tires maximum: 67 mm",
+      "fourche": "RockShox Recon Silver RL Air, Tapered, Boost 15x110 mm, eMTB Approved, Lockout, 150 mm travel",
+      "amortisseur": "RockShox Deluxe Select, 185x55 mm, Rebound Adjust, Trunnion Mount / Entretoises d’amortisseur : 54 mm Trunnion Mount (Haut), 22.2x8 mm (Bas)"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Drive Unit Performance CX Generation 4 (85 Nm) Cruise (250 Watt), Smart System, 25 km/h",
+      "batterie": "Bosch PowerTube 750 Wh",
+      "commande": "Bosch LED Remote"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore SL-M5100, Rapidfire-Plus, 1x11-vitesses",
+      "dérailleur arrière": "Shimano Deore RD-M5100-SGS, 11-vitesses",
+      "cassette": "Shimano Deore CS-M5100, 11-51 Dents",
+      "chaîne": "KMC X11",
+      "pédalier": "Acid E-Crank, 165 mm, 36 Dents"
+    },
+    "guide-chaîne": "Reverse Flip-Guide E-Chain Guide, Direct Mount, Gen4",
+    "équipements": {
+      "freins": "Magura MT Thirty, Hydr. Disc Brake, (203/203)",
+      "selle": "Natural Fit Venec",
+      "tige de selle": "Cube Dropper Post, Handlebar Lever, Internal Cable Routing, 31.6 mm (S: 100 mm, M: 120 mm, L, XL: 130 mm)"
+    },
+    "roues": {
+      "jantes": "Rodi Tryp 30, 32H, Disc, Tubeless Ready",
+      "moyeu avant": "Shimano HB-MT400-B, 15 mm, Boost, Centerlock ",
+      "moyeu arrière": "Shimano FH-MT400-B, 12 mm, Boost, Centerlock",
+      "pneus": "Schwalbe Nobby Nic, PerfL, 27.5 x 2.6\""
+    },
+    "direction": {
+      "cintre": "Newmen Evolution SL 318.25, 760 mm",
+      "poignées": "Acid React Pro",
+      "potence": "Cube Performance Stem E-MTB, 31.8 mm",
+      "jeu de direction": "Acros AZF-1035, ICR (Integrated Cable Routing), BlockLock 120°, Top Zero-Stack 1 1/2\" (ZS 56 mm), Bottom Zero-Stack 1 1/2\" (ZS 56 mm)"
+    },
+    "référence": 636013
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de cadre (pouces)": 16,
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 370,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1187,
+      "stack (mm)": 607,
+      "reach (mm)": 426
+    },
+    {
+      "taille de cadre": "M",
+      "taille de cadre (pouces)": 18,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 457,
+      "douille de direction (mm)": 108,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 75.5,
+      "empattement (mm)": 1221,
+      "stack (mm)": 626,
+      "reach (mm)": 447
+    },
+    {
+      "taille de cadre": "L",
+      "taille de cadre (pouces)": 20,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 457,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 75.5,
+      "empattement (mm)": 1252,
+      "stack (mm)": 637,
+      "reach (mm)": 473
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de cadre (pouces)": 22,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 660,
+      "longueur base (mm)": 457,
+      "douille de direction (mm)": 138,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 75.5,
+      "empattement (mm)": 1283,
+      "stack (mm)": 653,
+      "reach (mm)": 497
+    }
+  ]
+}

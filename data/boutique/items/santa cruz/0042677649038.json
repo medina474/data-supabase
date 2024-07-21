@@ -1,0 +1,118 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2683645",
+  "tailles": [
+    "L / 175-185 cm"
+  ],
+  "name": "VTT Electrique Tout-Suspendu Santa Cruz Heckler SL 1 R Carbone C Sram NX Eagle 12V 430Wh MX (29/27.5'') Violet 2024",
+  "marque": "Santa Cruz",
+  "description": "Un VTT électrique dissimulé. Léger, puissant, à l'autonomie surprenante. Toutes les caractéristiques d'un Santa Cruz sur le terrain, combinées à l'unité motrice Fazua Ride 60. 150mm de débattement d'une suspension VPP™ légendaire, des roues MX et une géométrie moderne donnent au Heckler SL les habiletés d'un vélo de trail, dont le comportement naturel est simplement boosté par la puissance de l'assistance électrique.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/645/683645/2683645/5423630",
+  "mpn": "0042677649038",
+  "gtin13": "0042677649038",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 1,
+      "prix": 7299.99,
+      "mpn": "0042677649038",
+      "sku": "2676091",
+      "gtin13": "0042677649038",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2810597-vtt_electrique_tout_suspendu_santa_cruz_heckler_sl_1_r_carbone_c_sram_nx_eagle_12v_430wh_mx__29_27_5____violet_2024"
+    }
+  ],
+  "informations": {
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 160,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram NX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Carbon C MX, Batterie intégrée, Boost, 150 mm",
+      "fourche": "RockShox Lyrik Base, 160mm",
+      "amortisseur": "FOX Float Performance, 210x55"
+    },
+    "assistance électrique": {
+      "moteur": "Fazua Ride60, 250 W, 60 Nm",
+      "batterie": "Fazua 430Wh (non amovible)",
+      "écran": "Fazua"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram NX, 1x12-vitesses",
+      "dérailleur arrière": "Sram NX Eagle, 12-vitesses",
+      "cassette": "Sram PG1230, 11-50 dts",
+      "chaîne": "Sram NX Eagle",
+      "pédalier": "Praxis eTor AL, 104BCD, 165mm"
+    },
+    "équipements": {
+      "freins": "Freins à disques hydrauliques Sram DB8, 4 pistons, disques Sram Centerline, 200/200 mm, 6 trous",
+      "selle": "WTB Silverado Medium, CroMo",
+      "tige de selle": "SDG Tellis Dropper, 31.6"
+    },
+    "roues": {
+      "jantes": "Avant : WTB ST i30 TCS 2.0 29\", 32 trous / Arrière : WTB ST i30 TCS 2.0 27.5\", 32 trous, roue libre HG",
+      "pneu avant": " Maxxis Minion DHF 29\"x2.5\"WT, 3C MaxxGrip, EXO ",
+      "pneu arrière": " Maxxis Minion DHR II 27.5x2.4\", 3C MaxxTerra, EXO+"
+    },
+    "direction": {
+      "cintre": "E*thirteen TRS Base",
+      "poignées": "Santa Cruz Bicycles House Grips",
+      "potence": "E*thirteen Base",
+      "jeu de direction": "FSA IS-2/47/42 ACB OU Cane Creek 10 IS Integrated"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 569,
+      "douille de direction (mm)": 100,
+      "longueur base (mm)": 443,
+      "angle de direction (°)": 64.3,
+      "angle tube de selle (°)": 76.8,
+      "empattement (mm)": 1241,
+      "stack (mm)": 615,
+      "reach (mm)": 435
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 405,
+      "tube supérieur (mm)": 603,
+      "douille de direction (mm)": 110,
+      "longueur base (mm)": 443,
+      "angle de direction (°)": 64.3,
+      "angle tube de selle (°)": 77.1,
+      "empattement (mm)": 1267,
+      "stack (mm)": 624,
+      "reach (mm)": 460
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 621,
+      "douille de direction (mm)": 120,
+      "longueur base (mm)": 443,
+      "angle de direction (°)": 64.3,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1296,
+      "stack (mm)": 633,
+      "reach (mm)": 480
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 642,
+      "douille de direction (mm)": 140,
+      "longueur base (mm)": 443,
+      "angle de direction (°)": 64.3,
+      "angle tube de selle (°)": 77.7,
+      "empattement (mm)": 1329,
+      "stack (mm)": 651,
+      "reach (mm)": 500
+    }
+  ]
+}

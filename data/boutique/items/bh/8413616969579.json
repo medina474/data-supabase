@@ -1,0 +1,118 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2572918",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 165-177 cm",
+    "L / 175-189 cm",
+    "XL / 185-202 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu BH iLynx Trail Carbon 8.7 Shimano Deore/XT 12V 540 Wh 29'' Orange/Beige",
+  "marque": "BH",
+  "description": "L’agilité, une géométrie équilibrée, une rigidité à revendre… S’ajoutent à cela une accélération à couper le souffle et une poussée supplémentaire à chaque coup de pédale.\r\nVoilà comment on dispose du VTT le plus sympa, tous les jours de la semaine et à n’importe quelle heure.\r\nDans ces conditions, tous les jours peuvent devenir épiques.\r\n\r\nLe cadre iLynx Trail possède une rigidité maximale grâce au surdimensionnement de l’axe principal de la suspension, ce qui permet d’optimiser la rigidité du triangle avant et du triangle arrière. La géométrie très proche de celle de la gamme BH Lynx Trail classique, avec une base arrière de seulement 451mm, permet un pilotage dynamique et simplifie considérablement la maniabilité dans les descentes.\r\n\r\nLe nouveau Super Boost augmente la solidité et la résistance de la roue arrière, grâce à une meilleure tension des rayons des deux côtés de la roue (« le parapluie »), à des bases arrière courtes qui améliorent notablement la maniabilité dans les descentes et à un large passage de roue pour des pneus plus larges jusqu’à 2,4”.\r\n\r\nOptimisez l'assistance en améliorant l'expérience utilisateur. Nouveau capteur de puissance télémétrique, pour une assistance progressive à 300 %, très silencieuse.\r\n\r\nLe iLynx Trail offre un débattement de 150 mm. Grâce à l’antisquat, qui garantit l’efficacité de pédalage, et au brake-squat, qui assure un freinage optimal, le système de suspension Split Pivot permet d’aborder n’importe quel terrain dans n’importe quelle condition.\r\n ",
+  "image": "https://product-cdn-frz.alltricks.com/medium/918/572918/2572918/5187765",
+  "mpn": "EC873OCCLA",
+  "gtin13": "8413616969579",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-189 cm",
+      "stock": 2,
+      "prix": 5699.99,
+      "mpn": "EC873OCCLA",
+      "sku": "2559734",
+      "gtin13": "8413616969579",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2683965-vtt_electrique_tout_suspendu_bh_ilynx_trail_carbon_8_7_shimano_deore_xt_12v_540_wh_29___orange_beige"
+    }
+  ],
+  "informations": {
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : 150 mm FS Carbon 29\", BC Layup, internal cable routing",
+      "fourche": "Fox 36 Float Performance 150mm 15QR",
+      "amortisseur": "Fox Float X Performance"
+    },
+    "assistance électrique": {
+      "moteur": "BH 2EXMAG-II",
+      "batterie": "540 Wh",
+      "écran": "BH I-Remote"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore, 1x12 vitesses",
+      "dérailleur arrière": "Shimano XT, 12 vitesses",
+      "cassette": "Shimano CSM6100 10-51 Dents",
+      "chaîne": "Shimano CNM6100",
+      "pédalier": "Praxis 34 Dents 165mm"
+    },
+    "équipements": {
+      "freins": "Shimano MT52,0 4 Piston, 203/203mm",
+      "selle": "Prologo Proxim W350 Stn",
+      "tige de selle": "Race Face DP Aeffect 31.6"
+    },
+    "roues": {
+      "jantes": "Race Face Arc 30 TR",
+      "pneu avant": "Minion TPI120 Terra EXO TR 29\"X2,5",
+      "pneu arrière": ""
+    },
+    "direction": {
+      "cintre": "Race Face Aeffect Riser 35 780mm",
+      "potence": "BH Evo 35 Fit",
+      "jeu de direction": "Acros AIF-560 ICR BL"
+    },
+    "grips": "Ergon GE10",
+    "référence ": "EC873"
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 582,
+      "longueur base (mm)": 451,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 75.5,
+      "stack (mm)": 609,
+      "reach (mm)": 427
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 599,
+      "longueur base (mm)": 451,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 75.5,
+      "stack (mm)": 615,
+      "reach (mm)": 453
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 624,
+      "longueur base (mm)": 451,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 75.5,
+      "stack (mm)": 624,
+      "reach (mm)": 473
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 643,
+      "longueur base (mm)": 451,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 75.5,
+      "stack (mm)": 638,
+      "reach (mm)": 488
+    }
+  ]
+}

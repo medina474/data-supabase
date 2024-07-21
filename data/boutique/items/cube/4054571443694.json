@@ -1,0 +1,132 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2680965",
+  "tailles": [
+    "S / 161-170 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Cube Stereo Hybrid 120 One 750 Shimano Cues 10V 750 Wh 27.5'' Vert Olive 2024",
+  "marque": "Cube",
+  "description": "L’élégant cadre du Cube Stereo Hybrid 120 présente de nombreux détails permettant d’optimiser ce célèbre explorateur tout-terrain et son unité motrice Bosch. Le Modular Battery System permet de dissimuler la batterie Bosch (d’une puissance pouvant atteindre 750 Wh), mais également de l’abriter de l’eau et de la poussière. Le passage des câbles intégré n’est pas simplement élégant, il permet également un tube de direction sans trou. Son système de suspension en parallélogramme des plus raffinés vous permet d’absorber les irrégularités du sol pour un confort longue durée. L’ensemble bénéficie de la technologie Comfort Geometry (avec un axe arrière Boost 148 pour une rigidité accrue et un tube de direction de 1,5 pouces) pour un pilotage plus facile, tandis que le système SizeSplit permet à chacun de trouver facilement le modèle de Stereo Hybrid qui lui correspond parfaitement. Les ingénieurs de chez Cube ont également facilité l’équipement d’accessoires tels que des garde-boues, un porte-bagages et une béquille. Il est paré pour presque toute éventualité. Et vous ?\r\n\r\nAvec sa batterie d’une capacité de 750 Wh et sa puissante unité motrice Bosch Performance CX avec l'écran Purion 200, le Cube Stereo Hybrid 120 One 750 offre toute l’assistance au pédalage dont vous avez besoin pour sortir des sentiers battus et vous lancer dans de nouvelles explorations. Sa transmission Shimano Cues U6000 1x10 vitesses met à portée de doigts le bon braquet, quelle que soit la situation, tandis que son système LinkGlide garantit votre sérénité. Sa fourche suspendue Suntour XCR34 Air et son amortisseur Edge R se chargent de maintenir les pneus en contact avec le sol et d’assurer confort et contrôle, tandis que ses puissants freins à disque hydrauliques à quatre pistons Magura MT Thirty vous offrent la garantie de toujours pouvoir ralentir et vous arrêter en toute sécurité, quelles que soient les conditions. Ajoutez à cela la technologie Comfort Geometry et un pilotage offrant stabilité et précision, et vous aurez deviné qu’il est taillé pour l’aventure.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/965/680965/2680965/5407962",
+  "mpn": "735130S",
+  "gtin13": "4054571443694",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 161-170 cm",
+      "stock": 1,
+      "prix": 3999,
+      "mpn": "735130S",
+      "sku": "2654308",
+      "gtin13": "4054571443694",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2805579-vtt_electrique_tout_suspendu_cube_stereo_hybrid_120_one_750_shimano_cues_10v_750_wh_27_5___vert_olive_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "olive´n´green"
+    }
+  ],
+  "informations": {
+    "poids": "25.8 kg",
+    "poids maximum": "135 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "HommeFemme",
+    "débattement fourche (mm)": 130,
+    "débattement cadre (mm)": 120,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Cues 10V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Aluminum Superlite, Gravity Casting Technology, Efficient Comfort Control, FSP 4-Link, Agile Comfort Geometry, Boost 148, Full Integrated Battery, Advanced Internal Cable Routing, Kickstand/Fender/Carrier Mounting Points, Width tires maximum: 67 mm",
+      "fourche": "SR Suntour XCR34 Air, Tapered, Boost 15x110 mm, 130 mm travel",
+      "amortisseur": "SR Suntour Edge R, 165x45 mm, Trunnion Mount / Entretoises : 54 mm Trunnion Mount (Haut), 30x8 mm (Bas)"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Drive Unit Performance CX Generation 4 (85 Nm) Cruise (250 Watt), Smart System, 25 km/h",
+      "batterie": "Bosch PowerTube 750 Wh",
+      "commande": "Bosch Purion 200 w/ Integrated Display"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Cues SL-U6000, Rapidfire-Plus, 1x10-vitesses",
+      "dérailleur arrière": "Shimano Cues RD-U6000-GS, 10-vitesses",
+      "cassette": "Shimano Cues CS-LG400, 11-48 Dents",
+      "chaîne": "Shimano CN-LG500",
+      "pédalier": "Acid MTB Hybrid, 38 Dents"
+    },
+    "équipements": {
+      "freins": "Magura MT Thirty, Hydr. Disc Brake, (203/203)",
+      "pédales": "Acid PP MTB",
+      "selle": "Natural Fit Sequence",
+      "tige de selle": "Cube Performance Post, 30.9 mm"
+    },
+    "roues": {
+      "jantes": "Cube EX30, 32H, Disc, Tubeless Ready",
+      "moyeu avant": "Cube Engineered By Newmen, 15 mm, Boost, Centerlock ",
+      "moyeu arrière": "Cube Engineered By Newmen, 12 mm, Boost, Centerlock",
+      "pneus": "Schwalbe Smart Sam, Active, 27.5x2.6\""
+    },
+    "direction": {
+      "cintre": "Cube Rise Trail Bar, 760 mm",
+      "poignées": "Acid Hybrid Perform",
+      "potence": "Cube Performance Stem E-MTB, 31.8 mm",
+      "jeu de direction": "Acros AZF-1035, ICR (Integrated Cable Routing), BlockLock 120°, Top Zero-Stack 1 1/2\" (ZS 56 mm), Bottom Zero-Stack 1 1/2\" (ZS 56 mm)"
+    },
+    "référence": 735130
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 370,
+      "tube supérieur (mm)": 578,
+      "longueur base (mm)": 466,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 66.7,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1199,
+      "stack (mm)": 610,
+      "reach (mm)": 434
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 610,
+      "longueur base (mm)": 480,
+      "douille de direction (mm)": 135,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1244,
+      "stack (mm)": 647,
+      "reach (mm)": 454
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 465,
+      "tube supérieur (mm)": 635,
+      "longueur base (mm)": 480,
+      "douille de direction (mm)": 145,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1270,
+      "stack (mm)": 656,
+      "reach (mm)": 476
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 515,
+      "tube supérieur (mm)": 660,
+      "longueur base (mm)": 480,
+      "douille de direction (mm)": 160,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1297,
+      "stack (mm)": 670,
+      "reach (mm)": 497
+    }
+  ]
+}

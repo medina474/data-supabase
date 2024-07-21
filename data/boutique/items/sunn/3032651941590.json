@@ -1,0 +1,128 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2679368",
+  "tailles": [
+    "S / 158-168 cm",
+    "M / 168-178 cm",
+    "L / 178-188 cm"
+  ],
+  "name": "VTT Electrique Tout-Suspendu Sunn Charger Shimano Deore 12V 625Wh 29'' Bleu",
+  "marque": "Sunn",
+  "description": "Le Sunn Charger est un vélo tout suspendu, polyvalent et performant grâce au système d’assistance électrique Bosch CX Smart System.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/368/679368/2679368/5403980",
+  "mpn": "YFSUV44301",
+  "gtin13": "3032651941590",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 158-168 cm",
+      "stock": 1,
+      "prix": 4199.99,
+      "mpn": "YFSUV43901",
+      "sku": "2581570",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2804207-vtt_electrique_tout_suspendu_sunn_charger_shimano_deore_12v_625wh_29___bleu"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-178 cm",
+      "stock": 2,
+      "prix": 4199.99,
+      "mpn": "YFSUV44301",
+      "sku": "2581535",
+      "gtin13": "3032651941590",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2804207-vtt_electrique_tout_suspendu_sunn_charger_shimano_deore_12v_625wh_29___bleu"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-188 cm",
+      "stock": 1,
+      "prix": 4199.99,
+      "mpn": "YFSUV44701",
+      "sku": "2581565",
+      "gtin13": "3032651941606",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2804207-vtt_electrique_tout_suspendu_sunn_charger_shimano_deore_12v_625wh_29___bleu"
+    }
+  ],
+  "informations": {
+    "poids": "25,7 kg",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Integrated 625Wh, 6061DB Alloy Edge Tubing Boost, 140 mm",
+      "fourche": "RockShox 35 Gold RL 150 mm",
+      "amortisseur": "RockShox Deluxe Select 185x55"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Permformance Line CX, 85 Nm",
+      "batterie": "Bosch Powertube, 625Wh (amovible)"
+    },
+    "commande/ecran": "Bosch Purion 200",
+    "transmission": {
+      "manette de dérailleur": "Shimano, 1x12-vitesses",
+      "dérailleur arrière": "Shimano Deore, 12-vitesses",
+      "cassette": "Shiamno Deore, 10-51 dts",
+      "pédalier": "E*thirteen Plus 165 mm, 34 dts"
+    },
+    "équipements": {
+      "freins": "Formula Cura 2, 2 pistons, 203/203 mm",
+      "selle": "Brute One",
+      "tige de selle": "Brute Dropper"
+    },
+    "roues": {
+      "jantes": "29’’ Mach1 Trucky 30 30 mm 32 trous",
+      "pneus": "Michelin Wild TR, 29x2,4''"
+    },
+    "direction": {
+      "cintre": "Brute, 760 mm x 31.8 mm, Rise 15 mm",
+      "potence": "Brute One CNC, 45 mm - 31.8 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 590,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1208,
+      "stack (mm)": 611,
+      "reach (mm)": 427,
+      "débattement tige de selle (mm)": 130
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 610,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1229,
+      "stack (mm)": 620,
+      "reach (mm)": 444,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1250,
+      "stack (mm)": 629,
+      "reach (mm)": 461,
+      "débattement tige de selle (mm)": 170
+    }
+  ]
+}

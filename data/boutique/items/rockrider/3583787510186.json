@@ -1,0 +1,131 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2648417",
+  "tailles": [
+    "S / 150-165 cm",
+    "M / 165-174 cm",
+    "L / 175-184 cm",
+    "XL / 185-200 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Rockrider E-Expl 520 S Microshift Advent 10V 500Wh 29'' Rouge Vif 2024",
+  "marque": "Rockrider",
+  "description": "C'est un vélo très polyvalent. Maniable et sécurisant en même temps : les chemins et le dénivelé deviennent plus accessibles grâce à ce vélo !\r\nConçu pour les randonnées tout terrain sur chemins cassants, avec du dénivelé modéré (parcours vallonnés et moyenne montagne).",
+  "image": "https://product-cdn-frz.alltricks.com/medium/417/648417/2648417/5327732",
+  "mpn": "4335317",
+  "gtin13": "3583787510186",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 150-165 cm",
+      "stock": 3,
+      "prix": 2599.99,
+      "mpn": "4335316",
+      "sku": "2628483",
+      "gtin13": "3583787510162",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2766229-vtt_electrique_tout_suspendu_rockrider_e_expl_520_s_microshift_advent_10v_500wh_29___rouge_vif_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-200 cm",
+      "stock": 1,
+      "prix": 2599.99,
+      "mpn": "4335317",
+      "sku": "2628095",
+      "gtin13": "3583787510186",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2766229-vtt_electrique_tout_suspendu_rockrider_e_expl_520_s_microshift_advent_10v_500wh_29___rouge_vif_2024"
+    }
+  ],
+  "informations": {
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 140,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "microSHIFT Advent X 10V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Cadre suspendu en aluminium 6061 monopivot avec bielette, Débattement 140 mm, Batterie intégrée à sortie latérale Douille de direction conique, Diamètre de tube de selle 31,6 mm",
+      "fourche": "Fourche X-FUSION MCQUEEN R, 140 mm, plongeurs 34 mm, axe 110*15 mm, Offset: 46 mm, Roughcut Air, Réglages: Rebond, Pression air",
+      "amortisseur": "Amortisseur X-FUSION PRO R, dimensions: 210*55 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Moteur central BROSE T, 70 Nm",
+      "écran": "ERGO 900 - 5 modes d'assistance. mode piéton assistance à la marche. Ecran TFT couleur",
+      "batterie": "Batterie intégrée 500 Wh longue durée de vie (+500 cycles), Compatible extension de batterie de 360Wh vendue séparément"
+    },
+    "transmission": {
+      "manette de dérailleur": "MICROSHIFT ADVENT X",
+      "dérailleur arrière": "MICROSHIFT ADVENT X 10 vitesses",
+      "cassette": "MICROSHIFT ADVENT X Serie H 11-48 10 vitesses",
+      "chaîne": "KMC e10S",
+      "pédalier": "34 dents avec Antidéraillement, 170mm"
+    },
+    "équipements": {
+      "freins": "Freins à disque hydrauliques TEKTRO M276, 2 pistons, 203/203 mm, 6 trous",
+      "selle": "DECATHLON CORE 60°",
+      "tige de selle": "télescopique : ROCKRIDER DROPPER 31,6 mm, Débattement: 120mm (S) / 150 mm (M/L) / 170 mm (XL), Poids : à partir de 650 g, Collier de selle : aluminium , diamètre 34,9 mm"
+    },
+    "roues": {
+      "jantes": "ROCKRIDER 29” 30c, Largeur int 30 mm, pneus jusqu'à 2,6\" BOOST, 6 trous, corps de roue libre HG, tubeless ready",
+      "pneus": "ROCKRIDER GRIP 500, 29\" x 2.4\"TUBELESS READY, Tringle: souple, Carcasse: 60 TPI 1 pli"
+    },
+    "direction": {
+      "cintre": "ROCKRIDER SPORT, alu, 31.8 mm, largeur 740 mm S M, 760 mm L XL, Rise : 10 (S,M) , 25 (L,XL), Upsweep : 0 ° (S,M) , 6° (L,XL), Backsweep : 9°",
+      "potence": "ROCKRIDER Aluminium, Angle : 7°Taille : 50 mm (S), 60 mm (M / L), 70 mm (XL)",
+      "jeu de direction": "ZS 44/28,6 - 56/40"
+    },
+    "accessoires": "Votre VTT est livré avec: Chargeur 2A sonnette, éclairages, catadioptres de roues (réflecteurs) et pédales.",
+    "poid": "S : 24.3 kg, M : 24.4 kg, L : 24.5 kg, XL : 24.6 kg"
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 377,
+      "tube supérieur (mm)": 590,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1199,
+      "stack (mm)": 602,
+      "reach (mm)": 428
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 407,
+      "tube supérieur (mm)": 610,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1224,
+      "stack (mm)": 630,
+      "reach (mm)": 441
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 427,
+      "tube supérieur (mm)": 640,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1254,
+      "stack (mm)": 630,
+      "reach (mm)": 471
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 447,
+      "tube supérieur (mm)": 660,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1278,
+      "stack (mm)": 653,
+      "reach (mm)": 485
+    }
+  ]
+}

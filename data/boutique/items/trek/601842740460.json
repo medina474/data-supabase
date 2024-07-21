@@ -1,0 +1,154 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2410162",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 161-175 cm",
+    "L / 177-188 cm",
+    "XL / 188-196 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Trek Fuel EXe 9.7 Shimano SLX / XT 12V 360 Wh 29'' Gris Galactic / Noir 2023",
+  "marque": "Trek",
+  "description": "Le Fuel EXe 9.7 redéfinit la pratique du VTTAE avec un tout nouveau moteur qui est à peine détectable et qui donne un vélo léger, vif et aussi ludique qu’un VTT traditionnel, mais avec l’avantage de l’assistance au pédalage pour vous aider dans les côtes. Un ensemble de suspension amélioré s’associe à des composants soigneusement sélectionnés pour des changements de vitesse vifs et une modulation précise sur le trail. Le tout avec un châssis en carbone léger pour conserver un vélo agile et rigide avec juste ce qu’il faut d’amortissement des vibrations lorsque le trail devient tumultueux.\r\n\r\nVous recherchez les sensations d’un vélo de trail ludique, capable de donner un petit coup de pouce dans les côtes. Vous recherchez les améliorations là où elles comptent le plus, comme un ensemble de suspension premium et la sélection parfaite de composants. Vous ne souhaitez pas perdre les sensations naturelles de la pratique du VTT et vous cherchez un moteur électrique affiné qui vous aidera discrètement pendant vos sorties.\r\n\r\nUn cadre OCLV Mountain Carbon avec une batterie de 360 Wh complètement intégrée et une transmission à démultiplicateur harmonique à anneau à broches, un port de charge intelligent, un affichage DEL intégré et une commande au guidon discrète. Une fourche Fox Rhythm 36 de 150 mm avec ressort pneumatique Float Evol et un amortisseur Grip et une suspension arrière Fox Performance Float X de 140 mm de débattement. Sans oublier des roues et des pneus Tubeless Ready et une transmission 12 vitesses avec une sélection soigneuse de composants Shimano SLX et XT.\r\n\r\nLe Fuel EXe 9.7 est un vélo ludique qui vous donnera un coup de pouce dans les côtes, mais qui se comporte comme un vélo traditionnel dans les descentes. Il exploite la technologie spatiale de la transmission TQ, affiche 150 mm de débattement soyeux pour avaler les rock gardens et possède une transmission aux composants soigneusement sélectionnés qui vous apporte des améliorations là où elles comptent le plus.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/162/410162/2410162/4622154",
+  "mpn": "5272390",
+  "gtin13": "601842740460",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-165 cm",
+      "stock": 10,
+      "prix": 6632.2,
+      "mpn": "5272389",
+      "sku": "2366188",
+      "gtin13": "601842740477",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2454678-vtt_electrique_tout_suspendu_trek_fuel_exe_9_7_shimano_slx___xt_12v_360_wh_29___gris_galactic___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 161-175 cm",
+      "stock": 13,
+      "prix": 7199.99,
+      "mpn": "5272390",
+      "sku": "2287918",
+      "gtin13": "601842740460",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2454678-vtt_electrique_tout_suspendu_trek_fuel_exe_9_7_shimano_slx___xt_12v_360_wh_29___gris_galactic___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-188 cm",
+      "stock": 10,
+      "prix": 6448.31,
+      "mpn": "5272391",
+      "sku": "2287968",
+      "gtin13": "601842740453",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2454678-vtt_electrique_tout_suspendu_trek_fuel_exe_9_7_shimano_slx___xt_12v_360_wh_29___gris_galactic___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 188-196 cm",
+      "stock": 10,
+      "prix": 6632.41,
+      "mpn": "5272392",
+      "sku": "2368385",
+      "gtin13": "601842740446",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2454678-vtt_electrique_tout_suspendu_trek_fuel_exe_9_7_shimano_slx___xt_12v_360_wh_29___gris_galactic___noir_2023"
+    }
+  ],
+  "informations": {
+    "poids": "19.05 kg",
+    "genre": "HommeFemme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano SLX XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : OCLV Mountain Carbon, batterie amovible, acheminement interne des câbles, basculeur en alliage, tube de selle de 34,9 mm, fixation supérieure de guide-chaîne, ligne de chaîne de 55 mm, Mino Link, ABP, Boost148, UDH, débattement de 140 mm",
+      "fourche": "Fox Rhythm 36, ressort pneumatique Float EVOL, amortisseur GRIP, pivot conique, déport de 44 mm, Boost110, axe Kabolt 15 mm, débattement de 150 mm",
+      "amortisseur": "Fox Performance Float X, amortisseur à 2 positions, 205x60 mm"
+    },
+    "assistance électrique": {
+      "moteur": "TQ-HPR50, 50 Nm, 250 watt maximum de puissance continue, 300 watt de puissance en pointe.",
+      "batterie": "TQ 360 Wh"
+    },
+    "écran ": "Écran LED de TQ avec Bluetooth et connectivité ANT+ et commande  Fixé sur cintre TQ",
+    "transmission": {
+      "manette de dérailleur": "Shimano SLX M7100, 1x12 vitesses",
+      "dérailleur arrière": "Shimano XT M8100, galets longs, 12 vitesses",
+      "cassette": "Shimano SLX M7100, 10-51 Dents",
+      "chaîne": "Shimano SLX M7100",
+      "pédalier": "E*thirteen E*spec Plus, 34 dents "
+    },
+    "équipements": {
+      "freins": "Shimano, 4 pistons, disque hydrauliques, levier M6100, étrier M6120 ou Sram Code R, disque hydraulique à 4 pistons",
+      "selle": "Bontrager Arvada, rails en austénite, largeur de 138 mm",
+      "tige de selle": "Taille S : TranzX JD-YSP39, débattement de 100 mm, acheminement interne, 34,9 mm Taille M : TranzX JD-YSP39, débattement de 150 mm, acheminement interne, 34,9 mm Taille L, XL : TranzX JD-YSP39, débattement de 170 mm, acheminement interne, 34,9 mm"
+    },
+    "disques": "Taille S, M, L, XL : SRAM CenterLine, 6 trous, bord arrondi, 200/200 mm ou Taille S, M, L, XL : Shimano RT66, 6 trous, 203/203 mm",
+    "roues": {
+      "jantes": "Avant : Bontrager Line Comp 30, Tubeless Ready, 6 trous, Boost110, axe traversant 15 mm / Arrière : Bontrager Line Comp 30, Tubeless Ready, Rapid Drive 108, 6 vis, Boost148, axe traversant 12 mm",
+      "pneus": "Taille S, M, L, XL : Bontrager XR5 Team Issue, Tubeless Ready, tringle en aramide, 120 tpi, 29x2,5 pouces ou Taille S, M, L, XL : Bontrager XR5 Team Issue, Tubeless Ready, carcasse Inner Strength, tringle en aramide, 60 tpi, 29x2,50 pouces"
+    },
+    "direction": {
+      "poignées": "Bontrager XR Trail Elite, nylon lock-on",
+      "potence": "Bontrager Elite, 35 mm, 0 degré, 45 mm de long"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 573,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 69,
+      "empattement (mm)": 1186,
+      "stack (mm)": 623,
+      "reach (mm)": 430
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 69.5,
+      "empattement (mm)": 1215,
+      "stack (mm)": 627,
+      "reach (mm)": 455
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 70.5,
+      "empattement (mm)": 1245,
+      "stack (mm)": 627,
+      "reach (mm)": 485
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 657,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1275,
+      "stack (mm)": 636,
+      "reach (mm)": 510
+    }
+  ]
+}

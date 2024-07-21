@@ -1,0 +1,132 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2543281",
+  "tailles": [
+    "M / 165-177 cm",
+    "L / 177-188 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Trek Fuel EXe 5 Shimano Deore 12V 360 Wh 29'' Vert Sauge Mat 2024",
+  "marque": "Trek",
+  "description": "Le Fuel EXe 5 est un VTTAE en aluminium qui comporte toute la technologie de son homologue en carbone dans un format plus économique. Il se targue de la même transmission, petite mais puissante, très discrète, d’un écran élégant et d’une télécommande. Mais ce qui fait réellement l’excellence de ce vélo est la véritable sensation d’un vélo de trail qui se manie tout comme un VTT traditionnel, avec juste un peu plus de puissance.\r\n\r\nVous êtes à la recherche d’un vélo qui adoucit les montées sans sacrifier sa maniabilité dans les descentes. Vous souhaitez entrer dans le monde des VTTAE légers sans vider votre compte, et vous êtes disposé à modifier certaines pièces par la suite.\r\n\r\nUn cadre en aluminium Alpha Platinum avec la transmission à démultiplicateur harmonique à anneau à broches HPR50 de TQ, une batterie de 360Wh amovible entièrement intégrée et un port de charge intelligent. Un écran LED intégré et une télécommande au cintre faciles à utiliser à la volée, une suspension avant RockShox Recon Silver Solo de 150 mm à ressort pneumatique avec amortisseur Motion Control et blocage, et une suspension arrière X-Fusion Pro 2 de 140 mm avec amortisseur à 2 positions. Plus, un système de changement de vitesse Shimano Deore 12 vitesses, des freins à disque hydrauliques et une tige de selle télescopique.\r\n\r\nSi vous voulez ajouter de la puissance à vos sorties sur les trails sans vous ruiner, le Fuel EXe 5 est ce qu’il vous faut. Il vous offre toute la technologie de ses homologues en carbone haut de gamme avec des pièces que vous pouvez faire évoluer au fil du temps.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/281/543281/2543281/5130376",
+  "mpn": "5297854",
+  "gtin13": "768682517826",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-177 cm",
+      "stock": 1,
+      "prix": 4499.99,
+      "mpn": "5297854",
+      "sku": "2542384",
+      "gtin13": "768682517826",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2663871-vtt_electrique_tout_suspendu_trek_fuel_exe_5_shimano_deore_12v_360_wh_29___vert_sauge_mat_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-188 cm",
+      "stock": 1,
+      "prix": 4499.99,
+      "mpn": "5297855",
+      "sku": "2542409",
+      "gtin13": "5297855",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2663871-vtt_electrique_tout_suspendu_trek_fuel_exe_5_shimano_deore_12v_360_wh_29___vert_sauge_mat_2024"
+    }
+  ],
+  "informations": {
+    "poids": "M - 20,80 kg / 45.86 lbs (avec produit d’étanchéité TLR, sans chambres à air)",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore M6100 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Aluminium Alpha Platinum, batterie amovible, acheminement interne, basculeur en alliage d’aluminium, tube de selle de34,9 mm, fixation supérieure pour guide-chaîne, ligne de chaîne de 55 mm, Mino Link, ABP, Boost148, UDH, débattement de 140 mm",
+      "fourche": "RockShox Recon Silver, ressort Solo Air, amortisseur Motion Control, blocage, pivot conique, déport de 42mm, Boost110, Maxle Stealth, débattement de 150 mm",
+      "amortisseur": "X-Fusion Pro 2, amortisseur à 2 positions, 205 x60 mm"
+    },
+    "assistance électrique": {
+      "moteur": "TQ-HPR50, 50 Nm, 250 watts maximum de puissance continue, 300 watts de puissance en pointe",
+      "batterie": "TQ 360 Wh"
+    },
+    "écran ": "Écran LED de TQ avec Bluetooth et connectivité ANT+",
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, 12 vitesses",
+      "dérailleur arrière": "Shimano Deore M6100, chape longue, 12 vitesses",
+      "cassette": "Shimano Deore M6100, 10-51 Dents",
+      "chaîne": "Shimano Deore M6100, 12 vitesses",
+      "pédalier": "E*thirteen E*spec Plus, 165 mm de long, plateau E*thirteen, E*spec, plateau acier 32 dents, ligne de chaîne à 55 mm"
+    },
+    "équipements": {
+      "freins": "Freins à disque hydrauliques Tektro HD-M745 à 4 pistons, disques Tektro, 6 trous, 203/203 mm",
+      "selle": "Bontrager Arvada, rails en acier, largeur de 138 mm",
+      "tige de selle": "Taille S : TranzX JD-YSI-22PLQ, débattement de 100 mm, acheminement interne, 34,9 mm, longueur de 346 mm Taille M : TranzX JD-YSI-22PLQ, débattement de 150 mm, acheminement interne, 34,9 mm, longueur de 454 mm Taille L/XL : TranzX JD-YSI-22PLQ, débattement de 170 mm, acheminement interne, 34,9 mm, longueur de 497 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Line TLR 30, Tubeless Ready, 32 trous, valve Presta",
+      "pneus": "Bontrager XT3 Elite, tringle rigide, 60 tpi, 29x2,40 pouces"
+    },
+    "cintre": "Bontrager Rhythm Comp, Alu, 31,8 mm, élévation de 15 mm, largeur de 750 mm",
+    "direction": {
+      "poignées": "Bontrager XR Trail Comp, nylon lock-on",
+      "potence": "Alliage Bontrager, 31,8 mm, compatible Blendr, 7 degrés, longueur de 50 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 573,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 69,
+      "empattement (mm)": 1186,
+      "stack (mm)": 623,
+      "reach (mm)": 430
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 69.5,
+      "empattement (mm)": 1215,
+      "stack (mm)": 627,
+      "reach (mm)": 455
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 70.5,
+      "empattement (mm)": 1245,
+      "stack (mm)": 627,
+      "reach (mm)": 485
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 657,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1275,
+      "stack (mm)": 636,
+      "reach (mm)": 510
+    }
+  ]
+}

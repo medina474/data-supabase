@@ -1,0 +1,164 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2656768",
+  "tailles": [
+    "S / 163-170 cm",
+    "M / 168-180 cm",
+    "L / 175-188 cm",
+    "XL / 185-198 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Mondraker Chaser R Sram GX/SX Eagle 12V 750 Wh 29'' Bleu Carrera Noir 2024",
+  "marque": "Mondraker",
+  "description": "Les ingénieurs de chez Mondraker mettent à profit tout ce qu'ils savent sur les VTT de performance dans la confection de leurs VTT électriques. Le système de suspension Zero optimisé du Mondraker Chaser R améliore son absorption et son fonctionnement général. Si nous ajoutons à cela la technologie Forward Geometry et la fabrication en Stealth Alloy Evo, le résultat est une agilité spectaculaire, pour le plus grand plaisir du rider. Sa fourche Fox 36 Rhythm et son amortisseur Fox Float Performance, permettent un contrôle total du fonctionnement dans toutes les situations, aussi compliquées soient-elles. C'est certain, les améliorations apportées au Chaser R vous feront vous sentir comme un véritable pro.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/768/656768/2656768/5339736",
+  "mpn": "010.24345",
+  "gtin13": "8435392879330",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 163-170 cm",
+      "stock": 1,
+      "prix": 4999.99,
+      "mpn": "010.24345",
+      "sku": "2564654",
+      "gtin13": "8435392879330",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2772194-vtt_electrique_tout_suspendu_mondraker_chaser_r_sram_gx_sx_eagle_12v_750_wh_29___bleu_carrera_noir_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-180 cm",
+      "stock": 1,
+      "prix": 4999.99,
+      "mpn": "010.24346",
+      "sku": "2564962",
+      "gtin13": "8435392879347",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2772194-vtt_electrique_tout_suspendu_mondraker_chaser_r_sram_gx_sx_eagle_12v_750_wh_29___bleu_carrera_noir_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-188 cm",
+      "stock": 2,
+      "prix": 4999.99,
+      "mpn": "010.24347",
+      "sku": "2564862",
+      "gtin13": "8435392879354",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2772194-vtt_electrique_tout_suspendu_mondraker_chaser_r_sram_gx_sx_eagle_12v_750_wh_29___bleu_carrera_noir_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-198 cm",
+      "stock": 2,
+      "prix": 4999.99,
+      "mpn": "010.24348",
+      "sku": "2564867",
+      "gtin13": "8435392879361",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2772194-vtt_electrique_tout_suspendu_mondraker_chaser_r_sram_gx_sx_eagle_12v_750_wh_29___bleu_carrera_noir_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Carrera Blue"
+    }
+  ],
+  "informations": {
+    "poids": "24.9 kg",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 160,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram GX Eagle 12VSram SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Chaser 6061 Alloy Stealth Evo, e-Bike Optimized Zero Suspension System, 150mm travel, Forward Geometry, internal non-removable battery, Boost 12x148mm rear axle, tapered head tube, one-piece Monoblock upper link, HHG internal cable routing, MAX capacity sealed bearings, oversize 17mm axles, integrated dropout speed sensor, exclusive plastic motor covers, Mondraker M068 Derailleur hanger",
+      "fourche": "Fox 36 29 Float FIT GRIP EVOL Rhythm, 160mm, e-bike tuned, tapered steerer tube, Boost 15x110mm axle, 44mm offset. Réglages : sweep adjust compression, Low-speed rebound, air preload",
+      "amortisseur": "Fox Float EVOL Performance, 205x65mm. Réglages : 2-position compression adjustment (Open/Firm), rebound, air preload. Trunnion top mount, 25x10mm bottom bushings"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Performance Line CX 85Nm, Gen. 4 Smart System, 25 km/h",
+      "batterie": "Bosch PowerTube 750 Wh (non-amovible)",
+      "écran": "Bosch Intuvia 100",
+      "commande": "Bosch Mini Remote / Bosch System Controller"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Trigger SX Eagle, X-Actuation 1:1, single click, 1x12-vitesses",
+      "dérailleur arrière": "Sram GX Eagle, Type 3 roller bearing clutch, cage lock, X-Actuation 1:1, 12-vitesses",
+      "cassette": "Sram XG-1210, 11-50 Dents",
+      "chaîne": "Sram SX Eagle, Powerlock",
+      "pédalier": "Race Face Aeffect ebike, 165 mm, Sram X-Sync 2 Eagle 34 Dents, steel, narrow-wide, 104 BCD"
+    },
+    "équipements": {
+      "freins": "Sram DB8, Hydr. Disc Brake, 4-piston caliper, Centerline 200/200 mm IS 6 bolts one-piece rotors",
+      "selle": "MDK ebike black",
+      "tige de selle": "Onoff Pija dropper internal, diameter 31.6mm, 1X Remote lever with bearing, 405x95-125mm (S), 458x120-150mm (M), 498x140-170mm (L), 558x170-200mm (XL)"
+    },
+    "roues": {
+      "jantes": "Mavic E-Deemax 29, 30 mm internal width, welded, PFP, tubeless ready, 28 spokes, Mavic J-bend duble butted, contactless lacing spokes",
+      "moyeu avant": "Mavic, Boost 15x110 mm, IS 6 bolts ",
+      "moyeu arrière": "Mavic, Boost 12x148 mm, ID360 Ratched system, IS 6 bolts, HG freehub",
+      "pneu avant": " Maxxis Rekon 29x2.6'', tubeless ready, dual compound, EXO protection, 60TPI, folding bead ",
+      "pneu arrière": " Maxxis Rekon 29x2.6'', tubeless ready, dual compound, EXO protection, 60TPI, folding bead"
+    },
+    "direction": {
+      "cintre": "Onoff Sulfur 1.0 double butted 6061 alloy, rise: 20 mm, width: 800 mm, 9º backsweep, 5º upsweep, 31.8 mm barbore",
+      "poignées": "Onoff Desert, 1lock-on, 135 mm",
+      "potence": "Onoff Sulfur FG 30 mm 0º, 6061 forged alloy, 31.8 mm barbore",
+      "jeu de direction": "Onoff Saturn tapered for 1-1/8” to 1-1/2” head tube, ACB sealed bearings, top 41x30.2x7x45ºx45º, bottom 51.9x40x8x45ºx45º"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 605,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1225,
+      "stack (mm)": 622,
+      "reach (mm)": 450
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 625,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1245,
+      "stack (mm)": 622,
+      "reach (mm)": 470
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 650,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1265,
+      "stack (mm)": 640,
+      "reach (mm)": 490
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 670,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1285,
+      "stack (mm)": 640,
+      "reach (mm)": 510
+    }
+  ]
+}

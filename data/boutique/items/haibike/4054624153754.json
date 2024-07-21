@@ -1,0 +1,130 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2678006",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-175 cm",
+    "L / 175-185 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Haibike AllMtn 7 Shimano SLX 12V 720 Wh 29/27.5'' Gris Bleu 2024",
+  "marque": "Haibike",
+  "description": "Le Haibike AllMtn 7 offre des performances électriques sans compromis sur la piste : compact et puissant, le moteur Yamaha PW-X3 est le gage d'un soutien optimal, sa batterie de 720 Wh vous assurant d'un rayon d'action suffisant pour des randonnées encore plus longues.\r\nLes roues de diamètre différent, de 29/ 27,5\", assurent à la fois une traction optimale en côte et une grande souplesse en descente.\r\nAvec la fourche de 160 mm RockShox Yari RC, un dérailleur arrière Shimano SLX et des freins à disque à 4 pistons Magura MT5, vous êtes bien équipé pour n'importe quelle aventure.\r\nVous avez l'assurance de maîtriser les sauts ou les parcours difficiles en toute sécurité et avec confiance.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/6/678006/2678006/5401624",
+  "mpn": "45620450",
+  "gtin13": "4054624153754",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 1,
+      "prix": 4849.99,
+      "mpn": "45620440",
+      "sku": "2676451",
+      "gtin13": "4054624153747",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2802727-vtt_electrique_tout_suspendu_haibike_allmtn_7_shimano_slx_12v_720_wh_29_27_5___gris_bleu_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 2,
+      "prix": 4849.99,
+      "mpn": "45620450",
+      "sku": "2676495",
+      "gtin13": "4054624153754",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2802727-vtt_electrique_tout_suspendu_haibike_allmtn_7_shimano_slx_12v_720_wh_29_27_5___gris_bleu_2024"
+    }
+  ],
+  "informations": {
+    "poids maximum": "150 kg : le poids maximum du système comprend le vélo, le cycliste et la charge (porte-bagages ou remorque)",
+    "genre": "HommeFemme",
+    "débattement fourche (mm)": 160,
+    "débattement cadre (mm)": 160,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano SLX 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Haibike, AllMtn PW-X3, Aluminium",
+      "fourche": "RockShox Yari RC, air, débattement: 160mm, aluminum shaft 1 1/8\" - 1 1/2\" tapered, axe traversant Boost 15 x 110mm",
+      "amortisseur": "RockShox Deluxe Select Plus, air"
+    },
+    "assistance électrique": {
+      "moteur": "Yamaha, PW-X3, 250 W, 85 Nm",
+      "batterie": "InTube, 720 Wh (amovible)",
+      "écran": "Yamaha, Interface - X"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore SLX M7100, 1x12-Vitesses",
+      "dérailleur arrière": "Shimano SLX M7100, 12-Vitesses",
+      "cassette": "Shimano M6100, 10-51 dts",
+      "chaîne": "Shimano",
+      "pédalier": "Haibike Components, The Crank ++, Aluminium, Plateau Sram, 38 Dents"
+    },
+    "équipements": {
+      "freins": "Magura, MT5, MDR-P 203/203 mm",
+      "pédales": "Freeridepedal, Aluminium, with Reflector",
+      "selle": "Selle Royal Vivo",
+      "tige de selle": "Haibike Components, Dropper-Post Remote 34.9, Aluminium"
+    },
+    "roues": {
+      "jantes": "Avant : WTB, ST i30 TCS, Double Wall / Arrière : WTB, ST i35 TCS, Double Wall, roue libre MS",
+      "pneu avant": " Maxxis, Minion DHF II, 63-622, 29 x 2.5\" ",
+      "pneu arrière": " Maxxis, Minion DHR II, 66-584, 27.5 x 2.6\""
+    },
+    "direction": {
+      "cintre": "Haibike Components, TheBar +++, 780 mm",
+      "potence": "Haibike Components, TheStem +++, 31.8 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1220,
+      "stack (mm)": 646,
+      "reach (mm)": 421
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1250,
+      "stack (mm)": 646,
+      "reach (mm)": 451
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 627,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1279,
+      "stack (mm)": 655,
+      "reach (mm)": 475
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 659,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 76.9,
+      "empattement (mm)": 1313,
+      "stack (mm)": 664,
+      "reach (mm)": 505
+    }
+  ]
+}

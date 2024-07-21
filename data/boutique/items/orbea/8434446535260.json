@@ -1,0 +1,149 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2656771",
+  "tailles": [
+    "S / 150-175 cm",
+    "M / 160-185 cm",
+    "L / 170-195 cm",
+    "XL / 180-205 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Orbea Wild M20 Shimano Deore/SLX 12V 750 Wh 29'' Argent Halo Bleu Tanzanite Carbon View 2024",
+  "marque": "Orbea",
+  "description": "Oubliez les VTTAE lourds et patauds et libérez votre côté sauvage. L'Orbea Wild dompte les sentiers les plus sauvages tout en restant vif, dynamique et engagé, contrairement aux sensations engourdies et passives de nombreux vélos électriques. Il est avant tout un fantastique vélo d'enduro, une caractéristique reflétée par la rigidité du cadre, un poids réduit, une suspension stable et une géométrie pensée pour le VTTAE. Le résultat ? C’est vous qui pilotez.\r\n\r\nLes meilleurs matériaux, des solutions ingénieuses et des technologies clés telles que le design SBS (Secure Battery System) d'Orbea, font du Wild l'un des VTTAE pleine puissance les plus légers du marché. Toutes choses égales par ailleurs, plus léger signifie plus de performance, une plus grande autonomie et une meilleure maniabilité. Simplifier pour plus de performance. Cela signifie supprimer le superflu et n'ajouter que ce qui améliore votre expérience. Grâce à des technologies qui privilégient la simplicité, telles que le SBS et le Clean Cockpit, le cadre du Wild est remarquablement svelte et épuré, avec des lignes franches qui pourraient vous faire oublier qu'il s'agit d'un vélo électrique.\r\n\r\nSuralimenté et prêt à rugir, le Wild offre un maximum de plaisir dans les montées et les descentes les plus extrêmes. L'association d'un moteur Bosch dernière génération avec une batterie de 750 Wh offre une autonomie et une puissance incroyables. En descente, le Wild se comporte moins comme un vélo électrique pondéreux et plus comme votre machine d'enduro préférée.\r\n\r\nLe Wild est disponible en quatre tailles : S, M, L et XL. Cependant, avec l'un des tubes de selle les plus courts du marché, vous pouvez choisir entre plusieurs tailles pour obtenir votre reach préféré. Le Wild est conçu pour fonctionner avec une tige télescopique à grand débattement ; choisissez donc une taille plus grande pour maximiser la stabilité, ou optez pour une taille plus petite pour un Wild plus ludique.\r\n\r\nOrbea utilise une construction en carbone à la pointe de la technologie pour fabriquer le cadre le plus sophistiqué possible. Un processus complexe et laborieux dont vous apprécierez les résultats une fois en selle. Les cadres Orbea Monocoque Race (OMR) ajoutent des fibres à haut module et à haute résistance aux configurations standard pour optimiser les rapports rigidité/poids. Le moulage des composants avec des mousses EPS et des inserts en PU pour le tube de direction et le boitier de pédalier élimine les plis et les arêtes dans des zones critiques, ce qui permet d'utiliser moins de carbone sans aucun compromis en termes de durabilité.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/771/656771/2656771/5339858",
+  "mpn": "R34405V4",
+  "gtin13": "8434446535260",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 150-175 cm",
+      "stock": 2,
+      "prix": 7299,
+      "mpn": "R34403V4",
+      "sku": "2625776",
+      "gtin13": "8434446535239",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2772195-vtt_electrique_tout_suspendu_orbea_wild_m20_shimano_deore_slx_12v_750_wh_29___argent_halo_bleu_tanzanite_carbon_view_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 160-185 cm",
+      "stock": 1,
+      "prix": 6499.99,
+      "mpn": "R34405V4",
+      "sku": "2626592",
+      "gtin13": "8434446535260",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2772195-vtt_electrique_tout_suspendu_orbea_wild_m20_shimano_deore_slx_12v_750_wh_29___argent_halo_bleu_tanzanite_carbon_view_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 170-195 cm",
+      "stock": 1,
+      "prix": 6499.99,
+      "mpn": "R34407V4",
+      "sku": "2626496",
+      "gtin13": "8434446535475",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2772195-vtt_electrique_tout_suspendu_orbea_wild_m20_shimano_deore_slx_12v_750_wh_29___argent_halo_bleu_tanzanite_carbon_view_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "V4 - Halo Silver - Tanzanite Carbon View (Matt)"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 160,
+    "débattement cadre (mm)": 160,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore SLX 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Orbea Wild OMR 2023, 29\" wheels, Concentric Boost 12x148 mm, 160 mm travel",
+      "fourche": "RockShox ZEB, Base-A2, DebonAir+, E-MTB specific, Q15X110 mm Boost, 160 mm travel",
+      "amortisseur": "Fox Float Performance, Trunnion, 2-Position, Evol LV, custom tune, 205x65 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Performance Line CX, BDU3741",
+      "batterie": "Bosch Powertube 750 Wh, Horizontal, BBP3770",
+      "écran": "Bosch System Controller, BCR3100",
+      "commande": "Bosch Mini Remote, BRC3300"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, I-Spec EV, 1x12-vitesses",
+      "dérailleur arrière": "Shimano SLX M7100, SGS, ShadowPlus, 12-vitesses",
+      "cassette": "Shimano SLX CS-M7100, 10-51 Dents",
+      "chaîne": "Shimano CN-M6100",
+      "pédalier": "e*thirteen Plus, Alu / e*thirteen e*spec, Direct Mount, Boost, 34 Dents"
+    },
+    "guide-chaîne": "e*thirteen Plus, Bosch CX Gen4, 32-38 Dents",
+    "équipements": {
+      "freins": "Shimano MT420, Hydr. Disc Brake",
+      "selle": "Selle Royal Vivo Sport Men, 145x269 mm",
+      "tige de selle": "OC Mountain Control MC21, 31.6 mm, Dropper / Shimano SL-MT500 I-Spec EV Remote"
+    },
+    "roues": {
+      "jantes": "Race Face AR 30c, Tubeless Ready",
+      "pneu avant": " Maxxis Assegai, FB, 120 TPI, 3C Maxx Terra, Exo+, TR, 29x2.50\" WT ",
+      "pneu arrière": " Maxxis Minion DHR II, FB, 120 TPI, 3C Maxx Terra, Exo+, TR, 29x2.40\" WT"
+    },
+    "direction": {
+      "cintre": "OC Mountain Control MC30, Rise 20 mm, Width 800 mm",
+      "poignées": "OC Lock On",
+      "potence": "OC Mountain Control MC20, 0º",
+      "jeu de direction": "Alloy 1-1/2\", Black Oxidated Bearing"
+    },
+    "référence": "R344"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 415,
+      "tube supérieur (mm)": 573,
+      "longueur base (mm)": 448,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1223,
+      "stack (mm)": 621,
+      "reach (mm)": 435
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 415,
+      "tube supérieur (mm)": 595,
+      "longueur base (mm)": 448,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1247,
+      "stack (mm)": 630,
+      "reach (mm)": 455
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 622,
+      "longueur base (mm)": 448,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1277,
+      "stack (mm)": 639,
+      "reach (mm)": 480
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 649,
+      "longueur base (mm)": 448,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1306,
+      "stack (mm)": 648,
+      "reach (mm)": 505
+    }
+  ]
+}

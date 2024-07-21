@@ -1,0 +1,159 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2515851",
+  "tailles": [
+    "18 Pouces / 169-178 cm",
+    "20 Pouces / 177-186 cm",
+    "22 Pouces / 185-197 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Cube Stereo Hybrid 120 Race 750 Shimano Deore XT 12V 750 Wh 29'' Orange Spark 2023",
+  "marque": "Cube",
+  "description": "L’élégant cadre du Cube Stereo Hybrid 120 présente de nombreux détails permettant d’optimiser ce célèbre explorateur tout-terrain et son unité motrice Bosch. Le Modular Battery System permet de dissimuler la batterie Bosch (d’une puissance pouvant atteindre 750 Wh), mais également de l’abriter de l’eau et de la poussière. Le passage des câbles intégré n’est pas simplement élégant, il permet également un tube de direction sans trou. Son système de suspension en parallélogramme des plus raffinés vous permet d’absorber les irrégularités du sol pour un confort longue durée. L’ensemble bénéficie de la technologie Comfort Geometry (avec un axe arrière Boost 148 pour une rigidité accrue et un tube de direction de 1,5 pouces) pour un pilotage plus facile, tandis que le système SizeSplit permet à chacun de trouver facilement le modèle de Stereo Hybrid qui lui correspond parfaitement. Les ingénieurs de chez Cube ont également facilité l’équipement d’accessoires tels que des garde-boues, un porte-bagages et une béquille. Il est paré pour presque toute éventualité. Et vous ?\r\n\r\nLe Cube Stereo Hybrid 120 Race est un explorateur tout-terrain développé pour vous. Avec sa puissante unité motrice Bosch Performance CX quatrième génération, sa batterie de 750 Wh et son unité de commande Bosch Intuvia 100, il dispose de tout le potentiel nécessaire pour vous emmener plus loin et plus haut. Sa fourche suspendue Fox 34 AWL et son amortisseur Fox Float DPS Performance maintiennent ses pneus Schwalbe Smart Sam de 2,6 pouces très adhérents en contact parfait avec le sol, tandis que ses puissants freins à disque hydrauliques Magura MT Thirty vous garantissent un contrôle de tous les instants. Cerise sur le gâteau : son exceptionnelle transmission Shimano Deore/XT 1x12 vitesses vous permet de trouver ; du bout des doigts, le braquet adapté à n’importe quel type de scénario. Quelle sera votre prochaine destination ?",
+  "image": "https://product-cdn-frz.alltricks.com/medium/851/515851/2515851/4949526",
+  "mpn": "63517322",
+  "gtin13": "4054571400451",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "18 Pouces / 169-178 cm",
+      "stock": 2,
+      "prix": 4199.99,
+      "mpn": "63517318",
+      "sku": "2395073",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2585750-vtt_electrique_tout_suspendu_cube_stereo_hybrid_120_race_750_shimano_deore_xt_12v_750_wh_29___orange_spark_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "20 Pouces / 177-186 cm",
+      "stock": 2,
+      "prix": 4199.99,
+      "mpn": "63517320",
+      "sku": "2395216",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2585750-vtt_electrique_tout_suspendu_cube_stereo_hybrid_120_race_750_shimano_deore_xt_12v_750_wh_29___orange_spark_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "22 Pouces / 185-197 cm",
+      "stock": 4,
+      "prix": 4199.99,
+      "mpn": "63517322",
+      "sku": "2395217",
+      "gtin13": "4054571400451",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2585750-vtt_electrique_tout_suspendu_cube_stereo_hybrid_120_race_750_shimano_deore_xt_12v_750_wh_29___orange_spark_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "sparkorange´n´black"
+    }
+  ],
+  "informations": {
+    "poids": "25.6 kg",
+    "poids maximum": "135 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "débattement fourche (mm)": 120,
+    "débattement cadre (mm)": 120,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Aluminum Superlite, Gravity Casting Technology, Efficient Comfort Control, FSP 4-Link, Agile Comfort Geometry, Boost 148, Full Integrated Battery, Advanced Internal Cable Routing, Kickstand/Fender/Carrier Mounting Points, Width tires maximum: 67 mm",
+      "fourche": "Fox 34 Float AWL, 2-Position Sweep-Adjust RAIL Damper, Tapered, Boost 15x110 mm, E-Bike Optimized, 120 mm travel",
+      "amortisseur": "Fox Float DPS EVOL, 185x55 mm, Open/Medium/Firm Mode, Trunnion Mount / Entretoises : 54 mm Trunnion Mount (Haut), 30x8 mm (Bas)"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Drive Unit Performance CX Generation 4 (85 Nm) Cruise (250 Watt), Smart System, 25 km/h",
+      "batterie": "Bosch PowerTube 750 Wh",
+      "écran": "Bosch Intuvia 100",
+      "commande": "Bosch LED Remote"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore SL-M6100, Rapidfire-Plus, 1x12-vitesses",
+      "dérailleur arrière": "Shimano Deore XT RD-M8100-SGS, ShadowPlus, 12-vitesses",
+      "cassette": "Shimano Deore CS-M6100, 10-51 Dents",
+      "chaîne": "Shimano CN-M6100",
+      "pédalier": "Acid E-Crank, 170 mm, 38 Dents"
+    },
+    "équipements": {
+      "freins": "Magura MT Thirty, Hydr. Disc Brake, (203/203)",
+      "pédales": "Acid PP MTB",
+      "selle": "Natural Fit Sequence",
+      "tige de selle": "Cube Performance Post, 30.9 mm"
+    },
+    "roues": {
+      "jantes": "Cube EX30, 32H, Disc, Tubeless Ready",
+      "moyeu avant": "Shimano HB-MT400-B, 15 mm, Boost, Centerlock ",
+      "moyeu arrière": "Shimano FH-MT410-B, 12 mm, Boost, Centerlock",
+      "pneus": "Schwalbe Smart Sam, Active, 29 x 2.6\""
+    },
+    "direction": {
+      "cintre": "Newmen Evolution SL 318.25, 760 mm",
+      "poignées": "Acid Hybrid Perform",
+      "potence": "Cube Performance Stem E-MTB, 31.8 mm",
+      "jeu de direction": "Acros AZF-1035, ICR (Integrated Cable Routing), BlockLock 120°, Top Zero-Stack 1 1/2\" (ZS 56 mm), Bottom Zero-Stack 1 1/2\" (ZS 56 mm)"
+    },
+    "référence": 635173
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de cadre (pouces)": 16,
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 370,
+      "tube supérieur (mm)": 578,
+      "longueur base (mm)": 466,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 66.7,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1199,
+      "stack (mm)": 610,
+      "reach (mm)": 434
+    },
+    {
+      "taille de cadre": "M",
+      "taille de cadre (pouces)": 18,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 610,
+      "longueur base (mm)": 480,
+      "douille de direction (mm)": 135,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1244,
+      "stack (mm)": 647,
+      "reach (mm)": 454
+    },
+    {
+      "taille de cadre": "L",
+      "taille de cadre (pouces)": 20,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 465,
+      "tube supérieur (mm)": 635,
+      "longueur base (mm)": 480,
+      "douille de direction (mm)": 145,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1270,
+      "stack (mm)": 656,
+      "reach (mm)": 476
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de cadre (pouces)": 22,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 515,
+      "tube supérieur (mm)": 660,
+      "longueur base (mm)": 480,
+      "douille de direction (mm)": 160,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1297,
+      "stack (mm)": 670,
+      "reach (mm)": 497
+    }
+  ]
+}

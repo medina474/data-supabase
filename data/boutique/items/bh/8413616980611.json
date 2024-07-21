@@ -1,0 +1,132 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2643939",
+  "tailles": [
+    "S / 150-170 cm",
+    "M / 165-177 cm",
+    "L / 175-189 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu BH AtomE Lynx 8.0 Shimano Deore 10V 500 Wh 29'' Bleu Marine 2024",
+  "marque": "BH",
+  "description": "Le EMTB BH Atome Lynx 8.0 délivre un maximum de puissance pour \"rouler\" sur tout type de sentier. Affrontez les dénivelés de la foret sans vous épuiser grâce à sa grande autonomie et son moteur très coupleux. Ses suspensions vous permettront de rester stable sur les chemins de trails.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/939/643939/2643939/5324866",
+  "mpn": "ES804BWBMD",
+  "gtin13": "8413616980611",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 150-170 cm",
+      "stock": 1,
+      "prix": 4630.99,
+      "mpn": "ES804BWBSM",
+      "sku": "2579871",
+      "gtin13": "8413616980628",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2764122-vtt_electrique_tout_suspendu_bh_atome_lynx_8_0_shimano_deore_10v_500_wh_29___bleu_marine_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-177 cm",
+      "stock": 2,
+      "prix": 4630.99,
+      "mpn": "ES804BWBMD",
+      "sku": "2579624",
+      "gtin13": "8413616980611",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2764122-vtt_electrique_tout_suspendu_bh_atome_lynx_8_0_shimano_deore_10v_500_wh_29___bleu_marine_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-189 cm",
+      "stock": 2,
+      "prix": 4630.99,
+      "mpn": "ES804BWBLA",
+      "sku": "2579841",
+      "gtin13": "8413616980604",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2764122-vtt_electrique_tout_suspendu_bh_atome_lynx_8_0_shimano_deore_10v_500_wh_29___bleu_marine_2024"
+    }
+  ],
+  "informations": {
+    "poids": "--",
+    "genre": "Homme",
+    "débattement fourche (mm)": 140,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 10V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "140 mm Full Suspension Alloy 29\" internal cable routing",
+      "fourche": "SR Suntour XCR34 Air 140mm 15QR"
+    },
+    "amortisseur arrière": "Rock Shox Deluxe Debonair",
+    "assistance électrique": {
+      "moteur": "Shimano EP6 (85nm)",
+      "batterie": "Intégrée 500Wh - up to 105 km autonomie"
+    },
+    "affichage": "Shimano EN600",
+    "manette de vitesse": "Shimano Deore",
+    "transmission": {
+      "dérailleur arrière": "Shimano Deore 10sp",
+      "cassette": "Shimano CSM4100 10sp (11-46T)",
+      "chaîne": "Shimano HG54",
+      "pédalier": "Shimano 34T-165mm"
+    },
+    "équipements": {
+      "freins": "Shimano MT201 180/180mm",
+      "selle": "Prologo Proxim W350 Stn",
+      "tige de selle": "Kind Shock RAGEI"
+    },
+    "roues": {
+      "jantes": "BH Lite Mach1 Trucky 30",
+      "moyeux": "Shimano",
+      "pneus": "Maxxis Forekaster TPI60 29\"X2,35\""
+    },
+    "direction": {
+      "cintre": "BH MTB Alloy Riser 780mm",
+      "poignées": "Ergon GE10",
+      "potence": "BH Ahead",
+      "jeu de direction": "Acros AZX-578 BL"
+    },
+    "collier de selle": "Alloy",
+    "couleur": "Azuloscuro",
+    "référence": "ES804"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 580,
+      "longueur bases(mm)": 464,
+      "longueur du tube de direction (mm)": 120,
+      "angle du tube de direction (°)": 66,
+      "angle du tube de selle (°)": "74,5",
+      "stack (mm)": 624,
+      "reach (mm)": 427
+    },
+    {
+      "taille du cadre": "M",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 605,
+      "longueur bases(mm)": 464,
+      "longueur du tube de direction (mm)": 130,
+      "angle du tube de direction (°)": 66,
+      "angle du tube de selle (°)": "74,5",
+      "stack (mm)": 633,
+      "reach (mm)": 455
+    },
+    {
+      "taille du cadre": "L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 623,
+      "longueur bases(mm)": 464,
+      "longueur du tube de direction (mm)": 140,
+      "angle du tube de direction (°)": 66,
+      "angle du tube de selle (°)": "74,5",
+      "stack (mm)": 642,
+      "reach (mm)": 475
+    }
+  ]
+}

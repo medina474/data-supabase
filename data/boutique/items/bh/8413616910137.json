@@ -1,0 +1,126 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2490100",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 165-177 cm",
+    "L / 175-189 cm",
+    "XL / 185-202 cm"
+  ],
+  "name": "VTT Electrique Tout-Suspendu Bh Bikes Atomx Lynx Carbon Pro 8.7 Shimano Deore XT 12V 720 Wh 29'' Argent/Noir 2023",
+  "marque": "BH",
+  "description": "Vous recherchez un vélo électrique très léger, en carbone et au design innovant, offrant de hautes performances, une géométrie High Performance et une grande autonomie grâce à une batterie de 720 Wh.\r\nL'utilisation de cellules à densité énergétique maximale, disposées en nid d'abeille, a permis de réduire la section du tube diagonal de 18 mm, d'y placer 720 Wh pour une autonomie de 155 km et d'alléger le triangle avant. La batterie est intégrée de façon indépendante dans le cadre et le port de charge est accessible par le haut, pour qu'elle puisse vous accompagner sur tous les parcours, sans jamais vous faire défaut.\r\n\r\nNous avons déplacé la position du moteur vers l'avant pour obtenir un porte-à-faux bas, de façon à pouvoir avoir la taille S sur les modèles de 140 mm et 160 mm, sans sacrifier la géométrie.\r\nPlus de kilomètres, pour aller plus loin et atteindre de nouveaux horizons, en effaçant les limites du VTT que vous connaissiez et en ouvrant un nouveau monde de possibilités à explorer, à puissance maximale.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/100/490100/2490100/4866552",
+  "mpn": "ER872SNNLA",
+  "gtin13": "8413616910137",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-189 cm",
+      "stock": 1,
+      "prix": 4999.99,
+      "mpn": "ER872SNNLA",
+      "sku": "2187194",
+      "gtin13": "8413616910137",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2555638-vtt_electrique_tout_suspendu_bh_bikes_atomx_lynx_carbon_pro_8_7_shimano_deore_xt_12v_720_wh_29___argent_noir_2023"
+    }
+  ],
+  "informations": {
+    "poids": "--",
+    "genre": "Homme",
+    "débattement fourche (mm)": 140,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "140mm Full Susp. Carbon29\" Internal Cable Routing, Acros ICR",
+      "fourche": "FOX 34 FLOAT Rhythm 140mm 15QR"
+    },
+    "amortisseur arrière": "FOX FLOAT DPS Performance",
+    "assistance électrique": {
+      "moteur": "BROSE SMag, X System, 250W, 25 km/h",
+      "batterie": "Système X, 720Wh"
+    },
+    "affichage": "I-Remote BH",
+    "changement de vitesse": "Shimano Deore, 1x12 vitesses",
+    "transmission": {
+      "dérailleur arrière": "Shimano Deore 12sp",
+      "cassette": "Shimano CSM6100 12sp (10-51T)",
+      "chaîne": "Shimano CN-M6100",
+      "pédalier": "Praxis 32T-165mm"
+    },
+    "équipements": {
+      "freins": "Shimano MT520 4 pistons 203mm",
+      "selle": "Prologo Proxim W450 Stn",
+      "tige de selle": "Race Face DP Aeffect 31,6"
+    },
+    "roues": {
+      "jantes": "Race Face Ar 30 TR",
+      "moyeux": "BH",
+      "pneu avant": "Minion TPI120 Terra EXO TR 29 \"X2,5",
+      "pneu arrière": ""
+    },
+    "direction": {
+      "cintre": "Race Face Aeffect Riser 35 780mm",
+      "poignées": "Ergon GE10",
+      "potence": "BH Evo 35 Fit, 31.8 mm",
+      "jeu de direction": "Acros AZX-581 BL."
+    },
+    "collier de selle": "Alloy",
+    "couleur": "Argent/Noir",
+    "référence": "ER872"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 567,
+      "bases de chaîne (mm)": 455,
+      "longueur du tube de direction (mm)": 95,
+      "angle du tube de direction (°)": 66,
+      "angle du tube de selle (°)": 77,
+      "stack (mm)": 603,
+      "reach (mm)": 428
+    },
+    {
+      "taille du cadre": "M",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 595,
+      "bases de chaîne (mm)": 455,
+      "longueur du tube de direction (mm)": 100,
+      "angle du tube de direction (°)": 66,
+      "angle du tube de selle (°)": 77,
+      "stack (mm)": 607,
+      "reach (mm)": 455
+    },
+    {
+      "taille du cadre": "L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 617,
+      "bases de chaîne (mm)": 455,
+      "longueur du tube de direction (mm)": 110,
+      "angle du tube de direction (°)": 66,
+      "angle du tube de selle (°)": 77,
+      "stack (mm)": 616,
+      "reach (mm)": 475
+    },
+    {
+      "taille du cadre": "XL",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 635,
+      "bases de chaîne (mm)": 455,
+      "longueur du tube de direction (mm)": 125,
+      "angle du tube de direction (°)": 66,
+      "angle du tube de selle (°)": 77,
+      "stack (mm)": 630,
+      "reach (mm)": 490
+    }
+  ]
+}

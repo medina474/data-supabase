@@ -1,0 +1,119 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2590237",
+  "tailles": [
+    "S / 155-164 cm",
+    "M / 165-174 cm",
+    "L / 175-184 cm",
+    "XL / 185-195 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Rockrider Stilus E-All Mountain Sram SX 12V 625Wh 29'' Ocre 2023",
+  "marque": "Rockrider",
+  "description": "C'est un vélo parfaitement adapté pour rouler sur des trail techniques. Son moteur Bosch Performance Line CX assure couple et reprise lors des phases d'ascension ou de relance en sortie de virage. Ce VTT électrique tout suspendu (VTTAE) a été sélectionné pour la pratique du All-Mountain.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/237/590237/2590237/5233904",
+  "mpn": "4651899",
+  "gtin13": "8056860090158",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-184 cm",
+      "stock": 1,
+      "prix": 3699.99,
+      "mpn": "4651899",
+      "sku": "2585227",
+      "gtin13": "8056860090158",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2716173-vtt_electrique_tout_suspendu_rockrider_stilus_e_all_mountain_sram_sx_12v_625wh_29___ocre_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-195 cm",
+      "stock": 1,
+      "prix": 3699.99,
+      "mpn": "4651900",
+      "sku": "2585271",
+      "gtin13": "8056860090165",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2716173-vtt_electrique_tout_suspendu_rockrider_stilus_e_all_mountain_sram_sx_12v_625wh_29___ocre_2023"
+    }
+  ],
+  "informations": {
+    "poids": "S - 155-164 cm : 25.4 kg M - 165-174 cm : 25.6 kg L - 175-184 cm : 26 kg XL - 185-195 cm : 26.1 kg",
+    "genre": "Homme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium 6061 tout suspendu, Batterie intégrée serrure AXA,150 mm de débattement 205x65 Trunnion Standard, Axe roue arrière Quicklock 12mm x 178mm Douille de direction conique.",
+      "fourche": "ROCKSHOX 35 GOLD 150 mm, Plongeurs de 35 mm, Axe traversant type 6 pans, Format 15 x 110 mm BOOST, Cartouche Motion Control Ressort pneumatique DebonAir™",
+      "amortisseur": "ROCKSHOX DELUXE Select+ - 205x60 Trunnion"
+    },
+    "assistance électrique": {
+      "moteur": "BOSCH Performance Line CX Gen4, 85 Nm, Assistance max. 340%",
+      "écran": "BOSCH Purion",
+      "batterie": "BOSCH Powertube horizontale 625 Wh"
+    },
+    "transmission": {
+      "manette de dérailleur": "SRAM SX",
+      "dérailleur arrière": "SRAM SX Eagle12 vitesses",
+      "cassette": "SRAM PG-1210 Eagle 11-50 (11-13-15-17-19-22-25-28-32-36-42-50).",
+      "chaîne": "SRAM SX Eagle 124 maillons",
+      "pédalier": "FSA 34 dents, Manivelles FSA 165mm"
+    },
+    "équipements": {
+      "freins": "Freins à disque hydrauliques SRAM G2 4 pistons, Disques Sram G2 200/200mm Fixation 6 trous",
+      "selle": "Selle : DDK MTB",
+      "tige de selle": "Tige de selle télescopique : TRANS-X YSP18P 30,9mm - Débattement 100 mm (S), 125 mm (M), 150mm (L / XL) - Poids : à partir de 650 g - Collier de selle : aluminium, diamètre 34,9 mm"
+    },
+    "roues": {
+      "jantes": "Roues Tubeless Ready SUN RINGLE Duroc 30 29\" COMP - Largeur int 27 mm, 32 rayons, Corps de cassette HD - Roulements étanches - Axes BOOST, 110 x 15 mm à l'avant et 148 x 12mm à l'arrière",
+      "pneus": "VITTORIA MARTELLO - Technologie 2PLY - Flanc Noir - 29\" x 2,6\""
+    },
+    "direction": {
+      "cintre": "Matière : Aluminium - Diamètre : 35 mm - Largeur : 760 mm - Rise : 20 mm - Upsweep : 3° - Backsweep : 6°",
+      "potence": "Matière : Aluminium - Angle : 7° - Taille : 55 mm",
+      "jeu de direction": "FSA 44/55.95 _ 39.78"
+    },
+    "accessoires": "Sonnette, éclairages, catadioptres de roues (réflecteurs) et pédales."
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 400,
+      "longueur base (mm)": 485,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 70.4,
+      "reach (mm)": 403.3
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 440,
+      "longueur base (mm)": 485,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 70.4,
+      "reach (mm)": 423.3
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 480,
+      "longueur base (mm)": 485,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 70.4,
+      "reach (mm)": 443.3
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 510,
+      "longueur base (mm)": 485,
+      "douille de direction (mm)": 135,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 70.4,
+      "reach (mm)": 456.9
+    }
+  ]
+}

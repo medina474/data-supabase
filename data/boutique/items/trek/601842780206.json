@@ -1,0 +1,121 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2495018",
+  "tailles": [
+    "S / 155-165 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Trek Rail 9.7 Shimano SLX / XT 12V 625 Wh 29'' Gris Gén 4",
+  "marque": "Trek",
+  "description": "Le Rail 9.7 est un VTTAE en carbone à long débattement qui vous permet d’arriver plus rapidement aux tronçons qui vous enchantent. Il est équipé d’un cadre amélioré qui donne une meilleure profondeur pour une très bonne stabilité sur le trail, et d’un moteur électrique Bosch à système intelligent muni d’une batterie musclée de 750 Wh pour faciliter les montées, et donner l’impression de tours sans fin.\r\n\r\nUn cadre OCLV Mountain Carbon et une batterie amovible intégrée de 625 Wh, une fourche RockShox Domain de 160 mm, un débattement arrière de 150 mm grâce à un amortisseur RockShox Deluxe Select+, et le tout dernier système intelligent Performance Line CX de Bosch, capable d’assurer des vitesses jusqu’à 25 km/h, et la nouvelle commande LED Remote avec Bluetooth® pour une connectivité aisée et un suivi des activités grâce à l’application eBike Flow. Une transmission monoplateau 12 vitesses Shimano SLX/XT, une tige de selle télescopique Bontrager Line, de puissants freins à 4 pistons pour une plus grande confiance en descente, et des roues Bontrager Line Comp 30 de 29 pouces entièrement tubeless (produit anti-crevaison compris).\r\n\r\nLe Rail 9.7 offre les performances du carbone à un excellent prix. Il est doté de composants adaptés au trail et d’une puissante transmission Bosch, si bien que vous pourrez vous lancer dans de folles descentes et remontez tout aussi vite grâce au moteur pour un nouveau tour.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/18/495018/2495018/4888892",
+  "mpn": "5278157",
+  "gtin13": "601842780206",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-165 cm",
+      "stock": 40,
+      "prix": 6799,
+      "mpn": "5278157",
+      "sku": "2358973",
+      "gtin13": "601842780206",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2561770-vtt_electrique_tout_suspendu_trek_rail_9_7_shimano_slx___xt_12v_625_wh_29___gris_gen_4"
+    }
+  ],
+  "informations": {
+    "poids": "M - 24,65 kg",
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 160,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano SLX XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Cadre principal en OCLV Mountain Carbon, tube de direction abaissé de 1,8 po, compatible avec le contrôleur système de Bosch, batterie intégrée amovible (RIB), Knock Block 2.0, acheminement interne guidé, tube de selle de 34,9 mm, basculeur en magnésium, Motor Armor, Mino Link, ABP, Boost148, axe traversant de 12 mm, débattement de 150 mm",
+      "fourche": "RockShox Domain RC, ressort DebonAir, amortisseur Motion Control, blocage, pivot conique surdimensionné 1,8 pouces, déport de 44 mm, tête de fourche surdimensionnée pour VTTAE, Boost110, Maxle Stealth 15 mm, débattement de 160 mm",
+      "amortisseur": "RockShox Deluxe Select+ RT, 230x57,5 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Performance Line CX, Système intelligent, corps du moteur en magnésium, 85 Nm",
+      "batterie": "Taille S : Bosch PowerTube 625 Wh, système intelligent Taille M, L, XL : Bosch PowerTube 750 Wh, système intelligent"
+    },
+    "écran ": "Commande à distance Bosch LED, smart system",
+    "transmission": {
+      "manette de dérailleur": "Shimano SLX M7100, 12 vitesses",
+      "dérailleur arrière": "Shimano XT M8100, chape longue, 12 vitesses",
+      "cassette": "Shimano SLX M7100, 10-51 dents, 12 vitesses",
+      "chaîne": "Shimano SLX M7100, 12 vitesses",
+      "pédalier": "E*thirteen E*spec Plus, 165 mm de long, plateau E*thirteen E*spec, alliage 34 dents, ligne de chaîne 55 mm"
+    },
+    "équipements": {
+      "freins": "Freins à disque hydrauliques Shimano, 4 pistons, levier M6100, étrier M6120, disques Shimano RT76, 6 trous, 203/203 mm ou Freins à disque hydrauliques Sram Code R, 4 pistons, disques Sram CenterLine, 6 trous, bord arrondi, 200/200 mm",
+      "selle": "Bontrager Arvada, rails en acier, largeur de 138 mm",
+      "tige de selle": "Taille S : TranzX JD-YSP39, débattement de 100 mm, acheminement interne, 34,9 mm Taille M : TranzX JD-YSP39, débattement de 150 mm, acheminement interne, 34,9 mm Taille L, XL : TranzX JD-YSP39, débattement de 170 mm, acheminement interne, 34,9 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Line Comp 30, Tubeless Ready, 28 trous, valve Presta",
+      "pneus": "Bontrager XR5 Team Issue, Tubeless Ready, tringle en aramide, 120 tpi, 29x2,5 pouces"
+    },
+    "direction": {
+      "cintre": "Bontrager Comp, alliage, 31,8 mm, élévation de 15 mm, largeur de 780 mm",
+      "poignées": "Bontrager XR Trail Comp, nylon lock-on",
+      "potence": "Bontrager Rhythm Comp, 31,8 mm, Knock Block, 0 degré, longueur de 50 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 579,
+      "longueur base (mm)": 448,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 64.6,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1213,
+      "stack (mm)": 625,
+      "reach (mm)": 436
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 448,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 64.6,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1236,
+      "stack (mm)": 629,
+      "reach (mm)": 456
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 638,
+      "longueur base (mm)": 448,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 64.6,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1277,
+      "stack (mm)": 643,
+      "reach (mm)": 491
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 671,
+      "longueur base (mm)": 448,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 64.6,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1313,
+      "stack (mm)": 656,
+      "reach (mm)": 521
+    }
+  ]
+}

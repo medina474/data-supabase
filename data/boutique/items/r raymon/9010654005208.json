@@ -1,0 +1,137 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2520898",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-175 cm",
+    "L / 175-185 cm",
+    "XL / 185-195 cm"
+  ],
+  "name": "VTT Electrique Tout Suspendus R Raymon TrailRay 140E 9.0 Tektro 9V 720 Wh 29'' Bleu 2023",
+  "marque": "R Raymon",
+  "description": "Avec le TrailRay 140E 9.0, un vélo vraiment polyvalent équipé de pneus 29\" fait son entrée dans le secteur du trail. Le E-MTB est équipé d'un moteur central Yamaha PW-X3 (couple maximal de 85 Nm), d'une batterie Simplo intégrée de 720 Wh, d'un écran LCD Yamaha, d'une transmission à 10 vitesses et de nombreux autres équipements haut de gamme. Mais la pièce maîtresse est le nouveau cadre en aluminium, qui n'apporte pas seulement un tout nouveau design. Grâce à des bases raccourcies et à une structure arrière rigide, la conduite du TrailRay 140E 9.0 est relativement neutre. La fourche suspendue RockShox Domain, avec un débattement de 150 mm, facilite la conduite en montée comme en descente.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/898/520898/2520898/5094803",
+  "mpn": "4500010047",
+  "gtin13": "9010654005208",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 1,
+      "prix": 3699.99,
+      "mpn": "4500010044",
+      "sku": "2179629",
+      "gtin13": "9010654005192",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2604770-vtt_electrique_tout_suspendus_r_raymon_trailray_140e_9_0_tektro_9v_720_wh_29___bleu_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 1,
+      "prix": 3699.99,
+      "mpn": "4500010047",
+      "sku": "2180041",
+      "gtin13": "9010654005208",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2604770-vtt_electrique_tout_suspendus_r_raymon_trailray_140e_9_0_tektro_9v_720_wh_29___bleu_2023"
+    }
+  ],
+  "informations": {
+    "poids maximum": "130 kg",
+    "genre": "Homme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Panaché 9V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : 29\", alliage 6061, Batterie intégrée, Boost, 140 mm",
+      "fourche": "RockShox Domain R, DebonAir, Air, 150 mm, conique",
+      "amortisseur": "RockShox Deluxe Select, Air, 230x57.5 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Yamaha PW-X3, 250 W, 85 Nm",
+      "batterie": "Simplo, 720 Wh, 36 V"
+    },
+    "ecran": "Yamaha Display A, écran LCD, Micro-USB",
+    "levier de vitesse": "Tektro SL-M530R",
+    "transmission": {
+      "dérailleur arrière": "Tektro RD-M550, 9-S",
+      "pédalier": "R Raymon EC40, Aluminium forgé, ISIS / R Raymon, Narrow Wide, 38 T",
+      "chaîne": "KMC e10S",
+      "cassette": "Tektro CS-M530, 11-50 T"
+    },
+    "roues": {
+      "jantes": "Mach 1 TRUCKY 30, oculaire, Tubeless Ready",
+      "moyeu avant": "R Raymon DA210F, 6 trous, 15x110 mm, Thru axle ",
+      "moyeu arrière": "R Raymon DA210R, 6 trous, 12x148 mm, Thru axle.",
+      "pneus": "Continental Trail King, 60-622, 29x2.4,"
+    },
+    "équipements": {
+      "freins": "SRAM DB8, 4 pistons, Frein à disque hydraulique, SRAM Centerline, 200 mm, 6 trous",
+      "selle": "R Raymon MTB",
+      "tige de selle": "R Raymon, 34.9 mm, Tige de selle télescopique (Dropper Post)"
+    },
+    "tige": "R Raymon 35, 0 °, Ahead",
+    "direction": {
+      "cintre": "R Raymon Riser 35 mm, 780 mm, inclinaison : 9 °, Montée : 20 mm",
+      "poignées": "R Raymon MTB, poignées vissées"
+    },
+    "couleurs": "Gris"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 564,
+      "tube de direction (mm)": 110,
+      "longueur de la base (mm)": 460,
+      "angle de braquage (°)": 65,
+      "angle du tube de selle (°)": 72,
+      "empattement (mm)": 1211,
+      "stack (mm)": 629,
+      "reach (mm)": 430
+    },
+    {
+      "taille du cadre": "M",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 585,
+      "tube de direction (mm)": 115,
+      "longueur de la base (mm)": 460,
+      "angle de braquage (°)": 65,
+      "angle du tube de selle (°)": 72,
+      "empattement (mm)": 1233,
+      "stack (mm)": 634,
+      "reach (mm)": 450
+    },
+    {
+      "taille du cadre": "L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 611,
+      "tube de direction (mm)": 120,
+      "longueur de la base (mm)": 460,
+      "angle de braquage (°)": 65,
+      "angle du tube de selle (°)": 72,
+      "empattement (mm)": 1260,
+      "stack (mm)": 638,
+      "reach (mm)": 475
+    },
+    {
+      "taille du cadre": "XL",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 638,
+      "tube de direction (mm)": 125,
+      "longueur de la base (mm)": 460,
+      "angle de braquage (°)": 65,
+      "angle du tube de selle (°)": 72,
+      "empattement (mm)": 1287,
+      "stack (mm)": 643,
+      "reach (mm)": 500
+    }
+  ]
+}

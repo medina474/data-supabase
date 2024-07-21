@@ -1,0 +1,109 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2678996",
+  "tailles": [
+    "M / 165-177 cm",
+    "L / 175-189 cm"
+  ],
+  "name": "VTT Electrique Tout-Suspendu BH Atom Lynx Pro 8.2 Shimano Deore 12V 720 Wh 29'' Rouge",
+  "marque": "BH",
+  "description": "Le BH Atom Lynx Pro 8.2, un EMTB de 140mm de debattement avec un maximum de puissance pour \"rouler\" sur tout type de sentier.\r\nUne géométrie sur laquelle vous pouvez compter en cas de besoin, quand les choses se compliquent.\r\n\r\nL'accès à la batterie par le haut du tube diagonal offre une excellente ergonomie.\r\nLa batterie, logée dans le tube diagonal dont la section est la plus réduite du marché, offre une capacité de 720 Wh et une autonomie de jusqu'à 155 KM. La charge, qui permet d’atteindre rapidement 80% de la capacité maximale de la batterie, peut se faire soit via un port intègre dans le cadre ou en se raccordant directement à la batterie.\r\n\r\nLe système de suspension split pivot permet d’aborder n’importe quel terrain dans n’importe quelle condition. Grace a « l’antisquat », qui garantit l’efficacité de pédalage, et au « brake-squat », qui assure un freinage optimal.\r\n\r\nCompact et personnalisable, il propose différents profils et s’adapte à une grande variété de cintres et câblages. Son écran compact et simple à lire offre un affichage dynamique lors des changements de niveaux d’assistance.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/996/678996/2678996/5403250",
+  "mpn": "EA823RWRMD",
+  "gtin13": "8413616952779",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-177 cm",
+      "stock": 1,
+      "prix": 3999,
+      "mpn": "EA823RWRMD",
+      "sku": "2677968",
+      "gtin13": "8413616952779",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2803247-vtt_electrique_tout_suspendu_bh_atom_lynx_pro_8_2_shimano_deore_12v_720_wh_29___rouge"
+    }
+  ],
+  "informations": {
+    "genre": "FemmeHomme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore M6100 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : 140 mm Full Suspension Alloy 29\" internal cable routing",
+      "fourche": "RockShox Recon RL 150mm 15QR",
+      "amortisseur": "RockShox Deluxe Debonair"
+    },
+    "assistance électrique": {
+      "moteur": "BH1E, 80 Nm, 25 km/h",
+      "batterie": "720Wh"
+    },
+    "ecran": "BH X Display Lite",
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore, 1x12 vitesses",
+      "dérailleur arrière": "Shimano Deore, 12 vitesses",
+      "cassette": "Shimano CS-M6100, 12 vitesses, 10-51 dts",
+      "chaîne": "Shimano M6100",
+      "pédalier": "Praxis 34 dts -165mm"
+    },
+    "équipements": {
+      "freins": "Shimano MT420, 4 pistons, 203/203mm",
+      "selle": "Prologo Proxim W450 Stn",
+      "tige de selle": "Kind Shock RAGEI"
+    },
+    "roues": {
+      "jantes": "BH Lite Mach1 Trucky 30",
+      "pneu avant": "Minion TP120 EXO TR 29x2.5",
+      "pneu arrière": ""
+    },
+    "direction": {
+      "cintre": "BH MTB Alloy Riser 780mm",
+      "poignées": "Ergon GE10",
+      "potence": "BH Ahead",
+      "jeu de direction": "Acros AZX-578 BL"
+    },
+    "collier de selle": "Alloy",
+    "référence": "EA823"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 580,
+      "bases de chaîne (mm)": 464,
+      "longueur du tube de direction (mm)": 120,
+      "angle du tube de direction (°)": 66,
+      "angle du tube de selle (°)": 74.5,
+      "stack (mm)": 624,
+      "reach (mm)": 427
+    },
+    {
+      "taille du cadre": "M",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 605,
+      "bases de chaîne (mm)": 464,
+      "longueur du tube de direction (mm)": 130,
+      "angle du tube de direction (°)": 66,
+      "angle du tube de selle (°)": 74.5,
+      "stack (mm)": 633,
+      "reach (mm)": 455
+    },
+    {
+      "taille du cadre": "L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 623,
+      "bases de chaîne (mm)": 464,
+      "longueur du tube de direction (mm)": 140,
+      "angle du tube de direction (°)": 66,
+      "angle du tube de selle (°)": 74.5,
+      "stack (mm)": 642,
+      "reach (mm)": 475
+    }
+  ]
+}
